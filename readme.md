@@ -164,6 +164,9 @@ Selected government websites that provide downloadable data (rather than being a
 * [Swiss OGD strategy](https://www.bfs.admin.ch/bfs/en/home/services/ogd/documentation.assetdetail.16164831.html)
 * [Digitale Verwaltung Schweiz](https://www.digitale-verwaltung-schweiz.ch/)
 * [Swiss DCAT Standard](https://www.ech.ch/de/ech/ech-0200/1.0) - eCH-0200 DCAT-Profile for Swiss data portals.
+* [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) - Repository that contains methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
+* [SRF Data](https://srfdata.github.io/) - Code and data from [SRF Data](https://twitter.com/srfdata), the data-driven journalism unit of Swiss Radio and TV (SRF).
+* [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team.
 
 
 <a name="socialmedia"></a>
