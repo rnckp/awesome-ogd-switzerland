@@ -109,6 +109,8 @@ Selected government websites that provide downloadable data (rather than being a
 * [geocat](https://www.geocat.ch) - Geographic catalog. Operated by swisstopo. Provides geodata, geoservices, and models of federal offices, cantons, municipalities, research institutes, private companies, and more. 
 * [geobasisdaten.ch](https://geobasisdaten.ch/) - Geo data portal provided by the [«Konferenz der kantonalen Geoinformations- und Katasterstellen»](https://www.kgk-cgc.ch/). In Switzerland, the basic geodata catalog is a catalog-like listing of all geodata that have been collected by a legal authority by linking them to underlying legal enactments. In addition to a visualization of the geo data recorded by geo information law, its function is the database-specific assignment of responsible bodies and other legally relevant attributes. [More information here](https://www.kgk-cgc.ch/geobasisdaten).
 * [geodienste.ch](https://geodienste.ch/) - The intercantonal portal for obtaining geodata and services. Basic geodata are aggregated and made available under the responsibility of the cantons and municipalities.
+* [BFS Plattform Statatlas](https://www.atlas.bfs.admin.ch/de/index.html) - The Federal Statistical Office (BFS) offers a number of  specialist atlases in addition to the central statistical atlas of Switzerland, which provide more detailed information on special areas of life from a statistical point of view. With the help of numerous interactive maps and graphics as well as the data behind them, a wide variety of geographical processes and relationships can be easily analyzed and evaluated.
+
 
 ### Cantonal and city level
 * [Kanton Appenzell Ausserrhoden](https://www.geoportal.ch/ktar)
