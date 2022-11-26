@@ -1,6 +1,7 @@
 # Awesome Open Government Data Switzerland [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A manually curated list of Open Government Data (OGD) portals, websites, APIs, tools and other related ressources in Switzerland. Relevant links to international websites are listed as well.
+
     
 ## Contents
 
@@ -43,6 +44,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 * [St. Gallen](https://stada2.sg.ch/) - Data shop of the Fachstelle Statistik St. Gallen.
 * [Thurgau](https://data.tg.ch/explore)
 * [Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/)
+* [Zürich «Gemeindeportrait»](https://www.web.statistik.zh.ch/gpv2/) – Web application providing a comprehensive set of indicators which can be exported to various formats.
 
 ### City-level data portals
 * [Zürich City](https://data.stadt-zuerich.ch/)
@@ -99,6 +101,8 @@ Selected government websites that provide downloadable data (rather than being a
 * [DODIS](https://dodis.ch/search) - Swiss diplomatic documents.
 * [Schweizer Landesmuseum](https://sammlung.nationalmuseum.ch/de/maincategory) 
 * [Federal Archives](https://www.recherche.bar.admin.ch/recherche/) - Documents about the history of Switzerland since 1798.
+* [Schweizerisches Idiotikon](https://idiotikon.ch/projekte) - Comprehensive documentation of the Swissgerman dialect (not an official government entity). 
+* [Ortsnamen.ch](https://www.ortsnamen.ch/de/) - Comprehensive catalog of Swiss location names (project of Schweizerisches Idiotikon). [Searchable map](https://search.ortsnamen.ch/de) and [REST-API](https://search.ortsnamen.ch/static/api/swagger/index.html) available as well.
 
 
 <a name="geodata"></a>
