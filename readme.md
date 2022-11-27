@@ -130,6 +130,14 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Wallis](https://www.vs.ch/de/web/egeo)
 * [Kanton Zug](https://www.zg.ch/behoerden/direktion-des-innern/geoportal)
 
+
+### OpenStreetMap
+* [Swiss OpenStreetMap Association (SOSM)](https://sosm.ch/) - Association that supports projects, people, companies and organisations in Switzerland that collect, use, process and distribute open and free geo-data. 
+* [OpenStreetMap CH](https://osm.ch/) - OpenStreetMap dataset limited to Switzerland, and tools based on this reduced dataset (provided by [SOSM](https://sosm.ch/)). Hourly updated [extracts here](https://planet.osm.ch/).  
+* [BBBike's OSM download server](https://download.bbbike.org/osm/) - Data extracts from the OpenStreetMap project for more than 200 areas world wide in various formats. E.g. extracts for [Zurich here](https://download.bbbike.org/osm/bbbike/Zuerich/).
+* [Geofabrik's OSM download server](https://download.geofabrik.de/europe/switzerland.html) - Helpful OpenStreetMap data extracts for Switzerland (e.g. as ESRI shapefiles). Geofabrik's inspiring [portfolio of geo data projects](https://www.geofabrik.de/projects/) is definitely worth a look too.
+
+
 <a name="apis"></a>
 ## APIs
 * [opendata.swiss](https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html)
@@ -217,6 +225,8 @@ Interesting international data portals and websites
 * OKFN Data Portals [[Website](https://dataportals.org/)] [[GitHub repo](https://github.com/okfn/dataportals.org)] - Very large and comprehensive list of data sources maintained by the [Open Knowledge Foundation](https://okfn.org/). 
 * Open Data Inception [[Database](https://data.opendatasoft.com/explore/dataset/open-data-sources%40public/table/?sort=code_en)] [[Data Map](https://opendatainception.io/)] - Very large and comprehensive list of data sources maintained by the data portal vendor [Opendatasoft](https://www.opendatasoft.com/). See [this article for background information.](https://www.opendatasoft.com/en/blog/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community/) 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) - GitHub list with many more links to public government data sets.
+* [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software.
+
 
 
 ### Miscellaneous
