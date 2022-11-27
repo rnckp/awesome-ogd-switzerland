@@ -69,6 +69,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Schweizerischer Nationalfonds SNF](https://data.snf.ch/datasets) - Swiss National Science Foundation.
 * [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm)
 * [Zentraler Firmenindex ZEFIX](https://www.zefix.admin.ch/de/search/entity/welcome) - API [here](https://www.zefix.admin.ch/ZefixPublicREST/swagger-ui/index.html).
+* [Amtsblattportal](https://amtsblattportal.ch/#!/home) - Official Gazettes Portal. A publishing centre for entities which publish official and commercially relevant publications in the Swiss Official Gazette of Commerce (SOGC) and in Official Cantonal Gazettes. Data can be imported and exported using a [REST API](https://amtsblattportal.ch/docs/api/) too. 
 
 
 ### Cantonal and city level
