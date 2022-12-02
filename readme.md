@@ -66,7 +66,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Fedlex – Publikationsplattform des Bundesrechts](https://www.fedlex.admin.ch/de/home) - Publication platform for federal law.
 * [Konjunkturforschungsstelle ETH Zürich](https://kof.ethz.ch/daten.html)
 * [FORS SWISSUbase](https://www.swissubase.ch/de/) - Cross-disciplinary data repository for Swiss universities.
-* [Schweizerischer Nationalfonds SNF](https://data.snf.ch/datasets) - Swiss National Science Foundation.
+* [Schweizerischer Nationalfonds SNF](https://data.snf.ch/datasets) - Swiss National Science Foundation. GitHub repositories with SNF's data stories [here](https://github.com/snsf-data).
 * [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm)
 * [Zentraler Firmenindex ZEFIX](https://www.zefix.admin.ch/de/search/entity/welcome) - API [here](https://www.zefix.admin.ch/ZefixPublicREST/swagger-ui/index.html).
 * [Amtsblattportal](https://amtsblattportal.ch/#!/home) - Official Gazettes Portal. A publishing centre for entities which publish official and commercially relevant publications in the Swiss Official Gazette of Commerce (SOGC) and in Official Cantonal Gazettes. Data can be imported and exported using a [REST API](https://amtsblattportal.ch/docs/api/) too. 
@@ -159,6 +159,9 @@ Selected government websites that provide downloadable data (rather than being a
 * [opendata.ch](https://opendata.ch/de/) - Swiss section of the Open Knowledge Foundation.
 * [opendata.ch](https://opendata.ch/events/) - List of hackathons and events.
 * [Open Data Beer](https://opendatabeer.ch/)
+* [öffentlichkeitsgesetz.ch](https://www.oeffentlichkeitsgesetz.ch/deutsch/) - Forum for transparency in administration.
+
+
 
 
 
