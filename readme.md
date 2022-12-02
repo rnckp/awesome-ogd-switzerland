@@ -13,6 +13,7 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 * [Newsletters](#newsletters)
 * [Podcasts](#podcasts)
 * [Miscellaneous](#miscellaneous)
+* [Media](#media)
 * [Social Media](#socialmedia)
 * [International](#international)
 
@@ -160,6 +161,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [opendata.ch](https://opendata.ch/events/) - List of hackathons and events.
 * [Open Data Beer](https://opendatabeer.ch/)
 * [öffentlichkeitsgesetz.ch](https://www.oeffentlichkeitsgesetz.ch/deutsch/) - Forum for transparency in administration.
+* [Parldigi](https://www.parldigi.ch/de/) - Parlamentarische Gruppe Digitale Nachhaltigkeit.
 
 
 
@@ -181,8 +183,14 @@ Selected government websites that provide downloadable data (rather than being a
 ## Miscellaneous
 * [Swiss OGD information](https://www.bfs.admin.ch/bfs/en/home/services/ogd.html)
 * [Swiss OGD strategy](https://www.bfs.admin.ch/bfs/en/home/services/ogd/documentation.assetdetail.16164831.html)
+* [Geschäftsstelle OGD BFS](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/geschaeftsstelle.html) - This unit coordinates measures to implement the OGD strategy of the Swiss government and provides support to both data publisher and users.
 * [Digitale Verwaltung Schweiz](https://www.digitale-verwaltung-schweiz.ch/)
 * [Swiss DCAT Standard](https://www.ech.ch/de/ech/ech-0200/1.0) - eCH-0200 DCAT-Profile for Swiss data portals.
+
+
+<a name="media"></a>
+## Media
+Swiss data journalism teams.
 * [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) - Repository that contains methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
 * [SRF Data](https://srfdata.github.io/) - Code and data from [SRF Data](https://twitter.com/srfdata), the data-driven journalism unit of Swiss Radio and TV (SRF).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team.
