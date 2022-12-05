@@ -49,7 +49,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 
 
 ### City-level data portals
-* [Zürich City](https://data.stadt-zuerich.ch/)
+* [Zürich City](https://data.stadt-zuerich.ch/) – [[GitHub]](https://github.com/opendatazurich)
 * [Zürich Tourismus](https://zt.zuerich.com/de/open-data)
 
 
@@ -86,7 +86,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
 * [Kanton Jura](https://stat.jura.ch/)
 * [Stadt Lausanne](https://www.lausanne.ch/officiel/statistique.html)
-+ [Stadt Lugano](https://statistica.lugano.ch/site/dati-ogd/)
+* [Stadt Lugano](https://statistica.lugano.ch/site/dati-ogd/)
 * [Kanton Neuchâtel](https://www.ne.ch/autorites/DFS/STAT/Pages/accueil.aspx)
 * [Kanton Schaffhausen](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Wirtschaft--Statistik-und-Tourismus-3874-DE.html)
 * [Kanton Solothurn](https://so.ch/verwaltung/finanzdepartement/amt-fuer-finanzen/statistikportal/)
@@ -196,8 +196,8 @@ Selected government websites that provide downloadable data (rather than being a
 ## Media
 Swiss data journalism teams.
 * [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) - Repository that contains methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
-* [SRF Data](https://srfdata.github.io/) - Code and data from [SRF Data](https://twitter.com/srfdata), the data-driven journalism unit of Swiss Radio and TV (SRF).
-* [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team.
+* [SRF Data](https://srfdata.github.io/) - Code and data from [SRF Data](https://twitter.com/srfdata), the data-driven journalism unit of Swiss Radio and TV (SRF) [[Publications and projects]](https://www.srf.ch/news/srf-data).
+* [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team [[Projects of Ressort «Daten & Interaktiv»]](https://interaktiv.tagesanzeiger.ch/).
 
 
 <a name="socialmedia"></a>
