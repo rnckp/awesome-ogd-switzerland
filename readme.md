@@ -4,7 +4,6 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 
     
 ## Contents
-
 * [Data Portals](#dataportals)
 * [Data Sources](#datasources)
 * [Geo Data](#geodata)
@@ -23,8 +22,9 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 
 Portals and data shops that provide access to Swiss Open Government Data. Listed in this section are «true» data shops rather than websites with download links only. 
 
+
 ### National data portals
-* [opendata.swiss](https://opendata.swiss/de) - Central catalog of Swiss Open Government Data, operated by the Federal Statistical Office (BFS). Most important entry point in all things OGD in Switzerland.
+* [opendata.swiss](https://opendata.swiss/de) - Central catalog of Swiss Open Government Data, operated by the Federal Statistical Office (BFS). **Most important entry point to all things OGD in Switzerland.**
 * [BFS STAT-TAB](https://www.pxweb.bfs.admin.ch/pxweb/en/) - This interactive database of the [Federal Statistical Office](https://www.bfs.admin.ch/bfs/en/home/services.html) provides detailed statistical data and enables simple, individual data queries. The tables produced can be exported in various formats.
 * [Schweizer Parlament](https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services) - Open Data and web services of Swiss Parliament.
 * [Schweizerische Nationalbank SNB](https://data.snb.ch/de) - Swiss National Bank data portal.
@@ -47,12 +47,15 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 * [Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/)
 * [Zürich «Gemeindeportrait»](https://www.web.statistik.zh.ch/gpv2/) – Web application providing a comprehensive set of indicators which can be exported to various formats.
 
+
 ### City-level data portals
 * [Zürich City](https://data.stadt-zuerich.ch/)
 * [Zürich Tourismus](https://zt.zuerich.com/de/open-data)
 
+
 <a name="datasources"></a>
 ## Data sources 
+
 Selected government websites that provide downloadable data (rather than being a full-featured data shop).
 
 
@@ -74,7 +77,6 @@ Selected government websites that provide downloadable data (rather than being a
 
 
 ### Cantonal and city level
-
 * [Kanton Basel Stadt](https://www.statistik.bs.ch/)
 * [Kanton Basel Land](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
 * [Kanton Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html) - Statistical Data.
@@ -84,6 +86,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
 * [Kanton Jura](https://stat.jura.ch/)
 * [Stadt Lausanne](https://www.lausanne.ch/officiel/statistique.html)
++ [Stadt Lugano](https://statistica.lugano.ch/site/dati-ogd/)
 * [Kanton Neuchâtel](https://www.ne.ch/autorites/DFS/STAT/Pages/accueil.aspx)
 * [Kanton Schaffhausen](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Wirtschaft--Statistik-und-Tourismus-3874-DE.html)
 * [Kanton Solothurn](https://so.ch/verwaltung/finanzdepartement/amt-fuer-finanzen/statistikportal/)
@@ -109,6 +112,7 @@ Selected government websites that provide downloadable data (rather than being a
 
 <a name="geodata"></a>
 ## Geo Data
+
 
 ### National
 * [swisstopo](https://www.swisstopo.admin.ch/de/geodata.html) - National geo data portal, provided by the Federal Office of Topography (Bundesamt für Landestopographie).
@@ -164,9 +168,6 @@ Selected government websites that provide downloadable data (rather than being a
 * [Parldigi](https://www.parldigi.ch/de/) - Parlamentarische Gruppe Digitale Nachhaltigkeit.
 
 
-
-
-
 <a name="newsletters"></a>
 ## Newsletters
 * [Bundesamt für Statistik](https://scnem.com/a.php?sid=ffnuk.16937bf,f=999)
@@ -186,6 +187,9 @@ Selected government websites that provide downloadable data (rather than being a
 * [Geschäftsstelle OGD BFS](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/geschaeftsstelle.html) - This unit coordinates measures to implement the OGD strategy of the Swiss government and provides support to both data publisher and users.
 * [Digitale Verwaltung Schweiz](https://www.digitale-verwaltung-schweiz.ch/)
 * [Swiss DCAT Standard](https://www.ech.ch/de/ech/ech-0200/1.0) - eCH-0200 DCAT-Profile for Swiss data portals.
+* [adminR Code Base](https://github.com/swiss-adminR/pkgs) - A curated list of R packages & R code created and used by Swiss public institutions.
+* [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by Forschungsstelle Digitale Nachhaltigkeit of the University of Bern[[Videos of 2021 lectures]](https://bbb.ch-open.ch/b/mat-rd4-ff7)) [[Open Data Showroom]](https://opendata.iwi.unibe.ch/?orderBy=-date_publish).
+* [Professional training Open Government Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-und-open-government-data/) - Offering of Uni Bern in cooperation with the OGD team of the Federal Office of Statistics BFS.
 
 
 <a name="media"></a>
@@ -207,9 +211,9 @@ Interesting international data portals and websites
 
 ### Data portals and sources
 * [European Union](https://data.europa.eu/en) - Official data portal of the European Commission.
-* [Eurostat](https://ec.europa.eu/eurostat/web/main/data/database) - Database of the Statistical Office of the European Union.
+* [Eurostat](https://ec.europa.eu/eurostat/web/main/data) - Data portal of the Statistical Office of the European Union [[Database]](https://ec.europa.eu/eurostat/web/main/data/database) [[Geo Data]](https://ec.europa.eu/eurostat/web/gisco/overview) [[Statistical Atlas]](https://ec.europa.eu/statistical-atlas/viewer/?config=RYB-2022.json)[[Chloropleth Map Generator]](https://ec.europa.eu/eurostat/web/gisco/gisco-activities/map-generator) [[Census Data]](https://ec.europa.eu/CensusHub2/query.do?step=selectHyperCube&qhc=false) [[Experimental Statistics]](https://ec.europa.eu/eurostat/web/experimental-statistics).
 * [Germany](https://www.govdata.de/) - Germany's main OGD data portal.
-* [Germany](https://www-genesis.destatis.de/genesis/online) - Database of the Federal Statistical Office of Germany.
+* [Germany](https://www-genesis.destatis.de/genesis/online) - Database of the Federal Statistical Office of Germany [[Experimental Statistics]](https://www.destatis.de/EN/Service/EXDAT/_node.html).
 * [Geo Portal Germany](https://www.geoportal.de/)
 * [France](https://www.data.gouv.fr/en/datasets/)
 * [Italy](https://www.dati.gov.it/)
@@ -233,12 +237,12 @@ Interesting international data portals and websites
 * [Hongkong](https://data.gov.hk/en/)    
 * [India](https://data.gov.in/)  
 
+
 ### Curated lists
 * OKFN Data Portals [[Website](https://dataportals.org/)] [[GitHub repo](https://github.com/okfn/dataportals.org)] - Very large and comprehensive list of data sources maintained by the [Open Knowledge Foundation](https://okfn.org/). 
 * Open Data Inception [[Database](https://data.opendatasoft.com/explore/dataset/open-data-sources%40public/table/?sort=code_en)] [[Data Map](https://opendatainception.io/)] - Very large and comprehensive list of data sources maintained by the data portal vendor [Opendatasoft](https://www.opendatasoft.com/). See [this article for background information.](https://www.opendatasoft.com/en/blog/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community/) 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) - GitHub list with many more links to public government data sets.
 * [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software.
-
 
 
 ### Miscellaneous
