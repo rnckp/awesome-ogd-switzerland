@@ -188,7 +188,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Digitale Verwaltung Schweiz](https://www.digitale-verwaltung-schweiz.ch/)
 * [Swiss DCAT Standard](https://www.ech.ch/de/ech/ech-0200/1.0) - eCH-0200 DCAT-Profile for Swiss data portals.
 * [adminR Code Base](https://github.com/swiss-adminR/pkgs) - A curated list of R packages & R code created and used by Swiss public institutions.
-* [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by Forschungsstelle Digitale Nachhaltigkeit of the University of Bern [[Videos of 2021 lectures]](https://bbb.ch-open.ch/b/mat-rd4-ff7)) [[Open Data Showroom]](https://opendata.iwi.unibe.ch/?orderBy=-date_publish).
+* [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by Forschungsstelle Digitale Nachhaltigkeit of the University of Bern [[Videos of 2021 lectures]](https://bbb.ch-open.ch/b/mat-rd4-ff7) [[Open Data Showroom]](https://opendata.iwi.unibe.ch/?orderBy=-date_publish).
 * [Professional training Open Government Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-und-open-government-data/) - Offering of Uni Bern in cooperation with the OGD team of the Federal Office of Statistics BFS.
 
 
