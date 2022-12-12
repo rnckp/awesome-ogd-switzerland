@@ -100,6 +100,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Open Energy Data CH](https://github.com/OpenEnergyData/energy-data-ch) - List of open datasets related to energy projects in Switzerland. See also this [Open Data CH  hackday contribution](https://hack.opendata.ch/project/851) for the [Energy Hackday 2020](https://hack.opendata.ch/event/31).
 * [Swissgrid](https://www.swissgrid.ch/de/home/customers/topics/energy-data-ch.html) - Energy data.
 * [Agristat](https://www.sbv-usp.ch/de/services/agristat-statistik-der-schweizer-landwirtschaft) - Statistical data of Schweizer Bauernverband (not an official government entity).
+* [Identitas Tierstatistik](https://tierstatistik.identitas.ch/en/index.html) - Various datasets about livestock and companion animals in Switzerland. 
 * [Sucht Schweiz](https://zahlen-fakten.suchtschweiz.ch/de.html) - Statistical data of Sucht Schweiz (not an official government entity).
 * [ÖREB-Kataster](https://www.cadastre.ch/de/services/service.html) - Extracts from the Cadastre of Public-law Restrictions on Landownership contain legally binding information about the most important public law restrictions that apply to a given plot of land.
 * [Memoriav Memobase](https://memobase.ch/de/start) - Searchable audiovisual collections of Swiss history.
@@ -166,6 +167,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Open Data Beer](https://opendatabeer.ch/)
 * [öffentlichkeitsgesetz.ch](https://www.oeffentlichkeitsgesetz.ch/deutsch/) - Forum for transparency in administration.
 * [Parldigi](https://www.parldigi.ch/de/) - Parlamentarische Gruppe Digitale Nachhaltigkeit.
+* [DINACON](https://dinacon.ch/) - Conference for digital sustainability.
 
 
 <a name="newsletters"></a>
@@ -189,7 +191,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Swiss DCAT Standard](https://www.ech.ch/de/ech/ech-0200/1.0) - eCH-0200 DCAT-Profile for Swiss data portals.
 * [adminR Code Base](https://github.com/swiss-adminR/pkgs) - A curated list of R packages & R code created and used by Swiss public institutions.
 * [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by Forschungsstelle Digitale Nachhaltigkeit of the University of Bern [[Videos of 2021 lectures]](https://bbb.ch-open.ch/b/mat-rd4-ff7) [[Open Data Showroom]](https://opendata.iwi.unibe.ch/?orderBy=-date_publish).
-* [Professional training Open Government Data](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-und-open-government-data/) - Offering of Uni Bern in cooperation with the OGD team of the Federal Office of Statistics BFS.
+* [Professional training «Open Government Data»](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-und-open-government-data/) - Offering of Uni Bern in cooperation with the OGD team of the Federal Office of Statistics BFS.
 
 
 <a name="media"></a>
@@ -235,7 +237,9 @@ Interesting international data portals and websites
 * [New Zealand](https://www.stats.govt.nz/all-topics/)
 * [Singapore](https://data.gov.sg/)
 * [Hongkong](https://data.gov.hk/en/)    
-* [India](https://data.gov.in/)  
+* [India](https://data.gov.in/)
+* [FRED Economic Data](https://fred.stlouisfed.org/) - Online database with of hundreds of thousands of economic data time series from US-American, international, public, and private sources.
+* [NASDAQ Data Portal](https://data.nasdaq.com/)
 
 
 ### Curated lists
