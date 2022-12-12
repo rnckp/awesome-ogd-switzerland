@@ -238,7 +238,7 @@ Interesting international data portals and websites
 * [Singapore](https://data.gov.sg/)
 * [Hongkong](https://data.gov.hk/en/)    
 * [India](https://data.gov.in/)
-* [FRED Economic Data](https://fred.stlouisfed.org/) - Online database with of hundreds of thousands of economic data time series from US-American, international, public, and private sources.
+* [FRED Economic Data](https://fred.stlouisfed.org/) - Online database with hundreds of thousands of economic data time series from US-American, international, public, and private sources.
 * [NASDAQ Data Portal](https://data.nasdaq.com/)
 
 
