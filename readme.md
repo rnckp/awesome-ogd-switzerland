@@ -91,6 +91,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Schaffhausen](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Wirtschaft--Statistik-und-Tourismus-3874-DE.html)
 * [Kanton Solothurn](https://so.ch/verwaltung/finanzdepartement/amt-fuer-finanzen/statistikportal/)
 * [Kanton Tessin](https://www4.ti.ch/index.php?id=42382)
+* [Kanton Thurgau](https://statistik.tg.ch/) – Thematic atlases [here](https://themenatlas-tg.ch/#c=home).
 * [Kanton Uri](https://www.statistik-uri.ch/daten)
 * [Kanton Vaud](https://www.vd.ch/themes/etat-droit-finances/statistique)
 * [Kanton Zug](https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle)
