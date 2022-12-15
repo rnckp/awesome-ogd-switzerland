@@ -98,6 +98,7 @@ Selected government websites that provide downloadable data (rather than being a
 
 
 ### Miscellaneous
+* [Project Rosling](https://www.projectrosling.ch) - Swiss Confederation's «Project Rosling» aims to expand dialogue on data and statistics and deepen knowledge. It as a follow-up to the [Road to Bern](https://roadtobern.swiss/) and the [UNWDF 2021](https://unstats.un.org/unsd/undataforum/index.html).
 * [Open Energy Data CH](https://github.com/OpenEnergyData/energy-data-ch) - List of open datasets related to energy projects in Switzerland. See also this [Open Data CH  hackday contribution](https://hack.opendata.ch/project/851) for the [Energy Hackday 2020](https://hack.opendata.ch/event/31).
 * [Swissgrid](https://www.swissgrid.ch/de/home/customers/topics/energy-data-ch.html) - Energy data.
 * [Agristat](https://www.sbv-usp.ch/de/services/agristat-statistik-der-schweizer-landwirtschaft) - Statistical data of Schweizer Bauernverband (not an official government entity).
