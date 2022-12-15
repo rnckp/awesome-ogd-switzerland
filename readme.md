@@ -135,6 +135,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Schaffhausen](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-1262910-DE.html)
 * [Kanton Solothurn](https://so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/geoportal/)
 * [Kanton St. Gallen](https://www.sg.ch/bauen/geoinformation/gi/geodaten.html)
+* [Kanton Thurgau](https://map.geo.tg.ch) – Separate geo data shop [here](https://shop.geo.tg.ch/) (requires registration).
 * [Kanton Wallis](https://www.vs.ch/de/web/egeo)
 * [Kanton Zug](https://www.zg.ch/behoerden/direktion-des-innern/geoportal)
 
