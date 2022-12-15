@@ -98,7 +98,6 @@ Selected government websites that provide downloadable data (rather than being a
 
 
 ### Miscellaneous
-* [Project Rosling](https://www.projectrosling.ch) - Swiss Confederation's «Project Rosling» aims to expand dialogue on data and statistics and deepen knowledge. It as a follow-up to the [Road to Bern](https://roadtobern.swiss/) and the [UNWDF 2021](https://unstats.un.org/unsd/undataforum/index.html).
 * [Open Energy Data CH](https://github.com/OpenEnergyData/energy-data-ch) - List of open datasets related to energy projects in Switzerland. See also this [Open Data CH  hackday contribution](https://hack.opendata.ch/project/851) for the [Energy Hackday 2020](https://hack.opendata.ch/event/31).
 * [Swissgrid](https://www.swissgrid.ch/de/home/customers/topics/energy-data-ch.html) - Energy data.
 * [Agristat](https://www.sbv-usp.ch/de/services/agristat-statistik-der-schweizer-landwirtschaft) - Statistical data of Schweizer Bauernverband (not an official government entity).
@@ -161,10 +160,11 @@ Selected government websites that provide downloadable data (rather than being a
 
 
 <a name="organizations"></a>
-## Organizations, Initiatives, Events
+## Organizations, Initiatives, Events and Projects
 * [Statistical Institutions in Switzerland](https://www.bfs.admin.ch/bfs/de/home/bfs/oeffentliche-statistik/system-oeffentliche-statistik/statistikinstitutionen-schweiz.html)
 * [Korstat](http://www.corstat.ch/de/) - Conference of the regional statistical offices in Switzerland.
 * [Statistiktage](https://www.statistiktage.ch/) - Annual conference organized by [Swiss Statistical Society](https://www.stat.ch/en/) and [IMSD](https://www.imsd.ch/de/).
+* [Project Rosling](https://www.projectrosling.ch) - Swiss Confederation's «Project Rosling» aims to expand dialogue on data and statistics and deepen knowledge. It as a follow-up to the [Road to Bern](https://roadtobern.swiss/) and the [UNWDF 2021](https://unstats.un.org/unsd/undataforum/index.html).
 * [opendata.ch](https://opendata.ch/de/) - Swiss section of the Open Knowledge Foundation.
 * [opendata.ch](https://opendata.ch/events/) - List of hackathons and events.
 * [Open Data Beer](https://opendatabeer.ch/)
