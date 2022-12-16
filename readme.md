@@ -219,7 +219,8 @@ Interesting international data portals and websites
 * [Eurostat](https://ec.europa.eu/eurostat/web/main/data) - Data portal of the Statistical Office of the European Union [[Database]](https://ec.europa.eu/eurostat/web/main/data/database) [[Geo Data]](https://ec.europa.eu/eurostat/web/gisco/overview) [[Statistical Atlas]](https://ec.europa.eu/statistical-atlas/viewer/?config=RYB-2022.json) [[Chloropleth Map Generator]](https://ec.europa.eu/eurostat/web/gisco/gisco-activities/map-generator) [[Census Data]](https://ec.europa.eu/CensusHub2/query.do?step=selectHyperCube&qhc=false) [[Experimental Statistics]](https://ec.europa.eu/eurostat/web/experimental-statistics).
 * [Germany](https://www.govdata.de/) - Germany's main OGD data portal.
 * [Germany](https://www-genesis.destatis.de/genesis/online) - Database of the Federal Statistical Office of Germany [[Experimental Statistics]](https://www.destatis.de/EN/Service/EXDAT/_node.html).
-* [Geo Portal Germany](https://www.geoportal.de/)
+* [Germany](https://gdz.bkg.bund.de/) - Geo data shop of Germany's Federal Agency for Cartography and Geodesy (BKG).
+* [Germany](https://www.geoportal.de/) - BKG's interactive geo data offering «geoportal.de».
 * [France](https://www.data.gouv.fr/en/datasets/)
 * [Italy](https://www.dati.gov.it/)
 * [Austria](https://www.data.gv.at/)
