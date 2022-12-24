@@ -110,6 +110,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Federal Archives](https://www.recherche.bar.admin.ch/recherche/) - Documents about the history of Switzerland since 1798.
 * [Schweizerisches Idiotikon](https://idiotikon.ch/projekte) - Comprehensive documentation of the Swissgerman dialect (not an official government entity). 
 * [Ortsnamen.ch](https://www.ortsnamen.ch/de/) - Comprehensive catalog of Swiss location names (project of Schweizerisches Idiotikon). [Searchable map](https://search.ortsnamen.ch/de) and [REST-API](https://search.ortsnamen.ch/static/api/swagger/index.html) available as well.
+* [Swiss Dwellings](https://archilyse.github.io/) - Notable data set provided by Archilyse Open Data of 42,500 Swiss apartments (250,000 rooms) in ~3,100 buildings including their geometries, room typology as well as their visual, acoustical, topological and daylight characteristics. [Alternate link](https://zenodo.org/record/7477146).
 
 
 <a name="geodata"></a>
