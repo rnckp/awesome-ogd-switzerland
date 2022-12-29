@@ -244,7 +244,7 @@ Interesting international data portals and websites
 * [Hongkong](https://data.gov.hk/en/)    
 * [India](https://data.gov.in/)
 * [United States](https://data.gov/)
-* [Socrata's Open Data Network](https://www.opendatanetwork.com/) - Broad offering of US-American OGD data sets.
+* [Socrata's Open Data Network](https://www.opendatanetwork.com/) - Broad offering of US-American OGD data sets. API docs [here](https://dev.socrata.com/consumers/getting-started.html).
 * [FRED Economic Data](https://fred.stlouisfed.org/) - Online database with hundreds of thousands of economic data time series from US-American, international, public, and private sources.
 * [NASDAQ Data Portal](https://data.nasdaq.com/)
 
