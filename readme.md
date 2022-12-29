@@ -238,12 +238,13 @@ Interesting international data portals and websites
 * [Rumania](https://data.gov.ro/en/)    
 * [United Kingdom](https://www.data.gov.uk/)
 * [Ukraine](https://data.gov.ua/en/)      
-* [United States](https://data.gov/)
 * [Australia](https://data.gov.au/)
 * [New Zealand](https://www.stats.govt.nz/all-topics/)
 * [Singapore](https://data.gov.sg/)
 * [Hongkong](https://data.gov.hk/en/)    
 * [India](https://data.gov.in/)
+* [United States](https://data.gov/)
+* [Socrata's Open Data Network](https://www.opendatanetwork.com/) - Broad offering of US-American OGD data sets.
 * [FRED Economic Data](https://fred.stlouisfed.org/) - Online database with hundreds of thousands of economic data time series from US-American, international, public, and private sources.
 * [NASDAQ Data Portal](https://data.nasdaq.com/)
 
