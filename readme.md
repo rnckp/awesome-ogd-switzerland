@@ -19,7 +19,6 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
   
 <a name="dataportals"></a>
 ## Data Portals
-
 Portals and data shops that provide access to Swiss Open Government Data. Listed in this section are «true» data shops rather than websites with download links only. 
 
 
@@ -55,7 +54,6 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 
 <a name="datasources"></a>
 ## Data sources 
-
 Selected government websites that provide downloadable data (rather than being a full-featured data shop).
 
 
@@ -97,7 +95,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Zug](https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle)
 
 
-### Miscellaneous
+### Miscellaneous Data Sources
 * [Open Energy Data CH](https://github.com/OpenEnergyData/energy-data-ch) - List of open datasets related to energy projects in Switzerland. See also this [Open Data CH  hackday contribution](https://hack.opendata.ch/project/851) for the [Energy Hackday 2020](https://hack.opendata.ch/event/31).
 * [Swissgrid](https://www.swissgrid.ch/de/home/customers/topics/energy-data-ch.html) - Energy data.
 * [entscheidsuche.ch](https://entscheidsuche.ch/) - The freely accessible portal offers a search in all published court decisions of Swiss courts of all instances. GitHub scraper repository of the project [here](https://github.com/entscheidsuche).
@@ -147,6 +145,10 @@ Selected government websites that provide downloadable data (rather than being a
 * [OpenStreetMap CH](https://osm.ch/) - OpenStreetMap dataset limited to Switzerland, and tools based on this reduced dataset (provided by [SOSM](https://sosm.ch/)). Hourly updated [extracts here](https://planet.osm.ch/).  
 * [BBBike's OSM download server](https://download.bbbike.org/osm/) - Data extracts from the OpenStreetMap project for more than 200 areas world wide in various formats. E.g. extracts for [Zurich here](https://download.bbbike.org/osm/bbbike/Zuerich/).
 * [Geofabrik's OSM download server](https://download.geofabrik.de/europe/switzerland.html) - Helpful OpenStreetMap data extracts for Switzerland (e.g. as ESRI shapefiles). Geofabrik's inspiring [portfolio of geo data projects](https://www.geofabrik.de/projects/) is definitely worth a look too.
+
+
+### Miscellaneous Geo Data
+* [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
 
 
 <a name="apis"></a>
@@ -202,6 +204,7 @@ Selected government websites that provide downloadable data (rather than being a
 <a name="media"></a>
 ## Media
 Swiss data journalism teams.
+
 * [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) - Repository that contains methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
 * [SRF Data](https://srfdata.github.io/) - Code and data from [SRF Data](https://twitter.com/srfdata), the data-driven journalism unit of Swiss Radio and TV (SRF) [[Publications and projects]](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team [[Projects of Ressort «Daten & Interaktiv»]](https://interaktiv.tagesanzeiger.ch/).
@@ -215,6 +218,7 @@ Swiss data journalism teams.
 <a name="international"></a>
 ## International
 Interesting international data portals and websites
+
 
 ### Data portals and sources
 * [European Union](https://data.europa.eu/en) - Official data portal of the European Commission.
