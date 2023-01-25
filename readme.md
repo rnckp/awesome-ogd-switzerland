@@ -172,6 +172,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [opendata.ch](https://opendata.ch/de/) - Swiss section of the Open Knowledge Foundation.
 * [opendata.ch](https://opendata.ch/events/) - List of hackathons and events.
 * [Open Data Beer](https://opendatabeer.ch/)
+* [Prototype Fund](https://prototypefund.de/en/) - A funding program of the Federal Ministry of Education and Research (BMBF) that is managed and evaluated by the Open Knowledge Foundation Germany. Individuals and small teams (of coders, hackers, designers and more) can receive funding in order to test their ideas and develop open source applications in the areas of Civic Tech, Data Literacy, IT Security and Software Infrastructure.
 * [öffentlichkeitsgesetz.ch](https://www.oeffentlichkeitsgesetz.ch/deutsch/) - Forum for transparency in administration.
 * [Parldigi](https://www.parldigi.ch/de/) - Parlamentarische Gruppe Digitale Nachhaltigkeit.
 * [DINACON](https://dinacon.ch/) - Conference for digital sustainability.
@@ -195,9 +196,11 @@ Selected government websites that provide downloadable data (rather than being a
 * [Swiss OGD strategy](https://www.bfs.admin.ch/bfs/en/home/services/ogd/documentation.assetdetail.16164831.html)
 * [Geschäftsstelle OGD BFS](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/geschaeftsstelle.html) - This unit coordinates measures to implement the OGD strategy of the Swiss government and provides support to both data publisher and users.
 * [Digitale Verwaltung Schweiz](https://www.digitale-verwaltung-schweiz.ch/)
+* [National data management NaDB](https://www.bfs.admin.ch/bfs/en/home/nadb/nadb.html) - The I14Y interoperability platform is available since June 2021 to promote the multiple use of data. All of the Federal Administration’s data collections are described here. In addition, a directory of electronic interfaces (APIs) will facilitate access to the actual data. 
 * [Swiss DCAT Standard](https://www.ech.ch/de/ech/ech-0200/1.0) - eCH-0200 DCAT-Profile for Swiss data portals.
 * [adminR Code Base](https://github.com/swiss-adminR/pkgs) - A curated list of R packages & R code created and used by Swiss public institutions.
-* [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by Forschungsstelle Digitale Nachhaltigkeit of the University of Bern [[Videos of 2021 lectures]](https://bbb.ch-open.ch/b/mat-rd4-ff7) [[Open Data Showroom]](https://opendata.iwi.unibe.ch/?orderBy=-date_publish).
+* [Forschungsstelle Digitale Nachhaltigkeit Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/) - The Research Center for Digital Sustainability deals with key topics such as Digital Sustainability, Open Data, Linked Data, and Open Government. The center offers studies, research, services, support, and lectures (see below) in these areas. 
+* [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by Forschungsstelle Digitale Nachhaltigkeit of the University of Bern [[Videos of 2022 lectures]](https://bbb.ch-open.ch/b/mat-n9s-fup-rer) [[Open Data Showroom]](https://opendata.iwi.unibe.ch/?orderBy=-date_publish).
 * [Professional training «Open Government Data»](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-und-open-government-data/) - Offering of Uni Bern in cooperation with the OGD team of the Federal Office of Statistics BFS.
 
 
