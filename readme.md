@@ -96,6 +96,7 @@ Selected government websites that provide downloadable data (rather than being a
 
 
 ### Miscellaneous Data Sources
+* [CERN](https://opendata.cern.ch/) - Open data portal of [CERN](https://home.web.cern.ch/), the European Laboratory for Particle Physics.
 * [Open Energy Data CH](https://github.com/OpenEnergyData/energy-data-ch) - List of open datasets related to energy projects in Switzerland. See also this [Open Data CH  hackday contribution](https://hack.opendata.ch/project/851) for the [Energy Hackday 2020](https://hack.opendata.ch/event/31).
 * [Swissgrid](https://www.swissgrid.ch/de/home/customers/topics/energy-data-ch.html) - Energy data.
 * [entscheidsuche.ch](https://entscheidsuche.ch/) - The freely accessible portal offers a search in all published court decisions of Swiss courts of all instances. GitHub scraper repository of the project [here](https://github.com/entscheidsuche).
