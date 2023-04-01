@@ -113,6 +113,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Schweizerisches Idiotikon](https://idiotikon.ch/projekte) - Comprehensive documentation of the Swissgerman dialect (not an official government entity). 
 * [Ortsnamen.ch](https://www.ortsnamen.ch/de/) - Comprehensive catalog of Swiss location names (project of Schweizerisches Idiotikon). [Searchable map](https://search.ortsnamen.ch/de) and [REST-API](https://search.ortsnamen.ch/static/api/swagger/index.html) available as well.
 * [Swiss Dwellings](https://archilyse.github.io/) - Notable data set provided by Archilyse Open Data of 42,500 Swiss apartments (250,000 rooms) in ~3,100 buildings including their geometries, room typology as well as their visual, acoustical, topological and daylight characteristics. [Alternate link](https://zenodo.org/record/7477146).
+* [Meteotest Weather](https://meteotest.ch/en/weather-api) - Weather, climate and environmental data for digital applications (not a government entity, commercial). [[API](https://mdx.meteotest.ch/api_v1?key=AAAABBBBCCCCDDDDEEEEFFFF00001111&service=prod2data&action=sample_forecast)]
 
 
 <a name="geodata"></a>
@@ -151,6 +152,7 @@ Selected government websites that provide downloadable data (rather than being a
 
 
 ### Miscellaneous Geo Data
+* [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) - Portal that brings together official Geo Data of Swiss government entities. [[GitHub](https://github.com/davidoesch/geoservice_harvester_poc)]
 * [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
 
 
