@@ -96,6 +96,8 @@ Selected government websites that provide downloadable data (rather than being a
 
 
 ### Miscellaneous Data Sources
+* [Swiss official commune register](https://www.bfs.admin.ch/bfs/en/home/basics/swiss-official-commune-register.html) - Register of all Swiss commune names, numbers and past mutations. ([App](https://www.agvchapp.bfs.admin.ch/de/home))
+* [TERMDAT](https://www.bk.admin.ch/bk/de/home/dokumentation/sprachen/termdat.html) - The Federal Administration's terminology database ([direct access](https://www.termdat.ch/search)). The EU's terminology database IATE can be accessed [here](https://iate.europa.eu/home)
 * [CERN](https://opendata.cern.ch/) - Open data portal of [CERN](https://home.web.cern.ch/), the European Laboratory for Particle Physics.
 * [Open Energy Data CH](https://github.com/OpenEnergyData/energy-data-ch) - List of open datasets related to energy projects in Switzerland. See also this [Open Data CH  hackday contribution](https://hack.opendata.ch/project/851) for the [Energy Hackday 2020](https://hack.opendata.ch/event/31).
 * [Swissgrid](https://www.swissgrid.ch/de/home/customers/topics/energy-data-ch.html) - Energy data.
@@ -227,6 +229,7 @@ Interesting international data portals and websites
 ### Data portals and sources
 * [European Union](https://data.europa.eu/en) - Official data portal of the European Commission.
 * [Eurostat](https://ec.europa.eu/eurostat/web/main/data) - Data portal of the Statistical Office of the European Union [[Database]](https://ec.europa.eu/eurostat/web/main/data/database) [[Geo Data]](https://ec.europa.eu/eurostat/web/gisco/overview) [[Statistical Atlas]](https://ec.europa.eu/statistical-atlas/viewer/?config=RYB-2022.json) [[Chloropleth Map Generator]](https://ec.europa.eu/eurostat/web/gisco/gisco-activities/map-generator) [[Census Data]](https://ec.europa.eu/CensusHub2/query.do?step=selectHyperCube&qhc=false) [[Experimental Statistics]](https://ec.europa.eu/eurostat/web/experimental-statistics).
+* [IATE](https://iate.europa.eu/home) - Terminology database of the EU.
 * [Germany](https://www.govdata.de/) - Germany's main OGD data portal.
 * [Germany](https://www-genesis.destatis.de/genesis/online) - Database of the Federal Statistical Office of Germany [[Experimental Statistics]](https://www.destatis.de/EN/Service/EXDAT/_node.html).
 * [Germany](https://gdz.bkg.bund.de/) - Geo data shop of Germany's Federal Agency for Cartography and Geodesy (BKG).
