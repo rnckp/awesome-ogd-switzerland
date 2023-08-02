@@ -113,7 +113,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Federal Archives](https://www.recherche.bar.admin.ch/recherche/) - Documents about the history of Switzerland since 1798.
 * [Schweizerisches Idiotikon](https://idiotikon.ch/projekte) - Comprehensive documentation of the Swissgerman dialect (not an official government entity). 
 * [Ortsnamen.ch](https://www.ortsnamen.ch/de/) - Comprehensive catalog of Swiss location names (project of Schweizerisches Idiotikon). [Searchable map](https://search.ortsnamen.ch/de) and [REST-API](https://search.ortsnamen.ch/static/api/swagger/index.html) available as well.
-* [Swiss Dwellings](https://archilyse.github.io/) - Notable data set provided by Archilyse Open Data of 42,500 Swiss apartments (250,000 rooms) in ~3,100 buildings including their geometries, room typology as well as their visual, acoustical, topological and daylight characteristics. [Alternate link](https://zenodo.org/record/7477146).
+* [Swiss Dwellings](https://zenodo.org/record/7788422) - Notable data set provided by Archilyse Open Data of 45,176 Swiss apartments (370,000 rooms) in ~3,100 buildings including their geometries, room typology as well as their visual, acoustical, topological and daylight characteristics.
 * [Meteotest Weather](https://meteotest.ch/en/weather-api) - Weather, climate and environmental data for digital applications (not a government entity, commercial). [[API](https://mdx.meteotest.ch/api_v1?key=AAAABBBBCCCCDDDDEEEEFFFF00001111&service=prod2data&action=sample_forecast)]
 
 
@@ -165,7 +165,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Shared mobility](https://api.sharedmobility.ch/documentation)
 * [Additional API documentation](https://nrohrbach.github.io/ApiDocumentation/) - More information for APIs provided by opendata.swiss, Geo Admin, and Shared mobility.
 * [Schweiz Tourismus](https://developer.myswitzerland.io/)
-* [SRGSSR](https://developer.srgssr.ch/apis) - APIs of the publicly funded broadcaster in Switzerland.
+* [SRGSSR](https://developer.srgssr.ch/) - APIs of the publicly funded broadcaster in Switzerland.
 * [CKAN API documentation](https://docs.ckan.org/en/latest/api/)
 
 
@@ -206,8 +206,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Swiss DCAT Standard](https://www.ech.ch/de/ech/ech-0200/1.0) - eCH-0200 DCAT-Profile for Swiss data portals.
 * [adminR Code Base](https://github.com/swiss-adminR/pkgs) - A curated list of R packages & R code created and used by Swiss public institutions.
 * [Forschungsstelle Digitale Nachhaltigkeit Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/) - The Research Center for Digital Sustainability deals with key topics such as Digital Sustainability, Open Data, Linked Data, and Open Government. The center offers studies, research, services, support, and lectures (see below) in these areas. 
-* [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by Forschungsstelle Digitale Nachhaltigkeit of the University of Bern [[Videos of 2022 lectures]](https://bbb.ch-open.ch/b/mat-n9s-fup-rer) [[Open Data Showroom]](https://opendata.iwi.unibe.ch/?orderBy=-date_publish).
-* [Professional training «Open Government Data»](https://www.bfh.ch/de/aktuell/fachveranstaltungen/weiterbildung-data-management-und-open-government-data/) - Offering of Uni Bern in cooperation with the OGD team of the Federal Office of Statistics BFS.
+* [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by Forschungsstelle Digitale Nachhaltigkeit of the University of Bern.
 
 
 <a name="media"></a>
@@ -254,7 +253,7 @@ Interesting international data portals and websites
 * [Ukraine](https://data.gov.ua/en/)      
 * [Australia](https://data.gov.au/)
 * [New Zealand](https://www.stats.govt.nz/all-topics/)
-* [Singapore](https://data.gov.sg/)
+* [Singapore](https://beta.data.gov.sg/)
 * [Hongkong](https://data.gov.hk/en/)    
 * [India](https://data.gov.in/)
 * [United States](https://data.gov/)
