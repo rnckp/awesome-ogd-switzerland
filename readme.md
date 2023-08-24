@@ -60,6 +60,8 @@ Selected government websites that provide downloadable data (rather than being a
 ### National
 * [Bundesamt für Gesundheit BAG](https://www.bag.admin.ch/bag/de/home/zahlen-und-statistiken.html) - Federal Office of Public Health.
 * [Versorgungsatlas](https://www.versorgungsatlas.ch/) - Swiss Health Care Atlas provided by BAG and [Swiss Health Observatory](https://www.obsan.admin.ch/en). Public health data about more than 100 indicators.
+* [Agrarbericht](https://www.blw.admin.ch/blw/de/home/agrarbericht.html) - Agricultural data provided by the Federal Office for Agriculture.
+* [arbeit.swiss](https://www.amstat.ch/v2/amstat_de.html) - Data portal of the State Secretariat for Economic Affairs (SECO).
 * [Bundesamt für Energie BFE](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken.html) - Federal Office of Energy.
 * [Bundesamt für Sozialversicherungen BSV](https://www.bsv.admin.ch/bsv/de/home/publikationen-und-service/statistiken.html) - Federal Social Security Office.
 * [Bundesamt für Umwelt BAFU](https://www.bafu.admin.ch/bafu/de/home/zustand.html) - Federal Office for the Environment.
