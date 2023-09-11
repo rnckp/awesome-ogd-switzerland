@@ -134,7 +134,7 @@ Selected government websites that provide downloadable data (rather than being a
 
 ### Cantonal and city level
 * [Kanton Appenzell Ausserrhoden](https://www.geoportal.ch/ktar)
-* [Stadt Bern](https://www.bern.ch/themen/planen-und-bauen/geodaten-und-plane)
+* [Stadt Bern](https://map.bern.ch/geoportal/) - [Overview website](https://www.bern.ch/themen/planen-und-bauen/geodaten-und-plane)
 * [Kanton Freiburg](https://map.geo.fr.ch/)
 * [Kanton Jura](https://www.jura.ch/DEN/SDT/GeoPortail/GeoPortail-du-Canton-du-Jura.html)
 * [Kanton Luzern](https://geoportal.lu.ch/karten)
