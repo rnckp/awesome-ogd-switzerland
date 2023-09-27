@@ -113,7 +113,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Memoriav Memobase](https://memobase.ch/de/start) - Searchable audiovisual collections of Swiss history.
 * [DODIS](https://dodis.ch/search) - Swiss diplomatic documents.
 * [Schweizer Landesmuseum](https://sammlung.nationalmuseum.ch/de/maincategory) 
-* [Federal Archives](https://www.recherche.bar.admin.ch/recherche/) - Documents about the history of Switzerland since 1798.
+* [Swiss Federal Archives](https://www.recherche.bar.admin.ch/recherche/) - Documents about the history of Switzerland since 1798.
 * [Schweizerisches Idiotikon](https://idiotikon.ch/projekte) - Comprehensive documentation of the Swissgerman dialect (not an official government entity). 
 * [Ortsnamen.ch](https://www.ortsnamen.ch/de/) - Comprehensive catalog of Swiss location names (project of Schweizerisches Idiotikon). [Searchable map](https://search.ortsnamen.ch/de) and [REST-API](https://search.ortsnamen.ch/static/api/swagger/index.html) available as well.
 * [Swiss Dwellings](https://zenodo.org/record/7788422) - Notable data set provided by Archilyse Open Data of 45,176 Swiss apartments (370,000 rooms) in ~3,100 buildings including their geometries, room typology as well as their visual, acoustical, topological and daylight characteristics.
@@ -192,6 +192,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [öffentlichkeitsgesetz.ch](https://www.oeffentlichkeitsgesetz.ch/deutsch/) - Forum for transparency in administration.
 * [Parldigi](https://www.parldigi.ch/de/) - Parlamentarische Gruppe Digitale Nachhaltigkeit.
 * [DINACON](https://dinacon.ch/) - Conference for digital sustainability.
+* [Lobbywatch](https://lobbywatch.ch/de/seite/datenexport) - Lobbywatch enables citizens and media professionals to find out what interests politicians in Bern represent. They offer their data as an open database for own evaluations.
 
 
 <a name="newsletters"></a>
