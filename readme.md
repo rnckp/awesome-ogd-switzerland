@@ -7,6 +7,7 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 * [Data Portals](#dataportals)
 * [Data Sources](#datasources)
 * [Geo Data](#geodata)
+* [Linked Open Data](#linkedopendata)
 * [APIs](#apis)
 * [Organizations](#organizations)
 * [Newsletters](#newsletters)
@@ -157,6 +158,13 @@ Selected government websites that provide downloadable data (rather than being a
 ### Miscellaneous Geo Data
 * [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) - Portal that brings together official Geo Data of Swiss government entities. [[GitHub](https://github.com/davidoesch/geoservice_harvester_poc)]
 * [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
+
+
+<a name="linkedopendata"></a>
+## Linked Open Data
+* [LINDAS ecosystem overview](https://lindas.admin.ch/ecosystem/) - LINDAS (Linked Data Service) allows public administrations to publish their data in the form of Knowledge Graphs and make them accessible via https://lindas.admin.ch. The service is offered by the [Swiss Federal Archives](https://www.bar.admin.ch/bar/en/home.html).
+* [Fedlex](https://fedlex.data.admin.ch/en-CH/home/intro) - Fedlex is the Federal Chancellery platform, on which federal legislation is published. It is primarily used to publish the Official Federal Gazette, the Official Compilation of Federal Legislation and the Classified Compilation of Federal Legislation, i.e. the consolidated version of federal legislation and international law texts.
+* [Linked Data Meetup](https://www.bfh.ch/de/themen/linked-data-meetup/) - The Linked Data Meetup is a collaboration between the Swiss Federal Archives (BAR) and the BFH's Public Sector Transformation Institute. The meetup is aimed at users of linked data, especially in the LINDAS environment.
 
 
 <a name="apis"></a>
