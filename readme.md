@@ -295,4 +295,4 @@ Interesting international data portals and websites
 
     
 ## Contribute
-Contributions are always welcome! Just open an issue with your suggestion.
+Contributions are always welcome! Just open an issue or a pull request with your suggestions.
