@@ -164,6 +164,7 @@ Selected government websites that provide downloadable data (rather than being a
 ## Linked Open Data
 * [LINDAS ecosystem overview](https://lindas.admin.ch/ecosystem/) - LINDAS (Linked Data Service) allows public administrations to publish their data in the form of Knowledge Graphs and make them accessible via https://lindas.admin.ch. The service is offered by the [Swiss Federal Archives](https://www.bar.admin.ch/bar/en/home.html).
 * [Fedlex](https://fedlex.data.admin.ch/en-CH/home/intro) - Fedlex is the Federal Chancellery platform, on which federal legislation is published. It is primarily used to publish the Official Federal Gazette, the Official Compilation of Federal Legislation and the Classified Compilation of Federal Legislation, i.e. the consolidated version of federal legislation and international law texts.
+* [Federal Geoportal Linked Data](https://geo.ld.admin.ch) - Linked Data Service of the Federal Geoportal.
 * [Linked Data Meetup](https://www.bfh.ch/de/themen/linked-data-meetup/) - The Linked Data Meetup is a collaboration between the Swiss Federal Archives (BAR) and the BFH's Public Sector Transformation Institute. The meetup is aimed at users of linked data, especially in the LINDAS environment.
 
 
