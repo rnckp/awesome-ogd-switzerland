@@ -144,6 +144,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Solothurn](https://so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/geoportal/)
 * [Kanton St. Gallen](https://www.sg.ch/bauen/geoinformation/gi/geodaten.html)
 * [Kanton Thurgau](https://map.geo.tg.ch) – Separate geo data shop [here](https://shop.geo.tg.ch/) (requires registration).
+* [Kanton Uri](https://www.ur.ch/geoinformationen) - Geo portal with download option [here](https://geo.ur.ch).
 * [Kanton Wallis](https://www.vs.ch/de/web/egeo)
 * [Kanton Zug](https://www.zg.ch/behoerden/direktion-des-innern/geoportal)
 

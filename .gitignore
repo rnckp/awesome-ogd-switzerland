@@ -1,8 +1,2 @@
-# Jupyter Notebook
 .ipynb_checkpoints
-# IPython
-profile_default/
-ipython_config.py
 .DS_Store
-.Rproj.user
-awesome-ogd-switzerland.Rproj
