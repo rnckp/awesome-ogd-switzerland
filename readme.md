@@ -39,7 +39,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 * [Aargau](https://www.ag.ch/de/themen/datenportal#/)
 * [Basel Stadt](https://data.bs.ch/explore/)
 * [Basel Land](https://data.bl.ch/explore/)
-* [Luzern](https://www.lustat.ch/daten)
+* [Luzern](https://www.lustat.ch)
 * [Schwyz](https://data.sz.ch/explore/)
 * [St. Gallen](https://daten.sg.ch/explore/) - Cantonal open data portal.
 * [St. Gallen](https://stada2.sg.ch/) - Data shop of the Fachstelle Statistik St. Gallen.
@@ -82,16 +82,18 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Basel Stadt](https://www.statistik.bs.ch/)
 * [Kanton Basel Land](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
 * [Kanton Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html) - Statistical Data.
-* [Kanton Bern](https://www.agi.dij.be.ch/de/start.html) - Geo data.
 * [Stadt Bern](https://www.bern.ch/open-government-data-ogd/ogd-nach-themen)
 * [Kanton Fribourg](https://www.fr.ch/de/vwbd/stata)
 * [Kanton Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
+* [Kanton Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx)
 * [Kanton Jura](https://stat.jura.ch/)
 * [Stadt Lausanne](https://www.lausanne.ch/officiel/statistique.html)
 * [Stadt Lugano](https://statistica.lugano.ch/site/dati-ogd/)
+* [Stadt Luzern](https://www.lustat.ch/statistikportal-stadt-luzern)
 * [Kanton Neuchâtel](https://www.ne.ch/autorites/DFS/STAT/Pages/accueil.aspx)
 * [Kanton Schaffhausen](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Wirtschaft--Statistik-und-Tourismus-3874-DE.html)
 * [Kanton Solothurn](https://so.ch/verwaltung/finanzdepartement/amt-fuer-finanzen/statistikportal/)
+* [Stadt St. Gallen](https://www.stadt.sg.ch/home/verwaltung-politik/stadt-zahlen/statistikdatenbanken.html)
 * [Kanton Tessin](https://www4.ti.ch/index.php?id=42382)
 * [Kanton Thurgau](https://statistik.tg.ch/) – Thematic atlases [here](https://themenatlas-tg.ch/#c=home).
 * [Kanton Uri](https://www.statistik-uri.ch/daten)
@@ -108,6 +110,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [entscheidsuche.ch](https://entscheidsuche.ch/) - The freely accessible portal offers a search in all published court decisions of Swiss courts of all instances. GitHub scraper repository of the project [here](https://github.com/entscheidsuche).
 * [Agristat](https://www.sbv-usp.ch/de/services/agristat-statistik-der-schweizer-landwirtschaft) - Statistical data of Schweizer Bauernverband (not an official government entity).
 * [Identitas Tierstatistik](https://tierstatistik.identitas.ch/en/index.html) - Various datasets about livestock and companion animals in Switzerland. 
+* [Jagdstatistik](https://www.jagdstatistik.ch/de/home) - Wild animal and hunting data from Bundesamt für Umwelt (BAFU).
 * [Sucht Schweiz](https://zahlen-fakten.suchtschweiz.ch/de.html) - Statistical data of Sucht Schweiz (not an official government entity).
 * [ÖREB-Kataster](https://www.cadastre.ch/de/services/service.html) - Extracts from the Cadastre of Public-law Restrictions on Landownership contain legally binding information about the most important public law restrictions that apply to a given plot of land.
 * [Memoriav Memobase](https://memobase.ch/de/start) - Searchable audiovisual collections of Swiss history.
@@ -135,6 +138,7 @@ Selected government websites that provide downloadable data (rather than being a
 
 ### Cantonal and city level
 * [Kanton Appenzell Ausserrhoden](https://www.geoportal.ch/ktar)
+* [Kanton Bern](https://www.agi.dij.be.ch/de/start.html) - Geo data.
 * [Kanton Bern](https://www.map.apps.be.ch)
 * [Stadt Bern](https://map.bern.ch/geoportal/) - [Overview website](https://www.bern.ch/themen/planen-und-bauen/geodaten-und-plane)
 * [Kanton Freiburg](https://map.geo.fr.ch/)
@@ -167,6 +171,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [LINDAS ecosystem overview](https://lindas.admin.ch/ecosystem/) - LINDAS (Linked Data Service) allows public administrations to publish their data in the form of Knowledge Graphs and make them accessible via https://lindas.admin.ch. The service is offered by the [Swiss Federal Archives](https://www.bar.admin.ch/bar/en/home.html).
 * [Fedlex](https://fedlex.data.admin.ch/en-CH/home/intro) - Fedlex is the Federal Chancellery platform, on which federal legislation is published. It is primarily used to publish the Official Federal Gazette, the Official Compilation of Federal Legislation and the Classified Compilation of Federal Legislation, i.e. the consolidated version of federal legislation and international law texts.
 * [Federal Geoportal Linked Data](https://geo.ld.admin.ch) - Linked Data Service of the Federal Geoportal.
+* [Stadt Zürich LOD](https://www.stadt-zuerich.ch/prd/de/index/statistik/publikationen-angebote/linked-open-data.html)
 * [Linked Data Meetup](https://www.bfh.ch/de/themen/linked-data-meetup/) - The Linked Data Meetup is a collaboration between the Swiss Federal Archives (BAR) and the BFH's Public Sector Transformation Institute. The meetup is aimed at users of linked data, especially in the LINDAS environment.
 
 
