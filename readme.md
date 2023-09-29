@@ -98,6 +98,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Thurgau](https://statistik.tg.ch/) – Thematic atlases [here](https://themenatlas-tg.ch/#c=home).
 * [Kanton Uri](https://www.statistik-uri.ch/daten)
 * [Kanton Vaud](https://www.vd.ch/themes/etat-droit-finances/statistique)
+* [Kanton Wallis](https://www.vs.ch/de/web/sstp/statistique)
 * [Kanton Zug](https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle)
 
 
@@ -133,25 +134,40 @@ Selected government websites that provide downloadable data (rather than being a
 * [geocat](https://www.geocat.ch) - Geographic catalog. Operated by swisstopo. Provides geodata, geoservices, and models of federal offices, cantons, municipalities, research institutes, private companies, and more. 
 * [geobasisdaten.ch](https://geobasisdaten.ch/) - Geo data portal provided by the [«Konferenz der kantonalen Geoinformations- und Katasterstellen»](https://www.kgk-cgc.ch/). In Switzerland, the basic geodata catalog is a catalog-like listing of all geodata that have been collected by a legal authority by linking them to underlying legal enactments. In addition to a visualization of the geo data recorded by geo information law, its function is the database-specific assignment of responsible bodies and other legally relevant attributes. [More information here](https://www.kgk-cgc.ch/geobasisdaten).
 * [geodienste.ch](https://geodienste.ch/) - The intercantonal portal for obtaining geodata and services. Basic geodata are aggregated and made available under the responsibility of the cantons and municipalities.
+* [Geoportal.ch](https://www.geoportal.ch/) - Publication platform for Swiss geo data.
 * [BFS Plattform Statatlas](https://www.atlas.bfs.admin.ch/de/index.html) - The Federal Statistical Office (BFS) offers a number of  specialist atlases in addition to the central statistical atlas of Switzerland, which provide more detailed information on special areas of life from a statistical point of view. With the help of numerous interactive maps and graphics as well as the data behind them, a wide variety of geographical processes and relationships can be easily analyzed and evaluated.
 
 
 ### Cantonal and city level
+* [Kantonale Geoportale](https://www.kgk-cgc.ch/geodaten/kantonale_geoportale) - Overview of all cantonal geo portals.
+* [Kanton Aargau](https://www.ag.ch/de/verwaltung/dfr/geoportal)
 * [Kanton Appenzell Ausserrhoden](https://www.geoportal.ch/ktar)
-* [Kanton Bern](https://www.agi.dij.be.ch/de/start.html) - Geo data.
+* [Kanton Appenzell Innerrhoden](https://www.ai.ch/themen/planen-und-bauen/geodaten-und-plaene/geoportal)
+* [Kanton Basel-Landschaft](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-geoinformation/geoportal)
+* [Kanton Basel-Stadt](https://www.geo.bs.ch/)
+* [Kanton Bern](https://www.agi.dij.be.ch/de/start.html)
 * [Kanton Bern](https://www.map.apps.be.ch)
 * [Stadt Bern](https://map.bern.ch/geoportal/) - [Overview website](https://www.bern.ch/themen/planen-und-bauen/geodaten-und-plane)
 * [Kanton Freiburg](https://map.geo.fr.ch/)
+* [Kanton Genf](https://map.sitg.ch/app/)
+* [Kanton Glarus](https://www.gl.ch/verwaltung/bau-und-umwelt/hochbau/raumentwicklung-und-geoinformation/geoportal-kanton-glarus.html/808)
+* [Kanton Graubünden](https://geo.gr.ch/)
 * [Kanton Jura](https://www.jura.ch/DEN/SDT/GeoPortail/GeoPortail-du-Canton-du-Jura.html)
 * [Kanton Luzern](https://geoportal.lu.ch/karten)
+* [Kanton Neuenburg](https://www.ne.ch/autorites/DDTE/SGRF/SITN/geoportail/Pages/accueil.aspx)
 * [Kantone Nidwalden Obwalden](https://www.gis-daten.ch/geodaten/geodatenkatalog/)
 * [Kanton Schaffhausen](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Amt-f-r-Geoinformation-1262910-DE.html)
+* [Kanton Schwyz](https://www.sz.ch/behoerden/verwaltung/umweltdepartement/amt-fuer-geoinformation/geoportal-webgis.html/8756-8758-8802-9447-9448-9462)
 * [Kanton Solothurn](https://so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/geoportal/)
 * [Kanton St. Gallen](https://www.sg.ch/bauen/geoinformation/gi/geodaten.html)
+* [Kanton Tessing](https://map.geo.ti.ch/)
 * [Kanton Thurgau](https://map.geo.tg.ch) – Separate geo data shop [here](https://shop.geo.tg.ch/) (requires registration).
 * [Kanton Uri](https://www.ur.ch/geoinformationen) - Geo portal with download option [here](https://geo.ur.ch).
+* [Kanton Waadt](https://www.geo.vd.ch/)
 * [Kanton Wallis](https://www.vs.ch/de/web/egeo)
 * [Kanton Zug](https://www.zg.ch/behoerden/direktion-des-innern/geoportal)
+* [Kanton Zürich](https://www.zh.ch/de/planen-bauen/geoinformation/geodaten.html)
+* [Stadt Zürich](https://www.stadt-zuerich.ch/geodaten/)
 
 
 ### OpenStreetMap
