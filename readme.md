@@ -81,7 +81,7 @@ Selected government websites that provide downloadable data (rather than being a
 ### Cantonal and city level
 * [Kanton Basel Stadt](https://www.statistik.bs.ch/)
 * [Kanton Basel Land](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
-* [Kanton Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html) - Statistical Data.
+* [Kanton Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html)
 * [Stadt Bern](https://www.bern.ch/open-government-data-ogd/ogd-nach-themen)
 * [Kanton Fribourg](https://www.fr.ch/de/vwbd/stata)
 * [Kanton Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
@@ -180,6 +180,7 @@ Selected government websites that provide downloadable data (rather than being a
 ### Miscellaneous Geo Data
 * [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) - Portal that brings together official Geo Data of Swiss government entities. [[GitHub](https://github.com/davidoesch/geoservice_harvester_poc)]
 * [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
+* [GeoBeer Switzerland](https://geobeer.ch/) - GeoBeerCH is an informal meeting of people interested in geography, GIS, cartography and the latest technologies.
 
 
 <a name="linkedopendata"></a>
