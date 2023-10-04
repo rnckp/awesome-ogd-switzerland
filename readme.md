@@ -33,6 +33,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 * [SBB](https://opentransportdata.swiss/en/) - Open transport data provided by SBB.
 * [Swisscom](https://data.swisscom.com/explore/) - Open data portal of former Swiss national Telco.
 * [COVID19 data](https://www.covid19.admin.ch/de/overview) - COVID-19 data provided by the Federal Office of Public Health BAG.
+* [MeteoSwiss](https://www.meteoswiss.admin.ch/services-and-publications/service/open-government-data.html) - [GitHub](https://github.com/MeteoSwiss) [Policy and background information regarding OGD initiative](https://github.com/MeteoSwiss/publication-opendata)
 
 
 ### Cantonal data portals
