@@ -33,7 +33,6 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 * [SBB](https://opentransportdata.swiss/en/) - Open transport data provided by SBB.
 * [Swisscom](https://data.swisscom.com/explore/) - Open data portal of former Swiss national Telco.
 * [COVID19 data](https://www.covid19.admin.ch/de/overview) - COVID-19 data provided by the Federal Office of Public Health BAG.
-* [MeteoSwiss](https://www.meteoswiss.admin.ch/services-and-publications/service/open-government-data.html) - [Policy and background information regarding OGD initiative](https://github.com/MeteoSwiss/publication-opendata) - [[GitHub](https://github.com/MeteoSwiss)].
 
 
 ### Cantonal data portals
@@ -77,6 +76,8 @@ Selected government websites that provide downloadable data (rather than being a
 * [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm)
 * [Zentraler Firmenindex ZEFIX](https://www.zefix.admin.ch/de/search/entity/welcome) - API [here](https://www.zefix.admin.ch/ZefixPublicREST/swagger-ui/index.html).
 * [Amtsblattportal](https://amtsblattportal.ch/#!/home) - Official Gazettes Portal. A publishing centre for entities which publish official and commercially relevant publications in the Swiss Official Gazette of Commerce (SOGC) and in Official Cantonal Gazettes. Data can be imported and exported using a [REST API](https://amtsblattportal.ch/docs/api/) too. 
+* [MeteoSwiss](https://www.meteoswiss.admin.ch/services-and-publications/service/open-government-data.html) - MeteoSwiss will make data publicly available in 2026. See [policy and background information regarding this OGD initiative](https://github.com/MeteoSwiss/publication-opendata) - [[GitHub](https://github.com/MeteoSwiss)].
+
 
 
 ### Cantonal and city level
