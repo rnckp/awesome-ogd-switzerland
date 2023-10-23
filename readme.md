@@ -274,6 +274,7 @@ Interesting international data portals and websites
 * [Germany](https://www-genesis.destatis.de/genesis/online) - Database of the Federal Statistical Office of Germany [[Experimental Statistics]](https://www.destatis.de/EN/Service/EXDAT/_node.html).
 * [Germany](https://gdz.bkg.bund.de/) - Geo data shop of Germany's Federal Agency for Cartography and Geodesy (BKG).
 * [Germany](https://www.geoportal.de/) - BKG's interactive geo data offering «geoportal.de».
+* [Germany](https://basemap.de/) - basemap.de is a group of cartographic products developed by the federal and state governments.
 * [France](https://www.data.gouv.fr/en/datasets/)
 * [Italy](https://www.dati.gov.it/)
 * [Austria](https://www.data.gv.at/)
