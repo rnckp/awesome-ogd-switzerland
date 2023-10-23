@@ -183,6 +183,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) - Portal that brings together official Geo Data of Swiss government entities. [[GitHub](https://github.com/davidoesch/geoservice_harvester_poc)]
 * [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
 * [GeoBeer Switzerland](https://geobeer.ch/) - GeoBeerCH is an informal meeting of people interested in geography, GIS, cartography and the latest technologies.
+* [mapplus.ch](https://www.mapplus.ch/) - Various Geo Data portals, viewers and links.
 
 
 <a name="linkedopendata"></a>
