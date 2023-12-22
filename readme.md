@@ -147,7 +147,6 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Basel-Landschaft](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-geoinformation/geoportal)
 * [Kanton Basel-Stadt](https://www.geo.bs.ch/)
 * [Kanton Bern](https://www.agi.dij.be.ch/de/start.html)
-* [Kanton Bern](https://www.map.apps.be.ch)
 * [Stadt Bern](https://map.bern.ch/geoportal/) - [Overview website](https://www.bern.ch/themen/planen-und-bauen/geodaten-und-plane)
 * [Kanton Freiburg](https://map.geo.fr.ch/)
 * [Kanton Genf](https://map.sitg.ch/app/)
@@ -161,12 +160,12 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Schwyz](https://www.sz.ch/behoerden/verwaltung/umweltdepartement/amt-fuer-geoinformation/geoportal-webgis.html/8756-8758-8802-9447-9448-9462)
 * [Kanton Solothurn](https://so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-geoinformation/geoportal/)
 * [Kanton St. Gallen](https://www.sg.ch/bauen/geoinformation/gi/geodaten.html)
-* [Kanton Tessing](https://map.geo.ti.ch/)
+* [Kanton Tessin](https://map.geo.ti.ch/)
 * [Kanton Thurgau](https://map.geo.tg.ch) – Separate geo data shop [here](https://shop.geo.tg.ch/) (requires registration).
 * [Kanton Uri](https://www.ur.ch/geoinformationen) - Geo portal with download option [here](https://geo.ur.ch).
 * [Kanton Waadt](https://www.geo.vd.ch/)
 * [Kanton Wallis](https://www.vs.ch/de/web/egeo)
-* [Kanton Zug](https://www.zg.ch/behoerden/direktion-des-innern/geoportal)
+* [Kanton Zug](https://zg.ch/de/planen-bauen/geoinformation/geoinformationen-nutzen)
 * [Kanton Zürich](https://www.zh.ch/de/planen-bauen/geoinformation/geodaten.html)
 * [Stadt Zürich](https://www.stadt-zuerich.ch/geodaten/)
 
@@ -191,7 +190,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Fedlex](https://fedlex.data.admin.ch/en-CH/home/intro) - Fedlex is the Federal Chancellery platform, on which federal legislation is published. It is primarily used to publish the Official Federal Gazette, the Official Compilation of Federal Legislation and the Classified Compilation of Federal Legislation, i.e. the consolidated version of federal legislation and international law texts.
 * [Federal Geoportal Linked Data](https://geo.ld.admin.ch) - Linked Data Service of the Federal Geoportal.
 * [Stadt Zürich LOD](https://www.stadt-zuerich.ch/prd/de/index/statistik/publikationen-angebote/linked-open-data.html)
-* [Linked Data Meetup](https://www.bfh.ch/de/themen/linked-data-meetup/) - The Linked Data Meetup is a collaboration between the Swiss Federal Archives (BAR) and the BFH's Public Sector Transformation Institute. The meetup is aimed at users of linked data, especially in the LINDAS environment.
+* [Linked Data Meetup](https://www.bfh.ch/de/themen/linked-data/) - The Linked Data Meetup is a collaboration between the Swiss Federal Archives (BAR) and the BFH's Public Sector Transformation Institute. The meetup is aimed at users of linked data, especially in the LINDAS environment.
 
 
 <a name="apis"></a>
@@ -199,7 +198,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [opendata.swiss](https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html)
 * [Geo Admin](https://api3.geo.admin.ch/index.html)
 * [Geo Admin STAC](https://www.geo.admin.ch/de/geo-dienstleistungen/geodienste/downloadienste/stac-api.html) - API for Geo Admin's Spatial-Temporal Asset Catalog.
-* [Shared mobility](https://api.sharedmobility.ch/documentation)
+* [Shared mobility](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-82109.html)
 * [Additional API documentation](https://nrohrbach.github.io/ApiDocumentation/) - More information for APIs provided by opendata.swiss, Geo Admin, and Shared mobility.
 * [Schweiz Tourismus](https://developer.myswitzerland.io/)
 * [SRGSSR](https://developer.srgssr.ch/) - APIs of the publicly funded broadcaster in Switzerland.
@@ -211,7 +210,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Statistical Institutions in Switzerland](https://www.bfs.admin.ch/bfs/de/home/bfs/oeffentliche-statistik/system-oeffentliche-statistik/statistikinstitutionen-schweiz.html)
 * [Korstat](http://www.corstat.ch/de/) - Conference of the regional statistical offices in Switzerland.
 * [Statistiktage](https://www.statistiktage.ch/) - Annual conference organized by [Swiss Statistical Society](https://www.stat.ch/en/) and [IMSD](https://www.imsd.ch/de/).
-* [Project Rosling](https://www.projectrosling.ch) - Swiss Confederation's «Project Rosling» aims to expand dialogue on data and statistics and deepen knowledge. It as a follow-up to the [Road to Bern](https://roadtobern.swiss/) and the [UNWDF 2021](https://unstats.un.org/unsd/undataforum/index.html).
+* [Project Rosling](https://www.projectrosling.ch) - Swiss Confederation's «Project Rosling» aims to expand dialogue on data and statistics and deepen knowledge. 
 * [opendata.ch](https://opendata.ch/de/) - Swiss section of the Open Knowledge Foundation.
 * [opendata.ch](https://opendata.ch/events/) - List of hackathons and events.
 * [Open Data Beer](https://opendatabeer.ch/)
@@ -268,7 +267,7 @@ Interesting international data portals and websites
 
 ### Data portals and sources
 * [European Union](https://data.europa.eu/en) - Official data portal of the European Commission.
-* [Eurostat](https://ec.europa.eu/eurostat/web/main/data) - Data portal of the Statistical Office of the European Union [[Database]](https://ec.europa.eu/eurostat/web/main/data/database) [[Geo Data]](https://ec.europa.eu/eurostat/web/gisco/overview) [[Statistical Atlas]](https://ec.europa.eu/statistical-atlas/viewer/?config=RYB-2022.json) [[Chloropleth Map Generator]](https://ec.europa.eu/eurostat/web/gisco/gisco-activities/map-generator) [[Census Data]](https://ec.europa.eu/CensusHub2/query.do?step=selectHyperCube&qhc=false) [[Experimental Statistics]](https://ec.europa.eu/eurostat/web/experimental-statistics).
+* [Eurostat](https://ec.europa.eu/eurostat/web/main/data) - Data portal of the Statistical Office of the European Union [[Database]](https://ec.europa.eu/eurostat/web/main/data/database) [[Geo Data]](https://ec.europa.eu/eurostat/web/gisco/overview) [[Statistical Atlas]](https://ec.europa.eu/statistical-atlas/viewer/?config=RYB-2022.json) [[Chloropleth Map Generator]](https://ec.europa.eu/eurostat/web/gisco/gisco-activities/map-generator) [[Experimental Statistics]](https://ec.europa.eu/eurostat/web/experimental-statistics).
 * [IATE](https://iate.europa.eu/home) - Terminology database of the EU.
 * [Germany](https://www.govdata.de/) - Germany's main OGD data portal.
 * [Germany](https://www-genesis.destatis.de/genesis/online) - Database of the Federal Statistical Office of Germany [[Experimental Statistics]](https://www.destatis.de/EN/Service/EXDAT/_node.html).
