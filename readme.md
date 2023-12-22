@@ -48,7 +48,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 
 
 ### City-level data portals
-* [Zürich City](https://data.stadt-zuerich.ch/) – [[GitHub]](https://github.com/opendatazurich)
+* [Zürich City](https://data.stadt-zuerich.ch/) – [[GitHub](https://github.com/opendatazurich)]
 * [Zürich Tourismus](https://zt.zuerich.com/de/open-data)
 
 
@@ -96,7 +96,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Solothurn](https://so.ch/verwaltung/finanzdepartement/amt-fuer-finanzen/statistikportal/)
 * [Stadt St. Gallen](https://www.stadt.sg.ch/home/verwaltung-politik/stadt-zahlen/statistikdatenbanken.html)
 * [Kanton Tessin](https://www4.ti.ch/index.php?id=42382)
-* [Kanton Thurgau](https://statistik.tg.ch/) – Thematic atlases [here](https://themenatlas-tg.ch/#c=home).
+* [Kanton Thurgau](https://statistik.tg.ch/) – Thematic atlasses [here](https://themenatlas-tg.ch/#c=home).
 * [Kanton Uri](https://www.statistik-uri.ch/daten)
 * [Kanton Vaud](https://www.vd.ch/themes/etat-droit-finances/statistique)
 * [Kanton Wallis](https://www.vs.ch/de/web/sstp/statistique)
