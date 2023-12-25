@@ -30,6 +30,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 * [Schweizerische Nationalbank SNB](https://data.snb.ch/de) - Swiss National Bank data portal.
 * [SBB](https://data.sbb.ch/pages/home/) - Swiss Federal Railways data portal.
 * [SBB](https://opentransportdata.swiss/en/) - Open transport data provided by SBB.
+* [Swiss Tourism Data](https://www.tourismdata.ch/) - The portal is part of the  National Data Infrastructure for Tourism (NaDIT) project. It serves as the catalogue of metadata of the most important data sources for Swiss tourism. 
 * [Swisscom](https://data.swisscom.com/explore/) - Open data portal of former Swiss national Telco.
 * [COVID19 data](https://www.covid19.admin.ch/de/overview) - COVID-19 data provided by the Federal Office of Public Health BAG. [New data portal here](https://idd.bag.admin.ch/).
 
