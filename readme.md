@@ -287,7 +287,8 @@ Interesting international data portals and websites
 * [Ireland](https://data.gov.ie/)
 * [Luxembourg](https://data.public.lu/en/#)  
 * [Netherlands](https://data.overheid.nl/en)
-* [Portugal](https://www.pordata.pt/en/Home)     
+* [Portugal](https://www.ine.pt/) - Statistical Office. 
+* [Portugal](https://www.pordata.pt/en/Home) - Dataportal «Pordata»     
 * [Rumania](https://data.gov.ro/en/)    
 * [United Kingdom](https://www.data.gov.uk/)
 * [Ukraine](https://data.gov.ua/en/)      
