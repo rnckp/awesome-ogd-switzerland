@@ -313,6 +313,7 @@ Interesting international data portals and websites
 ### Miscellaneous
 * [Open Data Handbook](https://opendatahandbook.org/) – Guides, case studies and resources for government and civil society on the *«what, why & how»* of open data. Provided by the [Open Knowledge Foundation](https://okfn.org/).
 * [bund.dev](https://bund.dev/) - «Bundesstelle für Open Data». Very active and influential non-governmental open data initiative [[GitHub](https://github.com/bundesAPI)].
+* [Greenpeace Open Data Portal](https://daten.greenpeace.de/dataset/)
 * [Code for Germany](https://www.codefor.de/) - A network of open government experts who work as volunteer city developers for sustainable digital change in politics and administration. Strong focus on Open Data, list of [inspiring projects here](https://www.codefor.de/projekte/).
 * [United Nations](https://data.un.org/) - Data portal of the UN.
 * [OECD](https://data.oecd.org/) - OECD data portal.
