@@ -280,7 +280,7 @@ Interesting international data portals and websites
 * [Germany](https://basemap.de/) - basemap.de is a group of cartographic products developed by the federal and state governments.
 * [Albania](https://www.instat.gov.al/en/Home.aspx) - Statistical office.
 * [Andorra](https://www.estadistica.ad/portal/apps/sites/#/estadistica-en) - Statistical Office.
-* [Austria](http://www.statistik.at/web_en) - Statistical Office.
+* [Austria](https://www.statistik.at/en) - Statistical Office.
 * [Austria](https://www.data.gv.at/)
 * [Belarus](http://www.belstat.gov.by/en/) - Statistical Office.
 * [Belgium](https://statbel.fgov.be/en) - Statistical Office.
@@ -307,8 +307,7 @@ Interesting international data portals and websites
 * [Italy](https://www.dati.gov.it/)
 * [Kosovo](https://ask.rks-gov.net/) - Statistical Office.
 * [Latvia](https://stat.gov.lv/en)
-* [Liechtenstein](http://www.llv.li/#/11480/amt-fur-statistik) - Statistical Office.
-* [Liechtenstein](https://www.statistikportal.li/)
+* [Liechtenstein](https://www.statistikportal.li/) - Statistical Office.
 * [Lithuania](https://www.stat.gov.lt/en) - Statistical Office.
 * [Luxembourg](https://statistiques.public.lu/en.html) - Statistical Office.
 * [Luxembourg](https://data.public.lu/en/#)
