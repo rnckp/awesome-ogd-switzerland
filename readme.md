@@ -269,6 +269,7 @@ Interesting international data portals and websites
 
 
 ### Data portals and sources
+* [List of European Statistical Offices](https://www.destatis.de/EN/Service/Address-Book/europe.html) - List provided by [Destatis](https://www.destatis.de).
 * [European Union](https://data.europa.eu/en) - Official data portal of the European Commission.
 * [Eurostat](https://ec.europa.eu/eurostat/web/main/data) - Data portal of the Statistical Office of the European Union [[Database]](https://ec.europa.eu/eurostat/web/main/data/database) [[Geo Data]](https://ec.europa.eu/eurostat/web/gisco/overview) [[Statistical Atlas]](https://ec.europa.eu/statistical-atlas/viewer/?config=RYB-2022.json) [[Chloropleth Map Generator]](https://ec.europa.eu/eurostat/web/gisco/gisco-activities/map-generator) [[Experimental Statistics]](https://ec.europa.eu/eurostat/web/experimental-statistics).
 * [IATE](https://iate.europa.eu/home) - Terminology database of the EU.
@@ -277,22 +278,65 @@ Interesting international data portals and websites
 * [Germany](https://gdz.bkg.bund.de/) - Geo data shop of Germany's Federal Agency for Cartography and Geodesy (BKG).
 * [Germany](https://www.geoportal.de/) - BKG's interactive geo data offering «geoportal.de».
 * [Germany](https://basemap.de/) - basemap.de is a group of cartographic products developed by the federal and state governments.
-* [France](https://www.data.gouv.fr/en/datasets/)
-* [Italy](https://www.dati.gov.it/)
+* [Albania](https://www.instat.gov.al/en/Home.aspx) - Statistical office.
+* [Andorra](https://www.estadistica.ad/portal/apps/sites/#/estadistica-en) - Statistical Office.
+* [Austria](http://www.statistik.at/web_en) - Statistical Office.
 * [Austria](https://www.data.gv.at/)
-* [Liechtenstein](https://www.statistikportal.li/)
+* [Belarus](http://www.belstat.gov.by/en/) - Statistical Office.
+* [Belgium](https://statbel.fgov.be/en) - Statistical Office.
 * [Belgium](https://data.gov.be/en)
+* [Bosnia and Herzegovina](https://bhas.gov.ba/) - Statistical Office.
+* [Bulgaria](https://www.nsi.bg/en) - Statistical Office.
+* [Croatia](http://www.dzs.hr/default_e.htm) - Statistical Office.
+* [Cyprus](https://www.cystat.gov.cy/en/default) - Statistical Office.
+* [Czechia](http://www.czso.cz/csu/czso/home) - Statistical Office.
+* [Denmark](http://www.dst.dk/en) - Statistical Office.
+* [Estonia](http://www.stat.ee/) - Statistical Office.
 * [Estonia](https://avaandmed.eesti.ee/)
-* [Finland](https://www.opendata.fi/en) 
+* [Finland](https://www.opendata.fi/en)
+* [Finland](https://stat.fi/index_en.html)
+* [France](http://www.insee.fr/en) - Statistical Office.
+* [France](https://www.data.gouv.fr/en/datasets/)
+* [Greece](http://www.statistics.gr/en/home) - Statistical Office.
 * [Greece](https://www.data.gov.gr/)
+* [Hungary](http://www.ksh.hu/) - Statistical Office.
+* [Iceland](http://www.statice.is/) - Statistical Office.
+* [Ireland](http://www.cso.ie/) - Statistical Office.
 * [Ireland](https://data.gov.ie/)
-* [Luxembourg](https://data.public.lu/en/#)  
+* [Italy](http://www.istat.it/en/) - Statistical Office.
+* [Italy](https://www.dati.gov.it/)
+* [Kosovo](https://ask.rks-gov.net/) - Statistical Office.
+* [Latvia](https://stat.gov.lv/en)
+* [Liechtenstein](http://www.llv.li/#/11480/amt-fur-statistik) - Statistical Office.
+* [Liechtenstein](https://www.statistikportal.li/)
+* [Lithuania](https://www.stat.gov.lt/en) - Statistical Office.
+* [Luxembourg](https://statistiques.public.lu/en.html) - Statistical Office.
+* [Luxembourg](https://data.public.lu/en/#)
+* [Malta](https://nso.gov.mt/) - Statistical Office.
+* [Moldova](http://statistica.gov.md/index.php) - Statistical Office.
+* [Monaco](http://www.monacostatistics.mc/) - Statistical Office.
+* [Montenegro](http://monstat.org/eng/index.php) - Statistical Office.
+* [Netherlands](http://www.cbs.nl/en-GB/default.htm) - Statistical Office.
 * [Netherlands](https://data.overheid.nl/en)
-* [Portugal](https://www.ine.pt/) - Statistical Office. 
-* [Portugal](https://www.pordata.pt/en/Home) - Dataportal «Pordata»     
-* [Rumania](https://data.gov.ro/en/)    
+* [North Macedonia](http://www.stat.gov.mk/Default_en.aspx) - Statistical Office.
+* [Norway](http://www.ssb.no/english/) - Statistical Office.
+* [Poland](http://stat.gov.pl/en/) - Statistical Office.
+* [Portugal](https://www.ine.pt/) - Statistical Office.
+* [Portugal](https://www.pordata.pt/en/Home) - Dataportal «Pordata»
+* [Romania](http://www.insse.ro/cms/en) - Statistical Office.
+* [Romania](https://data.gov.ro/en/)
+* [San Marino](https://www.statistica.sm/pub1/StatisticaSM/en/) - Statistical Office.
+* [Serbia](https://www.stat.gov.rs/en-us/) - Statistical Office.
+* [Slovakia](https://slovak.statistics.sk) - Statistical Office.
+* [Slovenia](http://www.stat.si/StatWeb/en/home) - Statistical Office.
+* [Spain](http://www.ine.es/en/welcome.shtml) - Statistical Office.
+* [Sweden](http://www.scb.se/en/) - Statistical Office.
+* [Türkiye](https://www.tuik.gov.tr/Home/Index) - Statistical Office.
+* [Ukraine](http://www.ukrstat.gov.ua/) - Statistical Office.
+* [Ukraine](https://data.gov.ua/en/)
+* [United Kingdom:](http://www.ons.gov.uk/ons/index.html) - Statistical Office.
 * [United Kingdom](https://www.data.gov.uk/)
-* [Ukraine](https://data.gov.ua/en/)      
+* [Russian Federation](https://eng.rosstat.gov.ru/) - Statistical Office.
 * [Australia](https://data.gov.au/)
 * [New Zealand](https://www.stats.govt.nz/all-topics/)
 * [Singapore](https://beta.data.gov.sg/)
