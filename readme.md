@@ -8,7 +8,7 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 
     
 <details>
-<summary>Contents</summary>
+<summary>**Table of Contents**</summary>
 
 * [Data Portals](#dataportals)
 * [Data Sources](#datasources)
