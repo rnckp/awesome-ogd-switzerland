@@ -1,4 +1,8 @@
-# Awesome Open Government Data Switzerland [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Open Government Data Switzerland 
+
+[![GitHub Stars](https://img.shields.io/github/stars/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland)
+[![GitHub Issues](https://img.shields.io/github/issues/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A manually curated list of Open Government Data (OGD) portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.
 
