@@ -255,6 +255,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [adminR Code Base](https://github.com/swiss-adminR/pkgs) - A curated list of R packages & R code created and used by Swiss public institutions.
 * [Forschungsstelle Digitale Nachhaltigkeit Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/) - The Research Center for Digital Sustainability deals with key topics such as Digital Sustainability, Open Data, Linked Data, and Open Government. The center offers studies, research, services, support, and lectures (see below) in these areas. 
 * [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by Forschungsstelle Digitale Nachhaltigkeit of the University of Bern.
+* [Swiss OSS Benchmark](https://ossbenchmark.com/institutions) - Comprehensive list of open source GitHub repos/orgs of Swiss institutions.
 
 
 <a name="media"></a>
