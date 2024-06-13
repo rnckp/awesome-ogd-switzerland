@@ -33,6 +33,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 
 ### National data portals
 * [opendata.swiss](https://opendata.swiss/de) - Central catalog of Swiss Open Government Data, operated by the Federal Statistical Office (BFS). **Most important entry point to all things OGD in Switzerland.**
+* [BFS Data Portal](https://data.bfs.admin.ch/) - New data portal of the [Federal Statistical Office](https://www.bfs.admin.ch/bfs/en/home/services.html).
 * [BFS STAT-TAB](https://www.pxweb.bfs.admin.ch/pxweb/en/) - This interactive database of the [Federal Statistical Office](https://www.bfs.admin.ch/bfs/en/home/services.html) provides detailed statistical data and enables simple, individual data queries. The tables produced can be exported in various formats.
 * [Schweizer Parlament](https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services) - Open Data and web services of Swiss Parliament.
 * [Schweizerische Nationalbank SNB](https://data.snb.ch/de) - Swiss National Bank data portal.
