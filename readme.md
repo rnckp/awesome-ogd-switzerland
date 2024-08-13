@@ -48,6 +48,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 * [Aargau](https://www.ag.ch/de/themen/datenportal#/)
 * [Basel Stadt](https://data.bs.ch/explore/)
 * [Basel Land](https://data.bl.ch/explore/)
+* [Freiburg / Fribourg](https://opendata.fr.ch/pages/home/)
 * [Luzern](https://www.lustat.ch)
 * [Schwyz](https://data.sz.ch/explore/)
 * [St. Gallen](https://daten.sg.ch/explore/) - Cantonal open data portal.
