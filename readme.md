@@ -48,7 +48,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 * [Aargau](https://www.ag.ch/de/themen/datenportal#/)
 * [Basel Stadt](https://data.bs.ch/explore/)
 * [Basel Land](https://data.bl.ch/explore/)
-* [Freiburg / Fribourg](https://opendata.fr.ch/pages/home/)
+* [Fribourg / Freiburg](https://opendata.fr.ch/pages/home/)
 * [Luzern](https://www.lustat.ch)
 * [Schwyz](https://data.sz.ch/explore/)
 * [St. Gallen](https://daten.sg.ch/explore/) - Cantonal open data portal.
@@ -97,7 +97,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Basel Land](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
 * [Kanton Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html)
 * [Stadt Bern](https://www.bern.ch/open-government-data-ogd/ogd-nach-themen)
-* [Kanton Fribourg](https://www.fr.ch/de/vwbd/stata)
+* [Kanton Fribourg](https://www.fr.ch/de/vwbd/stata) - Offerings of the Statistical Office Fribourg.
 * [Kanton Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
 * [Kanton Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx)
 * [Kanton Jura](https://stat.jura.ch/)
