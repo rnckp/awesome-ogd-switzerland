@@ -364,6 +364,7 @@ Interesting international data portals and websites
 * Open Data Inception [[Database](https://data.opendatasoft.com/explore/dataset/open-data-sources%40public/table/?sort=code_en)] [[Data Map](https://opendatainception.io/)] - Very large and comprehensive list of data sources maintained by the data portal vendor [Opendatasoft](https://www.opendatasoft.com/). See [this article for background information.](https://www.opendatasoft.com/en/blog/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community/) 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) - GitHub list with many more links to public government data sets.
 * [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software.
+* [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon) - Recommendations of tools for crowdsourcing primarily from the open data community.
 
 
 ### Miscellaneous
