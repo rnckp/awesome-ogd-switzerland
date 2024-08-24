@@ -179,7 +179,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Waadt](https://www.geo.vd.ch/)
 * [Kanton Wallis](https://www.vs.ch/de/web/egeo)
 * [Kanton Zug](https://zg.ch/de/planen-bauen/geoinformation/geoinformationen-nutzen)
-* [Kanton Zürich](https://www.zh.ch/de/planen-bauen/geoinformation/geodaten.html)
+* [Kanton Zürich](https://geo.zh.ch/data)
 * [Stadt Zürich](https://www.stadt-zuerich.ch/geodaten/)
 
 
