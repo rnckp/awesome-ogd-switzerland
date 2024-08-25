@@ -282,7 +282,7 @@ Interesting international data portals and websites
 ### Data portals and sources
 * [List of European Statistical Offices](https://www.destatis.de/EN/Service/Address-Book/europe.html) - List provided by [Destatis](https://www.destatis.de).
 * [European Union](https://data.europa.eu/en) - Official data portal of the European Commission.
-* [Eurostat](https://ec.europa.eu/eurostat/web/main/data) - Data portal of the Statistical Office of the European Union [[Database]](https://ec.europa.eu/eurostat/web/main/data/database) [[Geo Data]](https://ec.europa.eu/eurostat/web/gisco/overview) [[Statistical Atlas]](https://ec.europa.eu/statistical-atlas/viewer/?config=RYB-2022.json) [[Chloropleth Map Generator]](https://ec.europa.eu/eurostat/web/gisco/gisco-activities/map-generator) [[Experimental Statistics]](https://ec.europa.eu/eurostat/web/experimental-statistics).
+* [Eurostat](https://ec.europa.eu/eurostat/web/main/data) - Data portal of the Statistical Office of the European Union [[Database]](https://ec.europa.eu/eurostat/web/main/data/database) [[Geo Data]](https://ec.europa.eu/eurostat/web/gisco/overview) [[Statistical Atlas]](https://ec.europa.eu/statistical-atlas/viewer/?config=RYB-2022.json) [[Chloropleth Map Generator]](https://gisco-services.ec.europa.eu/image/screen/home) [[Experimental Statistics]](https://ec.europa.eu/eurostat/web/experimental-statistics).
 * [IATE](https://iate.europa.eu/home) - Terminology database of the EU.
 * [Germany](https://www.govdata.de/) - Germany's main OGD data portal.
 * [Germany](https://www-genesis.destatis.de/genesis/online) - Database of the Federal Statistical Office of Germany [[Experimental Statistics]](https://www.destatis.de/EN/Service/EXDAT/_node.html).
