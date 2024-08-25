@@ -160,7 +160,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Basel-Landschaft](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-geoinformation/geoportal)
 * [Kanton Basel-Stadt](https://www.geo.bs.ch/)
 * [Kanton Bern](https://www.agi.dij.be.ch/de/start.html)
-* [Stadt Bern](https://map.bern.ch/geoportal/) - [Overview website](https://www.bern.ch/themen/planen-und-bauen/geodaten-und-plane)
+* [Stadt Bern](https://map.bern.ch/geoportal/)
 * [Kanton Freiburg](https://map.geo.fr.ch/)
 * [Kanton Genf](https://map.sitg.ch/app/)
 * [Kanton Glarus](https://www.gl.ch/verwaltung/bau-und-umwelt/hochbau/raumentwicklung-und-geoinformation/geoportal-kanton-glarus.html/808)
