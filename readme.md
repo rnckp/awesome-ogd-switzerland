@@ -265,7 +265,7 @@ Selected government websites that provide downloadable data (rather than being a
 Swiss data journalism teams.
 
 * [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) - Repository that contains methods and code used for stories by [NZZ Visuals](https://twitter.com/nzzvisuals).
-* [SRF Data](https://srfdata.github.io/) - Code and data from [SRF Data](https://twitter.com/srfdata), the data-driven journalism unit of Swiss Radio and TV (SRF) [[Publications and projects]](https://www.srf.ch/news/srf-data).
+* [SRF Data](https://srfdata.github.io/) - Code and data from SRF Data, the data-driven journalism unit of Swiss Radio and TV (SRF) [[Publications and projects]](https://www.srf.ch/news/srf-data).
 * [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team [[Projects of Ressort «Daten & Interaktiv»]](https://interaktiv.tagesanzeiger.ch/).
 
 
