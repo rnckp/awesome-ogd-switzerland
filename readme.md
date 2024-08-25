@@ -112,7 +112,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Kanton Thurgau](https://statistik.tg.ch/) – Thematic atlasses [here](https://themenatlas-tg.ch/#c=home).
 * [Kanton Uri](https://www.statistik-uri.ch/daten)
 * [Kanton Vaud](https://www.vd.ch/themes/etat-droit-finances/statistique)
-* [Kanton Wallis](https://www.vs.ch/de/web/sstp/statistique)
+* [Kanton Wallis](https://www.vs.ch/de/web/sstp/sstp)
 * [Kanton Zug](https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle)
 
 
