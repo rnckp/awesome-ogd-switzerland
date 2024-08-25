@@ -93,7 +93,7 @@ Selected government websites that provide downloadable data (rather than being a
 
 
 ### Cantonal and city level
-* [Kanton Basel Stadt](https://www.statistik.bs.ch/)
+* [Kanton Basel Stadt](https://data.bs.ch/pages/home/)
 * [Kanton Basel Land](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
 * [Kanton Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html)
 * [Stadt Bern](https://www.bern.ch/open-government-data-ogd/ogd-nach-themen)
