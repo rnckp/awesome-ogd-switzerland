@@ -378,7 +378,7 @@ Interesting international data portals and websites
 * [Worldbank](https://data.worldbank.org/country/CH) - Data about Switzerland.
 * [Our World in Data](https://ourworldindata.org/search?q=switzerland) - Data about Switzerland.
 * [Open Data Watch](https://odin.opendatawatch.com/Report/) - Open data rankings and much more.
-* [Open Data Monitor](https://opendatamonitor.eu)
+* [Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php?r=datacatalogue%2Flist)
 
     
 ## Contribute
