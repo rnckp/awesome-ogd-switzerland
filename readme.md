@@ -127,7 +127,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Identitas Tierstatistik](https://tierstatistik.identitas.ch/en/index.html) - Various datasets about livestock and companion animals in Switzerland. 
 * [Jagdstatistik](https://www.jagdstatistik.ch/de/home) - Wild animal and hunting data from Bundesamt für Umwelt (BAFU).
 * [Sucht Schweiz](https://zahlen-fakten.suchtschweiz.ch/de.html) - Statistical data of Sucht Schweiz (not an official government entity).
-* [ÖREB-Kataster](https://www.cadastre.ch/de/services/service.html) - Extracts from the Cadastre of Public-law Restrictions on Landownership contain legally binding information about the most important public law restrictions that apply to a given plot of land.
+* [ÖREB-Kataster](https://www.cadastre.ch/de/oereb-kataster) - Extracts from the Cadastre of Public-law Restrictions on Landownership contain legally binding information about the most important public law restrictions that apply to a given plot of land.
 * [Memoriav Memobase](https://memobase.ch/de/start) - Searchable audiovisual collections of Swiss history.
 * [DODIS](https://dodis.ch/search) - Swiss diplomatic documents.
 * [Schweizer Landesmuseum](https://sammlung.nationalmuseum.ch/de/maincategory) 
