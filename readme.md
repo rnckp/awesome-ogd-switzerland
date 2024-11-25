@@ -153,7 +153,8 @@ Selected government websites that provide downloadable data (rather than being a
 * [geodienste.ch](https://geodienste.ch/) - The intercantonal portal for obtaining geodata and services. Basic geodata are aggregated and made available under the responsibility of the cantons and municipalities.
 * [Geoportal.ch](https://www.geoportal.ch/) - Publication platform for Swiss geo data.
 * [BFS Plattform Statatlas](https://www.atlas.bfs.admin.ch/de/index.html) - The Federal Statistical Office (BFS) offers a number of  specialist atlases in addition to the central statistical atlas of Switzerland, which provide more detailed information on special areas of life from a statistical point of view. With the help of numerous interactive maps and graphics as well as the data behind them, a wide variety of geographical processes and relationships can be easily analyzed and evaluated.
-
+* [Datalakes](https://www.datalakes-eawag.ch/) - National geo data portal for in-situ measurements of lakes
+* [Alplakes](https://www.alplakes.eawag.ch/) - Operational lake models and remote sensing products
 
 ### Cantonal and city level
 * [Kantonale Geoportale](https://www.kgk-cgc.ch/geodaten/kantonale_geoportale) - Overview of all cantonal geo portals.
