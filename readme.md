@@ -139,6 +139,7 @@ Selected government websites that provide downloadable data (rather than being a
 * [Ortsnamen.ch](https://www.ortsnamen.ch/de/) - Comprehensive catalog of Swiss location names (project of Schweizerisches Idiotikon). [Searchable map](https://search.ortsnamen.ch/de) and [REST-API](https://search.ortsnamen.ch/static/api/swagger/index.html) available as well.
 * [Swiss Dwellings](https://zenodo.org/record/7788422) - Notable data set provided by Archilyse Open Data of 45,176 Swiss apartments (370,000 rooms) in ~3,100 buildings including their geometries, room typology as well as their visual, acoustical, topological and daylight characteristics.
 * [Meteotest Weather](https://meteotest.ch/en/weather-api) - Weather, climate and environmental data for digital applications (not a government entity, commercial). [[API](https://mdx.meteotest.ch/api_v1?key=AAAABBBBCCCCDDDDEEEEFFFF00001111&service=prod2data&action=sample_forecast)]
+* [Open Data Christian Catholic Church Switzerland](https://christkatholisch.ch/angebote/opendata/) - Open Data offerings of Christikatholische Kirche Schweiz.
 
 
 <a name="geodata"></a>
