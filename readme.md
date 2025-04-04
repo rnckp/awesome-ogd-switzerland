@@ -63,7 +63,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 ### City-level data portals
 
 * [Zürich City](https://data.stadt-zuerich.ch/) – [[GitHub](https://github.com/opendatazurich)]
-* [Zürich Tourismus](https://zt.zuerich.com/de/open-data)
+* [Zürich Tourismus](https://www.zuerich.com/de/business/ueber-zuerich-tourismus/open-data-portal)
 
 <a name="datasources"></a>
 
