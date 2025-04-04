@@ -58,7 +58,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 * [St. Gallen](https://stada2.sg.ch/) - Data shop of the Fachstelle Statistik St. Gallen.
 * [Thurgau](https://data.tg.ch/explore)
 * [Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/)
-* [Zürich «Gemeindeportrait»](https://www.web.statistik.zh.ch/gpv2/) – Web application providing a comprehensive set of indicators which can be exported to various formats.
+* [Zürich «Gemeindeportrait»](https://www.zh.ch/de/politik-staat/gemeinden/gemeindeportraet.html) – Web application providing a comprehensive set of indicators which can be exported to various formats.
 
 ### City-level data portals
 
