@@ -141,7 +141,8 @@ Selected government websites that provide downloadable data (rather than being a
 - [Swiss Dwellings](https://zenodo.org/record/7788422) - Notable data set provided by Archilyse Open Data of 45,176 Swiss apartments (370,000 rooms) in ~3,100 buildings including their geometries, room typology as well as their visual, acoustical, topological and daylight characteristics.
 - [Meteotest Weather](https://meteotest.ch/en/weather-api) - Weather, climate and environmental data for digital applications (not a government entity, commercial). [[API](https://mdx.meteotest.ch/api_v1?key=AAAABBBBCCCCDDDDEEEEFFFF00001111&service=prod2data&action=sample_forecast)]
 - [Christian Catholic Church Switzerland](https://christkatholisch.ch/angebote/opendata/) - Open Data offerings of Christkatholische Kirche Schweiz.
-- [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is a open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland available via an open REST API interface. 
+- [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is a open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland available via an open REST API interface.
+- [OpenHolidays API](https://www.openholidaysapi.org/en/) - Open Data project that collects public holiday and school holiday data and makes it available via an open REST API interface.
 
 <a name="geodata"></a>
 
