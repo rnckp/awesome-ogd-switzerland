@@ -94,6 +94,7 @@ Selected government websites that provide downloadable data (rather than being a
 - [Zentraler Firmenindex ZEFIX](https://www.zefix.admin.ch/de/search/entity/welcome) - API [here](https://www.zefix.admin.ch/ZefixPublicREST/swagger-ui/index.html).
 - [Amtsblattportal](https://amtsblattportal.ch/#!/home) - Official Gazettes Portal. A publishing centre for entities which publish official and commercially relevant publications in the Swiss Official Gazette of Commerce (SOGC) and in Official Cantonal Gazettes. Data can be imported and exported using a [REST API](https://amtsblattportal.ch/docs/api/) too.
 - [MeteoSwiss](https://www.meteoswiss.admin.ch/services-and-publications/service/open-government-data.html) - MeteoSwiss will make data publicly available in 2025. See [policy and background information regarding this OGD initiative](https://github.com/MeteoSwiss/opendata/tree/main) - [[GitHub](https://github.com/MeteoSwiss)].
+- [SLF data service](https://www.slf.ch/en/services-and-products/slf-data-service/) - Data collected and produced in the context of avalanche warning.
 
 ### Cantonal and city level
 
@@ -141,8 +142,6 @@ Selected government websites that provide downloadable data (rather than being a
 - [Swiss Dwellings](https://zenodo.org/record/7788422) - Notable data set provided by Archilyse Open Data of 45,176 Swiss apartments (370,000 rooms) in ~3,100 buildings including their geometries, room typology as well as their visual, acoustical, topological and daylight characteristics.
 - [Meteotest Weather](https://meteotest.ch/en/weather-api) - Weather, climate and environmental data for digital applications (not a government entity, commercial). [[API](https://mdx.meteotest.ch/api_v1?key=AAAABBBBCCCCDDDDEEEEFFFF00001111&service=prod2data&action=sample_forecast)]
 - [Christian Catholic Church Switzerland](https://christkatholisch.ch/angebote/opendata/) - Open Data offerings of Christkatholische Kirche Schweiz.
-- [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is a open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland available via an open REST API interface.
-- [OpenHolidays API](https://www.openholidaysapi.org/en/) - Open Data project that collects public holiday and school holiday data and makes it available via an open REST API interface.
 
 <a name="geodata"></a>
 
@@ -231,6 +230,8 @@ Selected government websites that provide downloadable data (rather than being a
 - [SRGSSR](https://developer.srgssr.ch/) - APIs of the publicly funded broadcaster in Switzerland.
 - [CKAN API documentation](https://docs.ckan.org/en/latest/api/)
 - [OpenERZ](https://github.com/metaodi/openerz) - OpenERZ is an open API to the waste collection of many different municipalities in Switzerland (e.g. Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, Horgen etc.). API and Python client provided by OGD wiz [metaodi](https://github.com/metaodi) aka Stefan Oderbolz.
+- [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is a open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland available via an open REST API interface.
+- [OpenHolidays API](https://www.openholidaysapi.org/en/) - Open Data project that collects public holiday and school holiday data and makes it available via an open REST API interface.
 
 <a name="organizations"></a>
 
