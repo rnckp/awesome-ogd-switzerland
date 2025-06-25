@@ -39,6 +39,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 - [BFS STAT-TAB](https://www.pxweb.bfs.admin.ch/pxweb/en/) - This interactive database of the Federal Statistical Office provides detailed statistical data and enables simple, individual data queries. The tables produced can be exported in various formats.
 - [Schweizer Parlament](https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services) - Open Data and web services of Swiss Parliament. Inofficial Python wrapper [here](https://github.com/metaodi/swissparlpy). R wrapper [here](https://github.com/zumbov2/swissparl).
 - [Schweizerische Nationalbank SNB](https://data.snb.ch/de) - Swiss National Bank data portal.
+- [Swiss Federal Finance Administration FFA](https://www.efv.admin.ch/efv/en/home/finanzberichterstattung/daten/datencenter.html) - Swiss federal budget data. Data portal [here](https://www.data.finance.admin.ch/superset/dashboard/startseite/).
 - [SBB](https://data.sbb.ch/pages/home/) - Swiss Federal Railways data portal.
 - [SBB](https://opentransportdata.swiss/en/) - Open transport data provided by SBB.
 - [Swiss Tourism Data](https://www.tourismdata.ch/) - The portal is part of the National Data Infrastructure for Tourism (NaDIT) project. It serves as the catalogue of metadata of the most important data sources for Swiss tourism.
