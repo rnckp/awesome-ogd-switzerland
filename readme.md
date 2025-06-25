@@ -151,7 +151,8 @@ Selected government websites that provide downloadable data (rather than being a
 ### National
 
 - [swisstopo](https://www.swisstopo.admin.ch/de/geodata.html) - National geo data portal, provided by the Federal Office of Topography (Bundesamt für Landestopographie).
-- [geoadmin](https://www.geo.admin.ch/de/home.html) - National geo data portal (Geoportal des Bundes).
+- [geo.admin.ch](https://www.geo.admin.ch/de/home.html) - National geo data portal (Geoportal des Bundes).
+- [geo.admin.ch - Strassenverzeichnis](https://map.geo.admin.ch/#/map?lang=de&center=2660000,1190000&z=1&topic=ech&layers=ch.swisstopo.amtliches-strassenverzeichnis&bgLayer=ch.swisstopo.pixelkarte-farbe) - Official directory of all Swiss road names.
 - [geocat](https://www.geocat.ch) - Geographic catalog. Operated by swisstopo. Provides geodata, geoservices, and models of federal offices, cantons, municipalities, research institutes, private companies, and more.
 - [geobasisdaten.ch](https://geobasisdaten.ch/) - Geo data portal provided by the [«Konferenz der kantonalen Geoinformations- und Katasterstellen»](https://www.kgk-cgc.ch/). In Switzerland, the basic geodata catalog is a catalog-like listing of all geodata that have been collected by a legal authority by linking them to underlying legal enactments. In addition to a visualization of the geo data recorded by geo information law, its function is the database-specific assignment of responsible bodies and other legally relevant attributes. [More information here](https://www.kgk-cgc.ch/geobasisdaten).
 - [geodienste.ch](https://geodienste.ch/) - The intercantonal portal for obtaining geodata and services. Basic geodata are aggregated and made available under the responsibility of the cantons and municipalities.
@@ -160,6 +161,7 @@ Selected government websites that provide downloadable data (rather than being a
 - [Datalakes](https://www.datalakes-eawag.ch/) - National geo data portal for in-situ measurements of lakes.
 - [Alplakes](https://www.alplakes.eawag.ch/) - Operational lake models and remote sensing products.
 - [Swiss Data Cube](https://www.swissdatacube.org) - 80k satellite images, ~30 TB of earth observation data of Switzerland. The portal is operated by the University of Geneva and the United Nations Environment Programme/GRID-Geneva together with the University of Zurich and the Federal Institute for Forest, Snow and Landscape Research – WSL.
+- [EnviDat](https://www.envidat.ch/) - Environmental research data from Switzerland. The data is provided by research units of the Swiss Federal Institute for Forest, Snow and Landscape WSL.
 
 ### Cantonal and city level
 
