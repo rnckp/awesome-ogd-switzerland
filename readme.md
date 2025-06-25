@@ -105,6 +105,7 @@ Selected government websites that provide downloadable data (rather than being a
 - [Stadt Bern](https://www.bern.ch/open-government-data-ogd/ogd-nach-themen)
 - [Kanton Fribourg](https://www.fr.ch/de/vwbd/stata) - Offerings of the Statistical Office Fribourg.
 - [Kanton Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
+- [Geneva Public Transport](https://opendata.tpg.ch/pages/accueil/) - Open Data Portal of Geneva Public Transport.
 - [Kanton Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx)
 - [Kanton Jura](https://stat.jura.ch/)
 - [Stadt Lausanne](https://www.lausanne.ch/officiel/statistique.html)
@@ -175,7 +176,6 @@ Selected government websites that provide downloadable data (rather than being a
 - [Stadt Bern](https://map.bern.ch/geoportal/)
 - [Kanton Freiburg](https://map.geo.fr.ch/)
 - [Kanton Genf](https://map.sitg.ge.ch/app/)
-- [Geneva Public Transport](https://opendata.tpg.ch/pages/accueil/) - Open Data Portal of Geneva Public Transport.
 - [Kanton Glarus](https://www.gl.ch/verwaltung/bau-und-umwelt/hochbau/raumentwicklung-und-geoinformation/geoportal-kanton-glarus.html/808)
 - [Kanton Graubünden](https://geo.gr.ch/)
 - [Kanton Jura](https://www.jura.ch/DEN/SDT/GeoPortail/GeoPortail-du-Canton-du-Jura.html)
