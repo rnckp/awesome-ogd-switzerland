@@ -156,6 +156,7 @@ Selected government websites that provide downloadable data (rather than being a
 - [BFS Plattform Statatlas](https://www.atlas.bfs.admin.ch/de/index.html) - The Federal Statistical Office (BFS) offers a number of specialist atlases in addition to the central statistical atlas of Switzerland, which provide more detailed information on special areas of life from a statistical point of view. With the help of numerous interactive maps and graphics as well as the data behind them, a wide variety of geographical processes and relationships can be easily analyzed and evaluated.
 - [Datalakes](https://www.datalakes-eawag.ch/) - National geo data portal for in-situ measurements of lakes.
 - [Alplakes](https://www.alplakes.eawag.ch/) - Operational lake models and remote sensing products.
+- [Swiss Data Cube](https://www.swissdatacube.org) - 80k satellite images, ~30 TB of earth observation data of Switzerland. The portal is operated by the University of Geneva and the United Nations Environment Programme/GRID-Geneva together with the University of Zurich and the Federal Institute for Forest, Snow and Landscape Research – WSL.
 
 ### Cantonal and city level
 
