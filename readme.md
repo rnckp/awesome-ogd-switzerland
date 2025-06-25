@@ -175,6 +175,7 @@ Selected government websites that provide downloadable data (rather than being a
 - [Stadt Bern](https://map.bern.ch/geoportal/)
 - [Kanton Freiburg](https://map.geo.fr.ch/)
 - [Kanton Genf](https://map.sitg.ge.ch/app/)
+- [Geneva Public Transport](https://opendata.tpg.ch/pages/accueil/) - Open Data Portal of Geneva Public Transport.
 - [Kanton Glarus](https://www.gl.ch/verwaltung/bau-und-umwelt/hochbau/raumentwicklung-und-geoinformation/geoportal-kanton-glarus.html/808)
 - [Kanton Graubünden](https://geo.gr.ch/)
 - [Kanton Jura](https://www.jura.ch/DEN/SDT/GeoPortail/GeoPortail-du-Canton-du-Jura.html)
