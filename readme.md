@@ -94,7 +94,7 @@ Selected government websites that provide downloadable data (rather than being a
 - [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm)
 - [Zentraler Firmenindex ZEFIX](https://www.zefix.admin.ch/de/search/entity/welcome) - API [here](https://www.zefix.admin.ch/ZefixPublicREST/swagger-ui/index.html).
 - [Amtsblattportal](https://amtsblattportal.ch/#!/home) - Official Gazettes Portal. A publishing centre for entities which publish official and commercially relevant publications in the Swiss Official Gazette of Commerce (SOGC) and in Official Cantonal Gazettes. Data can be imported and exported using a [REST API](https://amtsblattportal.ch/docs/api/) too.
-- [MeteoSwiss](https://www.meteoswiss.admin.ch/services-and-publications/service/open-government-data.html) - MeteoSwiss will make data publicly available in 2025. See [policy and background information regarding this OGD initiative](https://github.com/MeteoSwiss/opendata/tree/main) - [[GitHub](https://github.com/MeteoSwiss)].
+- [Bundesamt für Meteorologie und Klimatologie MeteoSchweiz](https://www.meteoswiss.admin.ch/services-and-publications/service/open-data.html) - Federal Office of Meteorology and Climatology MeteoSwiss.
 - [SLF data service](https://www.slf.ch/en/services-and-products/slf-data-service/) - Data collected and produced in the context of avalanche warning.
 
 ### Cantonal and city level
