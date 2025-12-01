@@ -16,6 +16,7 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 - [Geo Data](#geodata)
 - [Linked Open Data](#linkedopendata)
 - [APIs](#apis)
+- [Model Context Protocol (MCP)](#mcp)
 - [Organizations](#organizations)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
@@ -235,6 +236,16 @@ Selected government websites that provide downloadable data (rather than being a
 - [OpenERZ](https://github.com/metaodi/openerz) - OpenERZ is an open API to the waste collection of many different municipalities in Switzerland (e.g. Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, Horgen etc.). API and Python client provided by OGD wiz [metaodi](https://github.com/metaodi) aka Stefan Oderbolz.
 - [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is a open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland available via an open REST API interface.
 - [OpenHolidays API](https://www.openholidaysapi.org/en/) - Open Data project that collects public holiday and school holiday data and makes it available via an open REST API interface.
+
+<a name="mcp"></a>
+
+## Model Context Protocol (MCP)
+
+- [schwaizer-bfs-mcp](https://github.com/ishumilin/schwaizer-bfs-mcp) - MCP server for Swiss Federal Statistical Office (BFS) data access.
+- [schwaizer-geo-mcp](https://github.com/ishumilin/schwaizer-geo-mcp) - Schwaizer GeoBuilt Enrichment MCP — Swiss building registry, geospatial analytics, and company-location enrichment via geo.admin.ch.
+- [schwaizer-i14y-mcp](https://github.com/ishumilin/schwaizer-i14y-mcp) - MCP server for Switzerland's I14Y interoperability platform.
+- [schwaizer-opendata-mcp](https://github.com/ishumilin/schwaizer-opendata-mcp) - MCP server for opendata.swiss (CKAN) by Schwaizer.
+- [schwaizer-zefix-mcp](https://github.com/ishumilin/schwaizer-zefix-mcp) - MCP server for Swiss Company Registry (Zefix + UID Webservice) access.
 
 <a name="organizations"></a>
 
