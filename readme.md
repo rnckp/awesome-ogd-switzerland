@@ -235,6 +235,7 @@ Selected government websites that provide downloadable data (rather than being a
 - [OpenERZ](https://github.com/metaodi/openerz) - OpenERZ is an open API to the waste collection of many different municipalities in Switzerland (e.g. Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, Horgen etc.). API and Python client provided by OGD wiz [metaodi](https://github.com/metaodi) aka Stefan Oderbolz.
 - [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is a open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland available via an open REST API interface.
 - [OpenHolidays API](https://www.openholidaysapi.org/en/) - Open Data project that collects public holiday and school holiday data and makes it available via an open REST API interface.
+- [OpenParlData.ch](https://openparldata.ch/) – The [API](https://api.openparldata.ch/documentation) offers harmonized data on political actors, parliamentary proceedings, decrees, consultations, votes and more from [78](https://admin.openparldata.ch/#/bodies) national, cantonal, and municipal parliaments.
 
 <a name="organizations"></a>
 
