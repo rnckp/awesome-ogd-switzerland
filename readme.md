@@ -20,7 +20,7 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 - [Podcasts](#podcasts)
 - [Miscellaneous](#miscellaneous)
 - [Media](#media)
-- [Social Media](#socialmedia)
+- [Social Media](#social-media)
 - [International](#international)
 
 </details>
