@@ -225,7 +225,7 @@ Selected government websites that provide downloadable data (rather than being a
 ## APIs
 
 - [opendata.swiss](https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html)
-- [Geo Admin](https://api3.geo.admin.ch/index.html)
+- [Geo Admin](https://docs.geo.admin.ch/)
 - [Geo Admin STAC](https://www.geo.admin.ch/de/geo-dienstleistungen/geodienste/downloadienste/stac-api.html) - API for Geo Admin's Spatial-Temporal Asset Catalog.
 - [Shared mobility](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-82109.html)
 - [Additional API documentation](https://nrohrbach.github.io/ApiDocumentation/) - More information for APIs provided by opendata.swiss, Geo Admin, and Shared mobility.
