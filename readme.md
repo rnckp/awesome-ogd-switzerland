@@ -74,7 +74,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 - [Aargau](https://www.ag.ch/de/themen/datenportal#/)
 - [Basel Stadt](https://data.bs.ch/explore/)
-- [Basel Stadt](https://data.bs.ch/pages/home/)
 - [Basel Land](https://data.bl.ch/explore/)
 - [Basel Land](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
 - [Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html)
