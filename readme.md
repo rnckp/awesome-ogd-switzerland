@@ -89,7 +89,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Schwyz](https://data.sz.ch/explore/)
 - [Solothurn](https://so.ch/verwaltung/finanzdepartement/amt-fuer-finanzen/statistikportal/)
 - [St. Gallen](https://daten.sg.ch/explore/)
-- [St. Gallen](https://stada2.sg.ch/) - Fachstelle Statistik St. Gallen.
+- [St. Gallen Statistical Office](https://stada2.sg.ch/)
 - [Tessin](https://www4.ti.ch/index.php?id=42382)
 - [Thurgau](https://data.tg.ch/explore) – Thematic atlasses [here](https://themenatlas-tg.ch/#c=home).
 - [Thurgau Statistical Office](https://statistik.tg.ch/)
