@@ -40,6 +40,7 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 - [I14Y - Metadata catalog of Switzerland.](https://www.i14y.admin.ch/en/home) - The I14Y interoperability platform is Switzerland’s national data catalogue. It ensures the efficient exchange of data between authorities, companies and citizens. In the platform, an overview of the data collections and interfaces of the Confederation, cantons and communes is continuously expanded and their metadata are made available centrally.
 - [BFS Registers](https://www.bfs.admin.ch/bfs/en/home/registers.html) - Official Swiss Enterprise Register, Population Register and Federal Register of Buildings and Dwellings.
 - [Schweizer Parlament](https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services) - Open Data and web services of Swiss Parliament. Inofficial Python wrapper [here](https://github.com/metaodi/swissparlpy). R wrapper [here](https://github.com/zumbov2/swissparl).
+- [OpenParlData.ch](https://openparldata.ch/) – The [API](https://api.openparldata.ch/documentation) offers harmonized data on political actors, parliamentary proceedings, decrees, consultations, votes and more from [78](https://admin.openparldata.ch/#/bodies) national, cantonal, and municipal parliaments.
 - [Schweizerische Nationalbank SNB](https://data.snb.ch/de) - Swiss National Bank data portal.
 - [Swiss Federal Finance Administration FFA](https://www.efv.admin.ch/efv/en/home/finanzberichterstattung/daten/datencenter.html) - Swiss federal budget data. Data portal [here](https://www.data.finance.admin.ch/superset/dashboard/startseite/).
 - [SBB](https://data.sbb.ch/pages/home/) - Swiss Federal Railways data portal.
@@ -234,7 +235,6 @@ Selected government websites that provide downloadable data (rather than being a
 - [OpenERZ](https://github.com/metaodi/openerz) - OpenERZ is an open API to the waste collection of many different municipalities in Switzerland (e.g. Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, Horgen etc.). API and Python client provided by OGD wiz [metaodi](https://github.com/metaodi) aka Stefan Oderbolz.
 - [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is a open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein and Switzerland available via an open REST API interface.
 - [OpenHolidays API](https://www.openholidaysapi.org/en/) - Open Data project that collects public holiday and school holiday data and makes it available via an open REST API interface.
-- [OpenParlData.ch](https://openparldata.ch/) – The [API](https://api.openparldata.ch/documentation) offers harmonized data on political actors, parliamentary proceedings, decrees, consultations, votes and more from [78](https://admin.openparldata.ch/#/bodies) national, cantonal, and municipal parliaments.
 
 <a name="organizations"></a>
 
