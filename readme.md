@@ -78,9 +78,9 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Basel Land Statistical Office](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
 - [Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html)
 - [Fribourg / Freiburg](https://opendata.fr.ch/pages/home/)
-- [Fribourg / Freiburg Statistical Office](https://www.fr.ch/de/vwbd/stata) - Offerings of the Statistical Office Fribourg.
+- [Fribourg / Freiburg Statistical Office](https://www.fr.ch/de/vwbd/stata)
 - [Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
-- [Geneva Public Transport](https://opendata.tpg.ch/pages/accueil/) - Open Data Portal of Geneva Public Transport.
+- [Geneva Public Transport](https://opendata.tpg.ch/pages/accueil/)
 - [Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx)
 - [Jura](https://stat.jura.ch/)
 - [Luzern](https://www.lustat.ch)
@@ -88,8 +88,8 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Schaffhausen](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Wirtschaft--Statistik-und-Tourismus-3874-DE.html)
 - [Schwyz](https://data.sz.ch/explore/)
 - [Solothurn](https://so.ch/verwaltung/finanzdepartement/amt-fuer-finanzen/statistikportal/)
-- [St. Gallen](https://daten.sg.ch/explore/) - Cantonal open data portal.
-- [St. Gallen](https://stada2.sg.ch/) - Data shop of the Fachstelle Statistik St. Gallen.
+- [St. Gallen](https://daten.sg.ch/explore/)
+- [St. Gallen](https://stada2.sg.ch/) - Fachstelle Statistik St. Gallen.
 - [Tessin](https://www4.ti.ch/index.php?id=42382)
 - [Thurgau](https://data.tg.ch/explore) – Thematic atlasses [here](https://themenatlas-tg.ch/#c=home).
 - [Thurgau Statistical Office](https://statistik.tg.ch/)
@@ -98,7 +98,8 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Wallis](https://www.vs.ch/de/web/sstp/sstp)
 - [Zug](https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle)
 - [Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/)
-- [Zürich «Gemeindeportrait»](https://www.zh.ch/de/politik-staat/gemeinden/gemeindeportraet.html) – Web application providing a comprehensive set of indicators that can be exported to various formats.
+- [Zürich Gemeindeportrait](https://www.zh.ch/de/politik-staat/gemeinden/gemeindeportraet.html)
+- [Zürcher Gemeinden in Zahlen](https://zgz.statistik.zh.ch/)
 
 ### Cities and Municipalities
 
