@@ -12,10 +12,10 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 <summary><strong>Table of Contents</strong></summary>
 
 - [Data Sources](#data-sources)
-- [Geo Data](#geodata)
-- [Linked Open Data](#linkedopendata)
+- [Geo Data](#geo-data)
+- [Linked Open Data](#linked-open-data)
 - [APIs](#apis)
-- [Organizations](#organizations)
+- [Organizations](#organizations-initiatives-events-and-projects)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Miscellaneous](#miscellaneous)
@@ -24,7 +24,6 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 - [International](#international)
 
 </details>
-
 
 ## Data Sources
 
@@ -132,8 +131,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Meteotest Weather](https://meteotest.ch/en/weather-api) - Weather, climate, and environmental data for digital applications (not a government entity, commercial). [[API](https://mdx.meteotest.ch/api_v1?key=AAAABBBBCCCCDDDDEEEEFFFF00001111&service=prod2data&action=sample_forecast)]
 - [Christian Catholic Church Switzerland](https://christkatholisch.ch/angebote/opendata/) - Open Data offerings of Christkatholische Kirche Schweiz.
 
-<a name="geodata"></a>
-
 ## Geo Data
 
 ### National
@@ -196,8 +193,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [GeoBeer Switzerland](https://geobeer.ch/) - GeoBeerCH is an informal meeting of people interested in geography, GIS, cartography and the latest technologies.
 - [mapplus.ch](https://www.mapplus.ch/) - Various Geo Data portals, viewers and links.
 
-<a name="linkedopendata"></a>
-
 ## Linked Open Data
 
 - [LINDAS ecosystem overview](https://lindas.admin.ch/ecosystem/) - LINDAS (Linked Data Service) allows public administrations to publish their data in the form of Knowledge Graphs and make them accessible via <https://lindas.admin.ch>. The service is offered by the [Swiss Federal Archives](https://www.bar.admin.ch/bar/en/home.html).
@@ -205,8 +200,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Federal Geoportal Linked Data](https://geo.ld.admin.ch) - Linked Data Service of the Federal Geoportal.
 - [Stadt Zürich LOD](https://www.stadt-zuerich.ch/prd/de/index/statistik/publikationen-angebote/linked-open-data.html)
 - [Linked Data Meetup](https://www.bfh.ch/de/themen/linked-data/) - The Linked Data Meetup is a collaboration between the Swiss Federal Archives (BAR) and the BFH's Public Sector Transformation Institute. The meetup is aimed at users of linked data, especially in the LINDAS environment.
-
-<a name="apis"></a>
 
 ## APIs
 
@@ -221,8 +214,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [OpenERZ](https://github.com/metaodi/openerz) - OpenERZ is an open API for waste collection data from many different municipalities in Switzerland (e.g., Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, Horgen, etc.). API and Python client provided by OGD wizard [metaodi](https://github.com/metaodi) aka Stefan Oderbolz.
 - [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is an open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein, and Switzerland available via an open REST API interface.
 - [OpenHolidays API](https://www.openholidaysapi.org/en/) - Open Data project that collects public holiday and school holiday data and makes it available via an open REST API interface.
-
-<a name="organizations"></a>
 
 ## Organizations, Initiatives, Events and Projects
 
@@ -239,21 +230,15 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [DINACON](https://dinacon.ch/) - Conference for digital sustainability.
 - [Lobbywatch](https://lobbywatch.ch/de/seite/datenexport) - Lobbywatch enables citizens and media professionals to find out what interests politicians in Bern represent. They offer their data as an open database for independent evaluations.
 
-<a name="newsletters"></a>
-
 ## Newsletters
 
 - [Bundesamt für Statistik](https://scnem.com/a.php?sid=ffnuk.16937bf,f=999)
 - [Open Data CH](https://opendata.us7.list-manage.com/subscribe?u=c01c0e110415680950f8958e4&id=12200d2993)
 
-<a name="podcasts"></a>
-
 ## Podcasts
 
 - [Statistisch gesehen](https://feeds.captivate.fm/statistisch-gesehen/) - Podcast of the Statistical Office Kanton Zürich.
 - [StatGespräch](https://www.destatis.de/DE/Mediathek/Podcasts/_inhalt.html) - Podcast of the Statistical Office Germany.
-
-<a name="miscellaneous"></a>
 
 ## Miscellaneous
 
@@ -268,8 +253,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by Forschungsstelle Digitale Nachhaltigkeit of the University of Bern.
 - [Swiss OSS Benchmark](https://ossbenchmark.com/institutions) - Comprehensive list of open source GitHub repos/orgs of Swiss institutions.
 
-<a name="media"></a>
-
 ## Media
 
 Swiss data journalism teams.
@@ -278,13 +261,9 @@ Swiss data journalism teams.
 - [SRF Data](https://srfdata.github.io/) - Code and data from SRF Data, the data-driven journalism unit of Swiss Radio and TV (SRF) [[Publications and projects]](https://www.srf.ch/news/srf-data).
 - [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team [[Projects of Ressort «Daten & Interaktiv»]](https://interaktiv.tagesanzeiger.ch/).
 
-<a name="socialmedia"></a>
-
 ## Social Media
 
 - [Twitter lists by Open Data CH](https://twitter.com/OpendataCH/lists)
-
-<a name="international"></a>
 
 ## International
 
@@ -395,4 +374,4 @@ Interesting international data portals and websites.
 
 ## Contribute
 
-Contributions are always welcome! Just open an issue or a pull request with your suggestions.
+Contributions are always welcome. Just open an issue or a pull request with your suggestions.
