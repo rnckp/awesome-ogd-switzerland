@@ -30,9 +30,9 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 
 ## Data Portals
 
-Portals and data shops that provide access to Swiss Open Government Data. Listed in this section are «true» data shops rather than websites with download links only.
+Portals and data sources that provide access to Swiss Open Government Data.
 
-### National data portals
+### National
 
 - [opendata.swiss](https://opendata.swiss/de) - Central catalog of Swiss Open Government Data, operated by the Federal Statistical Office (BFS). **Most important entry point to all things OGD in Switzerland.**
 - [BFS Data Portal](https://data.bfs.admin.ch/) - New data portal of the [Federal Statistical Office](https://www.bfs.admin.ch/bfs/en/home/services.html).
@@ -48,34 +48,6 @@ Portals and data shops that provide access to Swiss Open Government Data. Listed
 - [Swiss Tourism Data](https://www.tourismdata.ch/) - The portal is part of the National Data Infrastructure for Tourism (NaDIT) project. It serves as the catalogue of metadata of the most important data sources for Swiss tourism.
 - [Infectious Diseases Dashboard (IDD)](https://idd.bag.admin.ch/) - Information on cases of infection and illness in Switzerland and Liechtenstein caused by various pathogens, provided by the Federal Office of Public Health FOPH.
 - [Visualize](https://visualize.admin.ch) - Create and embed visualizations from any dataset provided by the LINDAS Linked Data Service.
-
-### Cantonal data portals
-
-- [Aargau](https://www.ag.ch/de/themen/datenportal#/)
-- [Basel Stadt](https://data.bs.ch/explore/)
-- [Basel Land](https://data.bl.ch/explore/)
-- [Fribourg / Freiburg](https://opendata.fr.ch/pages/home/)
-- [Luzern](https://www.lustat.ch)
-- [Schwyz](https://data.sz.ch/explore/)
-- [St. Gallen](https://daten.sg.ch/explore/) - Cantonal open data portal.
-- [St. Gallen](https://stada2.sg.ch/) - Data shop of the Fachstelle Statistik St. Gallen.
-- [Thurgau](https://data.tg.ch/explore)
-- [Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/)
-- [Zürich «Gemeindeportrait»](https://www.zh.ch/de/politik-staat/gemeinden/gemeindeportraet.html) – Web application providing a comprehensive set of indicators that can be exported to various formats.
-
-### City-level data portals
-
-- [Zürich City](https://data.stadt-zuerich.ch/) – [[GitHub](https://github.com/opendatazurich)]
-- [Zürich Tourismus](https://www.zuerich.com/de/business/ueber-zuerich-tourismus/open-data-portal)
-
-<a name="datasources"></a>
-
-## Data sources
-
-Selected government websites that provide downloadable data (rather than being a full-featured data shop).
-
-### National
-
 - [Bundesamt für Gesundheit BAG](https://www.bag.admin.ch/de/zahlen-statistiken) - Federal Office of Public Health.
 - [Versorgungsatlas](https://www.versorgungsatlas.ch/) - Swiss Health Care Atlas provided by BAG and [Swiss Health Observatory](https://www.obsan.admin.ch/en). Public health data covering more than 100 indicators.
 - [Agrarmarktdaten](https://www.agrarmarktdaten.ch/) - Comprehensive data portal provided by the Federal Office for Agriculture. The portal provides ongoing information and data on current market events in various agricultural and food markets. You will find price and quantity information along the value chain from production to consumption.
@@ -98,32 +70,48 @@ Selected government websites that provide downloadable data (rather than being a
 - [Bundesamt für Meteorologie und Klimatologie MeteoSchweiz](https://www.meteoswiss.admin.ch/services-and-publications/service/open-data.html) - Federal Office of Meteorology and Climatology MeteoSwiss.
 - [SLF data service](https://www.slf.ch/en/services-and-products/slf-data-service/) - Data collected and produced in the context of avalanche warning.
 
-### Cantonal and city level
+### Cantonal
 
-- [Kanton Basel Stadt](https://data.bs.ch/pages/home/)
-- [Kanton Basel Land](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
-- [Kanton Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html)
-- [Stadt Bern](https://www.bern.ch/open-government-data-ogd/ogd-nach-themen)
-- [Kanton Fribourg](https://www.fr.ch/de/vwbd/stata) - Offerings of the Statistical Office Fribourg.
-- [Kanton Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
+- [Aargau](https://www.ag.ch/de/themen/datenportal#/)
+- [Basel Stadt](https://data.bs.ch/explore/)
+- [Basel Stadt](https://data.bs.ch/pages/home/)
+- [Basel Land](https://data.bl.ch/explore/)
+- [Basel Land](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
+- [Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html)
+- [Fribourg / Freiburg](https://opendata.fr.ch/pages/home/)
+- [Fribourg](https://www.fr.ch/de/vwbd/stata) - Offerings of the Statistical Office Fribourg.
+- [Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
 - [Geneva Public Transport](https://opendata.tpg.ch/pages/accueil/) - Open Data Portal of Geneva Public Transport.
-- [Kanton Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx)
-- [Kanton Jura](https://stat.jura.ch/)
-- [Stadt Lausanne](https://www.lausanne.ch/officiel/statistique.html)
-- [Stadt Lugano](https://statistica.lugano.ch/site/dati-ogd/)
-- [Stadt Luzern](https://www.lustat.ch/statistikportal-stadt-luzern)
-- [Kanton Neuchâtel](https://www.ne.ch/autorites/DFS/STAT/Pages/accueil.aspx)
-- [Kanton Schaffhausen](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Wirtschaft--Statistik-und-Tourismus-3874-DE.html)
-- [Kanton Solothurn](https://so.ch/verwaltung/finanzdepartement/amt-fuer-finanzen/statistikportal/)
-- [Stadt St. Gallen](https://www.stadt.sg.ch/home/verwaltung-politik/stadt-zahlen/statistikdatenbanken.html)
-- [Kanton Tessin](https://www4.ti.ch/index.php?id=42382)
-- [Kanton Thurgau](https://statistik.tg.ch/) – Thematic atlasses [here](https://themenatlas-tg.ch/#c=home).
-- [Kanton Uri](https://www.statistik-uri.ch/daten)
-- [Kanton Vaud](https://www.vd.ch/themes/etat-droit-finances/statistique)
-- [Kanton Wallis](https://www.vs.ch/de/web/sstp/sstp)
-- [Kanton Zug](https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle)
+- [Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx)
+- [Jura](https://stat.jura.ch/)
+- [Luzern](https://www.lustat.ch)
+- [Neuchâtel](https://www.ne.ch/autorites/DFS/STAT/Pages/accueil.aspx)
+- [Schaffhausen](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Wirtschaft--Statistik-und-Tourismus-3874-DE.html)
+- [Schwyz](https://data.sz.ch/explore/)
+- [Solothurn](https://so.ch/verwaltung/finanzdepartement/amt-fuer-finanzen/statistikportal/)
+- [St. Gallen](https://daten.sg.ch/explore/) - Cantonal open data portal.
+- [St. Gallen](https://stada2.sg.ch/) - Data shop of the Fachstelle Statistik St. Gallen.
+- [Tessin](https://www4.ti.ch/index.php?id=42382)
+- [Thurgau](https://statistik.tg.ch/) – Thematic atlasses [here](https://themenatlas-tg.ch/#c=home).
+- [Thurgau](https://data.tg.ch/explore)
+- [Uri](https://www.statistik-uri.ch/daten)
+- [Vaud](https://www.vd.ch/themes/etat-droit-finances/statistique)
+- [Wallis](https://www.vs.ch/de/web/sstp/sstp)
+- [Zug](https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle)
+- [Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/)
+- [Zürich «Gemeindeportrait»](https://www.zh.ch/de/politik-staat/gemeinden/gemeindeportraet.html) – Web application providing a comprehensive set of indicators that can be exported to various formats.
 
-### Miscellaneous Data Sources
+### Cities and Municipalities
+
+- [Bern](https://www.bern.ch/open-government-data-ogd/ogd-nach-themen)
+- [Lausanne](https://www.lausanne.ch/officiel/statistique.html)
+- [Lugano](https://statistica.lugano.ch/site/dati-ogd/)
+- [Luzern](https://www.lustat.ch/statistikportal-stadt-luzern)
+- [St. Gallen](https://www.stadt.sg.ch/home/verwaltung-politik/stadt-zahlen/statistikdatenbanken.html)
+- [Zürich](https://data.stadt-zuerich.ch/) – [[GitHub](https://github.com/opendatazurich)]
+- [Zürich Tourismus](https://www.zuerich.com/de/business/ueber-zuerich-tourismus/open-data-portal)
+
+### Miscellaneous
 
 - [Swiss official commune register](https://www.bfs.admin.ch/bfs/en/home/basics/swiss-official-commune-register.html) - Register of all Swiss commune names, numbers, and past mutations. ([App](https://www.agvchapp.bfs.admin.ch/de/home))
 - [TERMDAT](https://www.bk.admin.ch/bk/de/home/dokumentation/sprachen/termdat.html) - The Federal Administration's terminology database ([direct access](https://www.termdat.ch/search)). The EU's terminology database IATE can be accessed [here](https://iate.europa.eu/home).
