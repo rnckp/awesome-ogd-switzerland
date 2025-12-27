@@ -39,35 +39,39 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [BFS STAT-TAB](https://www.pxweb.bfs.admin.ch/pxweb/en/) - This interactive database of the Federal Statistical Office provides detailed statistical data and enables simple, individual data queries. The tables produced can be exported in various formats.
 - [I14Y - Metadata catalog of Switzerland.](https://www.i14y.admin.ch/en/home) - The I14Y interoperability platform is Switzerland’s national data catalogue. It ensures the efficient exchange of data between authorities, companies and citizens. In the platform, an overview of the data collections and interfaces of the Confederation, cantons and communes is continuously expanded and their metadata are made available centrally.
 - [BFS Registers](https://www.bfs.admin.ch/bfs/en/home/registers.html) - Official Swiss Enterprise Register, Population Register and Federal Register of Buildings and Dwellings.
+
 - [Schweizer Parlament](https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services) - Open Data and web services of Swiss Parliament. Unofficial Python wrapper [here](https://github.com/metaodi/swissparlpy). R wrapper [here](https://github.com/zumbov2/swissparl).
 - [OpenParlData.ch](https://openparldata.ch/) – The [API](https://api.openparldata.ch/documentation) offers harmonized data on political actors, parliamentary proceedings, decrees, consultations, votes and more from [78](https://admin.openparldata.ch/#/bodies) national, cantonal, and municipal parliaments.
+
 - [Schweizerische Nationalbank SNB](https://data.snb.ch/de) - Swiss National Bank data portal.
+
 - [Swiss Federal Finance Administration FFA](https://www.efv.admin.ch/efv/en/home/finanzberichterstattung/daten/datencenter.html) - Swiss Federal budget data. Data portal [here](https://www.data.finance.admin.ch/superset/dashboard/startseite/).
-- [SBB](https://data.sbb.ch/pages/home/) - Swiss Federal Railways data portal.
-- [SBB](https://opentransportdata.swiss/en/) - Open transport data provided by SBB.
-- [Swiss Tourism Data](https://www.tourismdata.ch/) - The portal is part of the National Data Infrastructure for Tourism (NaDIT) project. It serves as the catalogue of metadata of the most important data sources for Swiss tourism.
-- [Infectious Diseases Dashboard (IDD)](https://idd.bag.admin.ch/) - Information on cases of infection and illness in Switzerland and Liechtenstein caused by various pathogens, provided by the Federal Office of Public Health FOPH.
-- [Visualize](https://visualize.admin.ch) - Create and embed visualizations from any dataset provided by the LINDAS Linked Data Service.
+
 - [Bundesamt für Gesundheit BAG](https://www.bag.admin.ch/de/zahlen-statistiken) - Federal Office of Public Health.
 - [Versorgungsatlas](https://www.versorgungsatlas.ch/) - Swiss Health Care Atlas provided by BAG and [Swiss Health Observatory](https://www.obsan.admin.ch/en). Public health data covering more than 100 indicators.
+- [Infectious Diseases Dashboard (IDD)](https://idd.bag.admin.ch/) - Information on cases of infection and illness in Switzerland and Liechtenstein caused by various pathogens, provided by the Federal Office of Public Health FOPH / BAG.
+- [arbeit.swiss](https://www.amstat.ch/v2/amstat_de.html) - Data portal of the State Secretariat for Economic Affairs (SECO).
 - [Agrarmarktdaten](https://www.agrarmarktdaten.ch/) - Comprehensive data portal provided by the Federal Office for Agriculture. The portal provides ongoing information and data on current market events in various agricultural and food markets. You will find price and quantity information along the value chain from production to consumption.
 - [Agrarbericht](https://www.blw.admin.ch/blw/de/home/agrarbericht.html) - Agricultural data provided by the Federal Office for Agriculture.
 - [Schweizer Nährwertdatenbank](https://naehrwertdaten.ch/de/) - The Swiss Food Composition Database contains information on the composition of foods that are available in Switzerland. The database is operated by the Federal Food Safety and Veterinary Office FSVO.
-- [arbeit.swiss](https://www.amstat.ch/v2/amstat_de.html) - Data portal of the State Secretariat for Economic Affairs (SECO).
 - [Bundesamt für Energie BFE](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken.html) - Federal Office of Energy.
 - [Bundesamt für Sozialversicherungen BSV](https://www.bsv.admin.ch/de/statistik) - Federal Social Security Office.
 - [Bundesamt für Umwelt BAFU](https://www.bafu.admin.ch/bafu/de/home/zustand.html) - Federal Office for the Environment.
 - [Eidgenössische Steuerverwaltung](https://www.estv.admin.ch/estv/de/home/die-estv/steuerstatistiken-estv.html) - Federal Tax Administration.
-- [Eidgenössisches Institut für Geistiges Eigentum IGE](https://www.ige.ch/de/uebersicht-dienstleistungen/digitales-angebot) - Federal Institute of Intellectual Property.
 - [Staatssekretariat für Migration SEM](https://www.sem.admin.ch/sem/de/home/publiservice/statistik.html) - State Secretariat for Migration.
 - [Fedlex – Publikationsplattform des Bundesrechts](https://www.fedlex.admin.ch/de/home) - Publication platform for federal law.
+- [Zentraler Firmenindex ZEFIX](https://www.zefix.admin.ch/de/search/entity/welcome) - API [here](https://www.zefix.admin.ch/ZefixPublicREST/swagger-ui/index.html).
+- [Amtsblattportal](https://amtsblattportal.ch/#!/home) - Official Gazettes Portal. A publishing center for entities that publish official and commercially relevant publications in the Swiss Official Gazette of Commerce (SOGC) and in Official Cantonal Gazettes. Data can also be imported and exported using a [REST API](https://amtsblattportal.ch/docs/api/).
+- [Bundesamt für Meteorologie und Klimatologie MeteoSchweiz](https://www.meteoswiss.admin.ch/services-and-publications/service/open-data.html) - Federal Office of Meteorology and Climatology MeteoSwiss.
+- [Visualize](https://visualize.admin.ch) - Create and embed visualizations from any dataset provided by the LINDAS Linked Data Service.
+- [Eidgenössisches Institut für Geistiges Eigentum IGE](https://www.ige.ch/de/uebersicht-dienstleistungen/digitales-angebot) - Federal Institute of Intellectual Property.
+- [SBB](https://data.sbb.ch/pages/home/) - Swiss Federal Railways data portal.
+- [SBB](https://opentransportdata.swiss/en/) - Open transport data provided by SBB.
+- [Swiss Tourism Data](https://www.tourismdata.ch/) - The portal is part of the National Data Infrastructure for Tourism (NaDIT) project. It serves as the catalogue of metadata of the most important data sources for Swiss tourism.
 - [Konjunkturforschungsstelle ETH Zürich](https://kof.ethz.ch/daten.html)
 - [FORS SWISSUbase](https://www.swissubase.ch/de/) - Cross-disciplinary data repository for Swiss universities.
 - [Schweizerischer Nationalfonds SNF](https://data.snf.ch/datasets) - Swiss National Science Foundation. GitHub repositories with SNF's data stories [here](https://github.com/snsf-data).
 - [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm)
-- [Zentraler Firmenindex ZEFIX](https://www.zefix.admin.ch/de/search/entity/welcome) - API [here](https://www.zefix.admin.ch/ZefixPublicREST/swagger-ui/index.html).
-- [Amtsblattportal](https://amtsblattportal.ch/#!/home) - Official Gazettes Portal. A publishing center for entities that publish official and commercially relevant publications in the Swiss Official Gazette of Commerce (SOGC) and in Official Cantonal Gazettes. Data can also be imported and exported using a [REST API](https://amtsblattportal.ch/docs/api/).
-- [Bundesamt für Meteorologie und Klimatologie MeteoSchweiz](https://www.meteoswiss.admin.ch/services-and-publications/service/open-data.html) - Federal Office of Meteorology and Climatology MeteoSwiss.
 - [SLF data service](https://www.slf.ch/en/services-and-products/slf-data-service/) - Data collected and produced in the context of avalanche warning.
 
 ### Cantonal
@@ -75,10 +79,10 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Aargau](https://www.ag.ch/de/themen/datenportal#/)
 - [Basel Stadt](https://data.bs.ch/explore/)
 - [Basel Land](https://data.bl.ch/explore/)
-- [Basel Land](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
+- [Basel Land Statistical Office](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
 - [Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html)
 - [Fribourg / Freiburg](https://opendata.fr.ch/pages/home/)
-- [Fribourg](https://www.fr.ch/de/vwbd/stata) - Offerings of the Statistical Office Fribourg.
+- [Fribourg / Freiburg Statistical Office](https://www.fr.ch/de/vwbd/stata) - Offerings of the Statistical Office Fribourg.
 - [Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
 - [Geneva Public Transport](https://opendata.tpg.ch/pages/accueil/) - Open Data Portal of Geneva Public Transport.
 - [Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx)
@@ -91,8 +95,8 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [St. Gallen](https://daten.sg.ch/explore/) - Cantonal open data portal.
 - [St. Gallen](https://stada2.sg.ch/) - Data shop of the Fachstelle Statistik St. Gallen.
 - [Tessin](https://www4.ti.ch/index.php?id=42382)
-- [Thurgau](https://statistik.tg.ch/) – Thematic atlasses [here](https://themenatlas-tg.ch/#c=home).
-- [Thurgau](https://data.tg.ch/explore)
+- [Thurgau](https://data.tg.ch/explore) – Thematic atlasses [here](https://themenatlas-tg.ch/#c=home).
+- [Thurgau Statistical Office](https://statistik.tg.ch/)
 - [Uri](https://www.statistik-uri.ch/daten)
 - [Vaud](https://www.vd.ch/themes/etat-droit-finances/statistique)
 - [Wallis](https://www.vs.ch/de/web/sstp/sstp)
