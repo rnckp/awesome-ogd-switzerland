@@ -12,7 +12,6 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 <summary><strong>Table of Contents</strong></summary>
 
 - [Data Portals](#dataportals)
-- [Data Sources](#datasources)
 - [Geo Data](#geodata)
 - [Linked Open Data](#linkedopendata)
 - [APIs](#apis)
@@ -28,7 +27,7 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 
 <a name="dataportals"></a>
 
-## Data Portals
+## Data Sources
 
 Portals and data sources that provide access to Swiss Open Government Data.
 
