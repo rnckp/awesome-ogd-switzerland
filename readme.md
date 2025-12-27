@@ -83,7 +83,7 @@ Selected government websites that provide downloadable data (rather than being a
 - [Schweizer Nährwertdatenbank](https://naehrwertdaten.ch/de/) - The Swiss Food Composition Database contains information on the composition of foods that are available in Switzerland. The database is operated by the Federal Food Safety and Veterinary Office FSVO.
 - [arbeit.swiss](https://www.amstat.ch/v2/amstat_de.html) - Data portal of the State Secretariat for Economic Affairs (SECO).
 - [Bundesamt für Energie BFE](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken.html) - Federal Office of Energy.
-- [Bundesamt für Sozialversicherungen BSV](https://www.bsv.admin.ch/bsv/de/home/publikationen-und-service/statistiken.html) - Federal Social Security Office.
+- [Bundesamt für Sozialversicherungen BSV](https://www.bsv.admin.ch/de/statistik) - Federal Social Security Office.
 - [Bundesamt für Umwelt BAFU](https://www.bafu.admin.ch/bafu/de/home/zustand.html) - Federal Office for the Environment.
 - [Eidgenössische Steuerverwaltung](https://www.estv.admin.ch/estv/de/home/die-estv/steuerstatistiken-estv.html) - Federal Tax Administration.
 - [Eidgenössisches Institut für Geistiges Eigentum IGE](https://www.ige.ch/de/uebersicht-dienstleistungen/digitales-angebot) - Federal Institute of Intellectual Property.
