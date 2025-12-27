@@ -11,7 +11,7 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 <details>
 <summary><strong>Table of Contents</strong></summary>
 
-- [Data Sources](#datasources)
+- [Data Sources](#data-sources)
 - [Geo Data](#geodata)
 - [Linked Open Data](#linkedopendata)
 - [APIs](#apis)
