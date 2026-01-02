@@ -163,7 +163,7 @@ def generate_report(results: List[Tuple[str, bool, int, str]]) -> None:
         console.print()
         console.print("[bold green]✓ All links are accessible![/bold green]")
     
-    # Save report to file
+    # Save plain text report
     report_file = Path("link-check-report.txt")
     with open(report_file, 'w', encoding='utf-8') as f:
         f.write("Link Check Report\n")
@@ -181,8 +181,31 @@ def generate_report(results: List[Tuple[str, bool, int, str]]) -> None:
                     f.write(f"\nURL: {url}\n")
                     f.write(f"Status Code: {status_code if status_code > 0 else 'N/A'}\n")
                     f.write(f"Error: {error if error else 'HTTP Error'}\n")
-    
-    console.print(f"\n[dim]Report saved to: {report_file}[/dim]")
+
+    # Save markdown report
+    md_report_file = Path("link-check-report.md")
+    with open(md_report_file, 'w', encoding='utf-8') as f:
+        f.write(f"# Link Check Report\n\n")
+        f.write(f"**Total URLs checked:** {total}  \n")
+        f.write(f"**Available:** {available}  \n")
+        f.write(f"**Unavailable:** {unavailable}  \n")
+        f.write(f"**Success Rate:** {(available/total*100):.1f}%\n\n")
+
+        if unavailable > 0:
+            f.write("## Unavailable Links\n\n")
+            f.write("| URL | Status Code | Error |\n")
+            f.write("| --- | :---: | --- |\n")
+            for url, is_avail, status_code, error in results:
+                if not is_avail:
+                    status_str = str(status_code) if status_code > 0 else "-"
+                    error_str = error if error else "HTTP Error"
+                    # Markdown clickable link
+                    md_url = f"[{url}]({url})"
+                    f.write(f"| {md_url} | {status_str} | {error_str} |\n")
+        else:
+            f.write("All links are accessible!\n")
+
+    console.print(f"\n[dim]Report saved to: {report_file} and {md_report_file}[/dim]")
 
 
 def main():
