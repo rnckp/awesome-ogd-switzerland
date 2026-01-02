@@ -358,7 +358,6 @@ Interesting international data portals and websites.
 - [Ukraine](https://data.gov.ua/en/)
 - [United Kingdom:](http://www.ons.gov.uk/ons/index.html) - Statistical Office.
 - [United Kingdom](https://www.data.gov.uk/)
-- [Russian Federation](https://eng.rosstat.gov.ru/) - Statistical Office.
 - [Australia](https://data.gov.au/)
 - [New Zealand](https://www.stats.govt.nz/all-topics/)
 - [Singapore](https://beta.data.gov.sg/)
