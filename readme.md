@@ -31,14 +31,36 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 ### National
 
+#### Statistical and Administrative Data
+
 - [opendata.swiss](https://opendata.swiss/de) - Central catalog of Swiss Open Government Data, operated by the Federal Statistical Office (BFS). **Most important entry point to all things OGD in Switzerland.**
 - [BFS Data Portal](https://data.bfs.admin.ch/) - New data portal of the [Federal Statistical Office](https://www.bfs.admin.ch/bfs/en/home/services.html).
 - [BFS STAT-TAB](https://www.pxweb.bfs.admin.ch/pxweb/en/) - This interactive database of the Federal Statistical Office provides detailed statistical data and enables simple, individual data queries. The tables produced can be exported in various formats.
 - [I14Y - Metadata catalog of Switzerland.](https://www.i14y.admin.ch/en/home) - The I14Y interoperability platform is Switzerland’s national data catalogue. It ensures the efficient exchange of data between authorities, companies and citizens. In the platform, an overview of the data collections and interfaces of the Confederation, cantons and communes is continuously expanded and their metadata are made available centrally.
 - [BFS Registers](https://www.bfs.admin.ch/bfs/en/home/registers.html) - Official Swiss Enterprise Register, Population Register and Federal Register of Buildings and Dwellings.
+- [Visualize](https://visualize.admin.ch) - Create and embed visualizations from any dataset provided by the LINDAS Linked Data Service.
+- [Swiss official commune register](https://www.bfs.admin.ch/bfs/en/home/basics/swiss-official-commune-register.html) - Register of all Swiss commune names, numbers, and past mutations. ([App](https://www.agvchapp.bfs.admin.ch/de/home))
+- [TERMDAT](https://www.bk.admin.ch/bk/de/home/dokumentation/sprachen/termdat.html) - The Federal Administration's terminology database ([direct access](https://www.termdat.ch/search)). The EU's terminology database IATE can be accessed [here](https://iate.europa.eu/home).
+- [ÖREB-Kataster](https://www.cadastre.ch/de/oereb-kataster) - Extracts from the Cadastre of Public-law Restrictions on Landownership containing legally binding information about the most important public law restrictions that apply to a given plot of land.
+
+#### Parliamentary Data
+
 - [Schweizer Parlament](https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services) - Open Data and web services of Swiss Parliament. Unofficial Python wrapper [here](https://github.com/metaodi/swissparlpy). R wrapper [here](https://github.com/zumbov2/swissparl).
 - [OpenParlData.ch](https://openparldata.ch/) – The [API](https://api.openparldata.ch/documentation) offers harmonized data on political actors, parliamentary proceedings, decrees, consultations, votes and more from [78](https://admin.openparldata.ch/#/bodies) national, cantonal, and municipal parliaments.
+- [Amtsblattportal](https://amtsblattportal.ch/#!/home) - Official Gazettes Portal. A publishing center for entities that publish official and commercially relevant publications in the Swiss Official Gazette of Commerce (SOGC) and in Official Cantonal Gazettes. Data can also be imported and exported using a [REST API](https://amtsblattportal.ch/docs/api/).
+
+#### Legal Data
+
+- [Fedlex – Publikationsplattform des Bundesrechts](https://www.fedlex.admin.ch/de/home) - Publication platform for federal law.
+- [entscheidsuche.ch](https://entscheidsuche.ch/) - This freely accessible portal offers a search of all published court decisions from Swiss courts at all levels. GitHub scraper repository of the project [here](https://github.com/entscheidsuche).
+
+#### Financial and Economic Data
+
 - [Swiss Federal Finance Administration FFA](https://www.efv.admin.ch/efv/en/home/finanzberichterstattung/daten/datencenter.html) - Swiss Federal budget data. Data portal [here](https://www.data.finance.admin.ch/superset/dashboard/startseite/).
+- [Schweizerische Nationalbank SNB](https://data.snb.ch/de) - Swiss National Bank data portal.
+
+#### Federal Offices and Other National Data Sources
+
 - [Bundesamt für Gesundheit BAG](https://www.bag.admin.ch/de/zahlen-statistiken) - Federal Office of Public Health.
 - [Versorgungsatlas](https://www.versorgungsatlas.ch/) - Swiss Health Care Atlas provided by BAG and [Swiss Health Observatory](https://www.obsan.admin.ch/en). Public health data covering more than 100 indicators.
 - [Infectious Diseases Dashboard (IDD)](https://idd.bag.admin.ch/) - Information on cases of infection and illness in Switzerland and Liechtenstein caused by various pathogens, provided by the Federal Office of Public Health FOPH / BAG.
@@ -51,21 +73,27 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Bundesamt für Umwelt BAFU](https://www.bafu.admin.ch/bafu/de/home/zustand.html) - Federal Office for the Environment.
 - [Eidgenössische Steuerverwaltung](https://www.estv.admin.ch/estv/de/home/die-estv/steuerstatistiken-estv.html) - Federal Tax Administration.
 - [Staatssekretariat für Migration SEM](https://www.sem.admin.ch/sem/de/home/publiservice/statistik.html) - State Secretariat for Migration.
-- [Fedlex – Publikationsplattform des Bundesrechts](https://www.fedlex.admin.ch/de/home) - Publication platform for federal law.
 - [Zentraler Firmenindex ZEFIX](https://www.zefix.admin.ch/de/search/entity/welcome) - API [here](https://www.zefix.admin.ch/ZefixPublicREST/swagger-ui/index.html).
-- [Amtsblattportal](https://amtsblattportal.ch/#!/home) - Official Gazettes Portal. A publishing center for entities that publish official and commercially relevant publications in the Swiss Official Gazette of Commerce (SOGC) and in Official Cantonal Gazettes. Data can also be imported and exported using a [REST API](https://amtsblattportal.ch/docs/api/).
-- [Bundesamt für Meteorologie und Klimatologie MeteoSchweiz](https://www.meteoswiss.admin.ch/services-and-publications/service/open-data.html) - Federal Office of Meteorology and Climatology MeteoSwiss.
-- [Visualize](https://visualize.admin.ch) - Create and embed visualizations from any dataset provided by the LINDAS Linked Data Service.
-- [Schweizerische Nationalbank SNB](https://data.snb.ch/de) - Swiss National Bank data portal.
 - [Eidgenössisches Institut für Geistiges Eigentum IGE](https://www.ige.ch/de/uebersicht-dienstleistungen/digitales-angebot) - Federal Institute of Intellectual Property.
-- [SBB](https://data.sbb.ch/pages/home/) - Swiss Federal Railways data portal.
-- [SBB](https://opentransportdata.swiss/en/) - Open transport data provided by SBB.
-- [Swiss Tourism Data](https://www.tourismdata.ch/) - The portal is part of the National Data Infrastructure for Tourism (NaDIT) project. It serves as the catalogue of metadata of the most important data sources for Swiss tourism.
 - [Konjunkturforschungsstelle ETH Zürich](https://kof.ethz.ch/daten.html)
+- [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm)
+
+#### Environment, Tourism and Meteorology Data
+
+- [Swiss Tourism Data](https://www.tourismdata.ch/) - The portal is part of the National Data Infrastructure for Tourism (NaDIT) project. It serves as the catalogue of metadata of the most important data sources for Swiss tourism.
+- [Bundesamt für Meteorologie und Klimatologie MeteoSchweiz](https://www.meteoswiss.admin.ch/services-and-publications/service/open-data.html) - Federal Office of Meteorology and Climatology MeteoSwiss.
+- [SLF data service](https://www.slf.ch/en/services-and-products/slf-data-service/) - Data collected and produced in the context of avalanche warning.
+
+#### Academic and Research Data
+
 - [FORS SWISSUbase](https://www.swissubase.ch/de/) - Cross-disciplinary data repository for Swiss universities.
 - [Schweizerischer Nationalfonds SNF](https://data.snf.ch/datasets) - Swiss National Science Foundation. GitHub repositories with SNF's data stories [here](https://github.com/snsf-data).
-- [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm)
-- [SLF data service](https://www.slf.ch/en/services-and-products/slf-data-service/) - Data collected and produced in the context of avalanche warning.
+- [CERN](https://opendata.cern.ch/) - Open data portal of [CERN](https://home.web.cern.ch/), the European Laboratory for Particle Physics.
+
+#### Transport Data
+
+- [SBB](https://data.sbb.ch/pages/home/) - Swiss Federal Railways data portal.
+- [SBB](https://opentransportdata.swiss/en/) - Open transport data provided by SBB.
 
 ### Cantonal
 
@@ -110,17 +138,12 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 ### Miscellaneous
 
-- [Swiss official commune register](https://www.bfs.admin.ch/bfs/en/home/basics/swiss-official-commune-register.html) - Register of all Swiss commune names, numbers, and past mutations. ([App](https://www.agvchapp.bfs.admin.ch/de/home))
-- [TERMDAT](https://www.bk.admin.ch/bk/de/home/dokumentation/sprachen/termdat.html) - The Federal Administration's terminology database ([direct access](https://www.termdat.ch/search)). The EU's terminology database IATE can be accessed [here](https://iate.europa.eu/home).
-- [CERN](https://opendata.cern.ch/) - Open data portal of [CERN](https://home.web.cern.ch/), the European Laboratory for Particle Physics.
 - [Open Energy Data CH](https://github.com/OpenEnergyData/energy-data-ch) - List of open datasets related to energy projects in Switzerland. See also this [Open Data CH hackday contribution](https://hack.opendata.ch/project/851) for the [Energy Hackday 2020](https://hack.opendata.ch/event/31).
 - [Swissgrid](https://www.swissgrid.ch/de/home/customers/topics/energy-data-ch.html) - Energy data.
-- [entscheidsuche.ch](https://entscheidsuche.ch/) - This freely accessible portal offers a search of all published court decisions from Swiss courts at all levels. GitHub scraper repository of the project [here](https://github.com/entscheidsuche).
 - [Agristat](https://www.sbv-usp.ch/de/services/agristat-statistik-der-schweizer-landwirtschaft) - Statistical data from Schweizer Bauernverband (not an official government entity).
 - [Identitas Tierstatistik](https://tierstatistik.identitas.ch/en/index.html) - Various datasets on livestock and companion animals in Switzerland.
 - [Jagdstatistik](https://www.jagdstatistik.ch/de/home) - Wild animal and hunting data from Bundesamt für Umwelt (BAFU).
 - [Sucht Schweiz](https://zahlen-fakten.suchtschweiz.ch/de.html) - Statistical data from Sucht Schweiz (not an official government entity).
-- [ÖREB-Kataster](https://www.cadastre.ch/de/oereb-kataster) - Extracts from the Cadastre of Public-law Restrictions on Landownership containing legally binding information about the most important public law restrictions that apply to a given plot of land.
 - [Memoriav Memobase](https://memobase.ch/de/start) - Searchable audiovisual collections documenting Swiss history.
 - [DODIS](https://dodis.ch/search) - Swiss diplomatic documents.
 - [Schweizer Landesmuseum](https://sammlung.nationalmuseum.ch/de/maincategory)
