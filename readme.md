@@ -177,7 +177,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Kanton Appenzell Ausserrhoden](https://www.geoportal.ch/ktar)
 - [Kanton Appenzell Innerrhoden](https://www.ai.ch/themen/planen-und-bauen/geodaten-und-plaene/geoportal)
 - [Kanton Basel-Landschaft](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-geoinformation/geoportal)
-- [Kanton Basel-Stadt](https://www.geo.bs.ch/)
+- [Kanton Basel-Stadt](https://www.bs.ch/bvd/grundbuch-und-vermessungsamt/geo/geodaten)
 - [Kanton Bern](https://www.agi.dij.be.ch/de/start.html)
 - [Stadt Bern](https://map.bern.ch/geoportal/)
 - [Kanton Freiburg](https://map.geo.fr.ch/)
