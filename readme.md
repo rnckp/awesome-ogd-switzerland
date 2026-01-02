@@ -302,7 +302,7 @@ Interesting international data portals and websites.
 - [Germany](https://gdz.bkg.bund.de/) - Geodata shop of Germany's Federal Agency for Cartography and Geodesy (BKG).
 - [Germany](https://www.geoportal.de/) - BKG's interactive geodata offering «geoportal.de».
 - [Germany](https://basemap.de/) - basemap.de is a collection of cartographic products developed by the federal and state governments.
-- [Albania](https://www.instat.gov.al/en/Home.aspx) - Statistical office.
+- [Albania](https://www.instat.gov.al/) - Statistical office.
 - [Andorra](https://www.estadistica.ad/portal/apps/sites/#/estadistica-en) - Statistical Office.
 - [Austria](https://www.statistik.at/en) - Statistical Office.
 - [Austria](https://www.data.gv.at/)
