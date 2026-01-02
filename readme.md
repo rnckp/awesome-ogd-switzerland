@@ -310,7 +310,7 @@ Interesting international data portals and websites.
 - [Belgium](https://data.gov.be/en)
 - [Bosnia and Herzegovina](https://bhas.gov.ba/) - Statistical Office.
 - [Bulgaria](https://www.nsi.bg/en) - Statistical Office.
-- [Croatia](http://www.dzs.hr/default_e.htm) - Statistical Office.
+- [Croatia](https://podaci.dzs.hr/en/) - Statistical Office.
 - [Cyprus](https://www.cystat.gov.cy/en/default) - Statistical Office.
 - [Czechia](http://www.czso.cz/csu/czso/home) - Statistical Office.
 - [Denmark](http://www.dst.dk/en) - Statistical Office.
