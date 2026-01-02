@@ -151,7 +151,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Schweizerisches Idiotikon](https://idiotikon.ch/projekte) - Comprehensive documentation of Swiss German dialects (not an official government entity).
 - [Ortsnamen.ch](https://www.ortsnamen.ch/de/) - Comprehensive catalog of Swiss place names (project of Schweizerisches Idiotikon). [Searchable map](https://search.ortsnamen.ch/de) and [REST-API](https://search.ortsnamen.ch/static/api/swagger/index.html) also available.
 - [Swiss Dwellings](https://zenodo.org/record/7788422) - Notable dataset provided by Archilyse Open Data featuring 45,176 Swiss apartments (370,000 rooms) in ~3,100 buildings, including their geometries, room typology, and visual, acoustical, topological, and daylight characteristics.
-- [Meteotest Weather](https://meteotest.ch/en/weather-api) - Weather, climate, and environmental data for digital applications (not a government entity, commercial). [[API](https://mdx.meteotest.ch/api_v1?key=AAAABBBBCCCCDDDDEEEEFFFF00001111&service=prod2data&action=sample_forecast)]
 - [Christian Catholic Church Switzerland](https://christkatholisch.ch/angebote/opendata/) - Open Data offerings of Christkatholische Kirche Schweiz.
 
 ## Geo Data
