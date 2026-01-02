@@ -385,7 +385,7 @@ Interesting international data portals and websites.
 - [Greenpeace Open Data Portal](https://daten.greenpeace.de/dataset/)
 - [Code for Germany](https://www.codefor.de/) - A network of open government experts who work as volunteer civic developers for sustainable digital change in politics and administration. Strong focus on Open Data; list of [inspiring projects here](https://www.codefor.de/projekte/).
 - [United Nations](https://data.un.org/) - Data portal of the UN.
-- [OECD](https://data.oecd.org/) - OECD data portal.
+- [OECD](https://www.oecd.org/en/data.html) - OECD data portal.
 - [OECD OGD information](https://www.oecd.org/gov/digital-government/open-government-data.htm) - OGD ranking of OECD.
 - [Worldbank](https://data.worldbank.org/country/CH) - Data about Switzerland.
 - [Our World in Data](https://ourworldindata.org/search?q=switzerland) - Data about Switzerland.
