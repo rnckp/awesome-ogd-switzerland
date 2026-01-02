@@ -306,7 +306,6 @@ Interesting international data portals and websites.
 - [Andorra](https://www.estadistica.ad/portal/apps/sites/#/estadistica-en) - Statistical Office.
 - [Austria](https://www.statistik.at/en) - Statistical Office.
 - [Austria](https://www.data.gv.at/)
-- [Belarus](http://www.belstat.gov.by/en/) - Statistical Office.
 - [Belgium](https://statbel.fgov.be/en) - Statistical Office.
 - [Belgium](https://data.gov.be/en)
 - [Bosnia and Herzegovina](https://bhas.gov.ba/) - Statistical Office.
