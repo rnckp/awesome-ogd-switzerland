@@ -318,7 +318,7 @@ Interesting international data portals and websites.
 - [Estonia](https://avaandmed.eesti.ee/)
 - [Finland](https://www.opendata.fi/en)
 - [Finland](https://stat.fi/index_en.html)
-- [France](http://www.insee.fr/en) - Statistical Office.
+- [France](https://www.insee.fr/en/accueil) - Statistical Office.
 - [France](https://www.data.gouv.fr/en/datasets/)
 - [Greece](http://www.statistics.gr/en/home) - Statistical Office.
 - [Greece](https://www.data.gov.gr/)
