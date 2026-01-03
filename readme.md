@@ -3,7 +3,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland)
 [![GitHub Issues](https://img.shields.io/github/issues/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland)
 [![GitHub Issues](https://img.shields.io/github/issues-pr/rnckp/awesome-ogd-switzerland.svg)](https://img.shields.io/github/issues-pr/rnckp/awesome-ogd-switzerland)
-<a href="https://github.com/astral-sh/ruff"><img alt="linting - Ruff" class="off-glb" loading="lazy" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json"></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A manually curated list of Open Government Data (OGD) portals, websites, APIs, tools and other related resources in Switzerland. Relevant links to international websites are listed as well.
@@ -52,7 +51,10 @@ Portals and data sources that provide access to Swiss Open Government Data.
 #### Legal Data
 
 - [Fedlex – Publikationsplattform des Bundesrechts](https://www.fedlex.admin.ch/de/home) - Publication platform for federal law.
+- [LexFind](https://www.lexfind.ch/) - Unified search tool indexing all federal and cantonal law collections.
 - [entscheidsuche.ch](https://entscheidsuche.ch/) - This freely accessible portal offers a search of all published court decisions from Swiss courts at all levels. GitHub scraper repository of the project [here](https://github.com/entscheidsuche).
+- [Onlinekommentar.ch](https://onlinekommentar.ch/) - Diamond Open Access commentary platform for Swiss law. Free, peer-reviewed legal commentaries (DE/FR/IT/EN) on Swiss legislation with JSON REST and OAI-PMH APIs. [[API](https://onlinekommentar.ch/en/apis)]
+- [Center for Legal Data Science (UZH)](https://www.clds.uzh.ch/en/knowledge/databases.html) - Data-driven legal research and dataset links.
 
 #### Financial and Economic Data
 
