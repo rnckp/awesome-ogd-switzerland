@@ -249,6 +249,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Project Rosling](https://www.projectrosling.ch) - Swiss Confederation's «Project Rosling» aims to expand dialogue on data and statistics and deepen knowledge.
 - [opendata.ch](https://opendata.ch/de/) - Swiss section of the Open Knowledge Foundation.
 - [opendata.ch](https://opendata.ch/events/) - List of hackathons and events.
+- [GovTech Hackathons](https://digital.swiss/en/action-plan/measures/govtech-hackathon)
 - [Open Data Beer](https://opendatabeer.ch/)
 - [Prototype Fund](https://prototypefund.de/en/) - A funding program of the Federal Ministry of Education and Research (BMBF) that is managed and evaluated by the Open Knowledge Foundation Germany. Individuals and small teams (of coders, hackers, designers, and more) can receive funding to test their ideas and develop open source applications in the areas of Civic Tech, Data Literacy, IT Security, and Software Infrastructure.
 - [öffentlichkeitsgesetz.ch](https://www.oeffentlichkeitsgesetz.ch/deutsch/) - Forum for transparency in administration.
