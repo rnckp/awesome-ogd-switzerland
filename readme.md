@@ -154,6 +154,8 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Ortsnamen.ch](https://www.ortsnamen.ch/de/) - Comprehensive catalog of Swiss place names (project of Schweizerisches Idiotikon). [Searchable map](https://search.ortsnamen.ch/de) and [REST-API](https://search.ortsnamen.ch/static/api/swagger/index.html) also available.
 - [Swiss Dwellings](https://zenodo.org/record/7788422) - Notable dataset provided by Archilyse Open Data featuring 45,176 Swiss apartments (370,000 rooms) in ~3,100 buildings, including their geometries, room typology, and visual, acoustical, topological, and daylight characteristics.
 - [Christian Catholic Church Switzerland](https://christkatholisch.ch/angebote/opendata/) - Open Data offerings of Christkatholische Kirche Schweiz.
+- [R package «BFS»](https://github.com/lgnbhl/BFS) - Search and download public data from the BFS APIs (unofficial).
+- [R package «I14Y»](https://github.com/lgnbhl/I14Y) - Search and download official Swiss metadata from the I14Y interoperability platform (unofficial).
 
 ## Geo Data
 
