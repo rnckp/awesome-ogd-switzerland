@@ -34,8 +34,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 - [opendata.swiss](https://opendata.swiss/de) - Central catalog of Swiss Open Government Data, operated by the Federal Statistical Office (BFS). **Most important entry point to all things OGD in Switzerland.**
 - [BFS Data Portal](https://data.bfs.admin.ch/) - New data portal of the [Federal Statistical Office](https://www.bfs.admin.ch/bfs/en/home/services.html).
-- [BFS Swiss Stats Explorer](https://stats.swiss/) - BFS web application designed to make it easier to find, understand and
-use their data.
+- [BFS Swiss Stats Explorer](https://stats.swiss/) - BFS web application designed to make it easier to find, understand and use their data.
 - [BFS STAT-TAB](https://www.pxweb.bfs.admin.ch/pxweb/en/) - This interactive database of the Federal Statistical Office provides detailed statistical data and enables simple, individual data queries. The tables produced can be exported in various formats.
 - [I14Y - Metadata catalog of Switzerland.](https://www.i14y.admin.ch/en/home) - The I14Y interoperability platform is Switzerland’s national data catalogue. It ensures the efficient exchange of data between authorities, companies and citizens. In the platform, an overview of the data collections and interfaces of the Confederation, cantons and communes is continuously expanded and their metadata are made available centrally.
 - [BFS Registers](https://www.bfs.admin.ch/bfs/en/home/registers.html) - Official Swiss Enterprise Register, Population Register and Federal Register of Buildings and Dwellings.
@@ -142,6 +141,7 @@ use their data.
 
 ### Miscellaneous
 
+- [Historical Statistics of Switzerland](https://hsso.ch/en) - Collection of historical statistical data.
 - [Open Energy Data CH](https://github.com/OpenEnergyData/energy-data-ch) - List of open datasets related to energy projects in Switzerland. See also this [Open Data CH hackday contribution](https://hack.opendata.ch/project/851) for the [Energy Hackday 2020](https://hack.opendata.ch/event/31).
 - [Swissgrid](https://www.swissgrid.ch/de/home/customers/topics/energy-data-ch.html) - Energy data.
 - [Agristat](https://www.sbv-usp.ch/de/services/agristat-statistik-der-schweizer-landwirtschaft) - Statistical data from Schweizer Bauernverband (not an official government entity).
