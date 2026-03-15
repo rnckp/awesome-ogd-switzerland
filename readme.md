@@ -138,6 +138,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Luzern](https://www.lustat.ch/statistikportal-stadt-luzern)
 - [St. Gallen](https://www.stadt.sg.ch/home/verwaltung-politik/stadt-zahlen/statistikdatenbanken.html)
 - [Zürich](https://data.stadt-zuerich.ch/) – [[GitHub](https://github.com/opendatazurich)]
+- [Winterthur](https://stadt.winterthur.ch/themen/die-stadt/winterthur/statistik) – [[GitHub](https://github.com/Stadt-Winterthur)]
 - [Zürich Tourismus](https://www.zuerich.com/de/business/ueber-zuerich-tourismus/open-data-portal)
 
 ### Miscellaneous
