@@ -127,7 +127,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Wallis](https://www.vs.ch/de/web/sstp/sstp)
 - [Zug](https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle)
 - [Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/)
-- [Zürich Gemeindeportrait](https://www.zh.ch/de/politik-staat/gemeinden/gemeindeportraet.html)
 - [Zürcher Gemeinden in Zahlen](https://zgz.statistik.zh.ch/)
 
 ### Cities and Municipalities
