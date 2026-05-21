@@ -4,10 +4,9 @@ This script extracts all URLs from readme.md and checks their availability.
 """
 
 import re
-import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import List, Tuple
-from urllib.parse import urlparse
 
 import requests
 from rich.console import Console
@@ -25,7 +24,9 @@ from rich import box
 console = Console()
 
 # Timeout for requests
-REQUEST_TIMEOUT = 10
+REQUEST_TIMEOUT = 30
+# Maximum concurrent link checks
+MAX_WORKERS = 10
 # User agent to avoid blocking
 USER_AGENT = "Mozilla/5.0 (compatible; Link-Checker/1.0)"
 
@@ -96,7 +97,8 @@ def check_url(url: str) -> Tuple[str, bool, int, str]:
 
 def check_all_links(urls: List[str]) -> List[Tuple[str, bool, int, str]]:
     """Check all URLs with a progress bar."""
-    results = []
+    results: List[Tuple[str, bool, int, str] | None] = [None] * len(urls)
+    max_workers = min(MAX_WORKERS, len(urls)) or 1
 
     with Progress(
         SpinnerColumn(),
@@ -109,22 +111,25 @@ def check_all_links(urls: List[str]) -> List[Tuple[str, bool, int, str]]:
     ) as progress:
         task = progress.add_task("[cyan]Checking links...", total=len(urls))
 
-        for url in urls:
-            result = check_url(url)
-            results.append(result)
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            future_to_index = {
+                executor.submit(check_url, url): index for index, url in enumerate(urls)
+            }
 
-            # Update progress with status
-            status = "✓" if result[1] else "✗"
-            progress.update(
-                task,
-                advance=1,
-                description=f"[cyan]Checking links... {status} {url[:50]}",
-            )
+            for future in as_completed(future_to_index):
+                index = future_to_index[future]
+                result = future.result()
+                results[index] = result
 
-            # Small delay to avoid overwhelming servers
-            time.sleep(0.1)
+                # Update progress with status
+                status = "✓" if result[1] else "✗"
+                progress.update(
+                    task,
+                    advance=1,
+                    description=f"[cyan]Checking links... {status} {result[0][:50]}",
+                )
 
-    return results
+    return [result for result in results if result is not None]
 
 
 def generate_report(results: List[Tuple[str, bool, int, str]]) -> None:
@@ -211,7 +216,7 @@ def generate_report(results: List[Tuple[str, bool, int, str]]) -> None:
         else:
             f.write("All links are accessible!\n")
 
-    console.print(f"\n[dim]Report saved to: {report_file} and {md_report_file}[/dim]")
+    console.print(f"\n[dim]Report saved to: {md_report_file}[/dim]")
 
 
 def main():
