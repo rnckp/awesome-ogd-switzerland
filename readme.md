@@ -221,6 +221,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
 - [GeoBeer Switzerland](https://geobeer.ch/) - GeoBeerCH is an informal meeting of people interested in geography, GIS, cartography and the latest technologies.
 - [mapplus.ch](https://www.mapplus.ch/) - Various Geo Data portals, viewers and links.
+- [VivaMap](https://vivamap.ch/) - Data-driven map-based exploration for the best quality-of-life in Switzerland, ~3.2M H3 hexes, and ~2.5M building rooftops across dimensions (noise, air quality, transport, taxation, hazards, schools, etc.). Trilingual (FR/DE/EN); methodology and source list public. Large tax optimization section.
 
 ## Linked Open Data
 
