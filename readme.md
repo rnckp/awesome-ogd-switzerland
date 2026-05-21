@@ -108,7 +108,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html)
 - [Fribourg / Freiburg](https://opendata.fr.ch/pages/home/)
 - [Fribourg / Freiburg Statistical Office](https://www.fr.ch/de/vwbd/stata)
-- [Genf](https://ge.ch/sitg/donnees/demarche-open-data) - alternatively [here](https://statistique.ge.ch/).
+- [Genf](https://sitg.ge.ch/search?category=data) - alternatively [here](https://statistique.ge.ch/).
 - [Geneva Public Transport](https://opendata.tpg.ch/pages/accueil/)
 - [Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx)
 - [Jura](https://stat.jura.ch/)
@@ -183,7 +183,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Kanton Aargau](https://www.ag.ch/de/verwaltung/dfr/geoportal)
 - [Kanton Appenzell Ausserrhoden](https://www.geoportal.ch/ktar)
 - [Kanton Appenzell Innerrhoden](https://www.ai.ch/themen/planen-und-bauen/geodaten-und-plaene/geoportal)
-- [Kanton Basel-Landschaft](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-geoinformation/geoportal)
+- [Kanton Basel-Landschaft](https://www.baselland.ch/politik-und-behorden/direktionen/volkswirtschafts-und-gesundheitsdirektion/amt-fur-geoinformation/geoportal/geodaten)
 - [Kanton Basel-Stadt](https://www.bs.ch/bvd/grundbuch-und-vermessungsamt/geo/geodaten)
 - [Kanton Bern](https://www.agi.dij.be.ch/de/start.html)
 - [Stadt Bern](https://map.bern.ch/geoportal/)
@@ -191,7 +191,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Kanton Genf](https://map.sitg.ge.ch/app/)
 - [Kanton Glarus](https://www.gl.ch/verwaltung/bau-und-umwelt/hochbau/raumentwicklung-und-geoinformation/geoportal-kanton-glarus.html/808)
 - [Kanton Graubünden](https://geo.gr.ch/)
-- [Kanton Jura](https://www.jura.ch/DEN/SDT/GeoPortail/GeoPortail-du-Canton-du-Jura.html)
+- [Kanton Jura](https://www.jura.ch/fr/Autorites/Administration/DEC/SDT/GeoPortail/GeoPortail-du-Canton-du-Jura.html)
 - [Kanton Luzern](https://geoportal.lu.ch/karten)
 - [Kanton Neuenburg](https://www.ne.ch/autorites/DDTE/SGRF/SITN/geoportail/Pages/accueil.aspx)
 - [Kantone Nidwalden Obwalden](https://www.gis-daten.ch/geodaten/geodatenkatalog/)
@@ -227,7 +227,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [LINDAS ecosystem overview](https://lindas.admin.ch/ecosystem/) - LINDAS (Linked Data Service) allows public administrations to publish their data in the form of Knowledge Graphs and make them accessible via <https://lindas.admin.ch>. The service is offered by the [Swiss Federal Archives](https://www.bar.admin.ch/bar/en/home.html).
 - [Fedlex](https://fedlex.data.admin.ch/en-CH/home/intro) - Fedlex is the Federal Chancellery platform on which federal legislation is published. It is primarily used to publish the Official Federal Gazette, the Official Compilation of Federal Legislation, and the Classified Compilation of Federal Legislation, i.e., the consolidated version of federal legislation and international law texts.
 - [Federal Geoportal Linked Data](https://geo.ld.admin.ch) - Linked Data Service of the Federal Geoportal.
-- [Stadt Zürich LOD](https://www.stadt-zuerich.ch/prd/de/index/statistik/publikationen-angebote/linked-open-data.html)
+- [Stadt Zürich LOD](https://www.stadt-zuerich.ch/de/politik-und-verwaltung/statistik-und-daten/linked-open-data.html)
 - [Linked Data Meetup](https://www.bfh.ch/de/themen/linked-data/) - The Linked Data Meetup is a collaboration between the Swiss Federal Archives (BAR) and the BFH's Public Sector Transformation Institute. The meetup is aimed at users of linked data, especially in the LINDAS environment.
 
 ## APIs
@@ -247,7 +247,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 ## Organizations, Initiatives, Events and Projects
 
 - [Statistical Institutions in Switzerland](https://www.bfs.admin.ch/bfs/de/home/bfs/oeffentliche-statistik/system-oeffentliche-statistik/statistikinstitutionen-schweiz.html)
-- [Korstat](http://www.corstat.ch/de/) - Conference of the regional statistical offices in Switzerland.
+- [Korstat](https://confluence.swissdatacommunity.ch/plugins/viewsource/viewpagesrc.action?pageId=393257) - Conference of the regional statistical offices in Switzerland.
 - [Statistiktage](https://www.statistiktage.ch/) - Annual conference organized by [Swiss Statistical Society](https://www.stat.ch/en/) and [IMSD](https://www.imsd.ch/de/).
 - [Project Rosling](https://www.projectrosling.ch) - Swiss Confederation's «Project Rosling» aims to expand dialogue on data and statistics and deepen knowledge.
 - [opendata.ch](https://opendata.ch/de/) - Swiss section of the Open Knowledge Foundation.
@@ -258,7 +258,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [öffentlichkeitsgesetz.ch](https://www.oeffentlichkeitsgesetz.ch/deutsch/) - Forum for transparency in administration.
 - [Parldigi](https://www.parldigi.ch/de/) - Parlamentarische Gruppe Digitale Nachhaltigkeit.
 - [DINACON](https://dinacon.ch/) - Conference for digital sustainability.
-- [Lobbywatch](https://lobbywatch.ch/de/seite/datenexport) - Lobbywatch enables citizens and media professionals to find out what interests politicians in Bern represent. They offer their data as an open database for independent evaluations.
+- [Lobbywatch](https://lobbywatch.ch/lobbydatenbank/) - Lobbywatch enables citizens and media professionals to find out what interests politicians in Bern represent. They offer their data as an open database for independent evaluations.
 
 ## Newsletters
 
