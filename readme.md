@@ -53,6 +53,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 - [Fedlex – Publikationsplattform des Bundesrechts](https://www.fedlex.admin.ch/de/home) - Publication platform for federal law.
 - [LexFind](https://www.lexfind.ch/) - Unified search tool indexing all federal and cantonal law collections.
+- [opencaselaw.ch](https://opencaselaw.ch/) - OpenCaseLaw is the largest open dataset of Swiss case law and the first LLM-ready interface to federal and cantonal legislation. Free to use, updated daily, independently funded.
 - [entscheidsuche.ch](https://entscheidsuche.ch/) - This freely accessible portal offers a search of all published court decisions from Swiss courts at all levels. GitHub scraper repository of the project [here](https://github.com/entscheidsuche).
 - [Onlinekommentar.ch](https://onlinekommentar.ch/) - The first non-profit and Open Access commentary platform in Switzerland. [[API](https://onlinekommentar.ch/en/apis)]
 - [Center for Legal Data Science (UZH)](https://www.clds.uzh.ch/en/knowledge/databases.html) - Data-driven legal research and dataset links.
