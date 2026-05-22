@@ -241,6 +241,8 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Shared mobility](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-82109.html)
 - [Additional API documentation](https://nrohrbach.github.io/ApiDocumentation/) - More information for APIs provided by opendata.swiss, Geo Admin, and Shared mobility.
 - [Schweiz Tourismus](https://developer.myswitzerland.io/)
+- [Overpass API (with Overpass QL)](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) - Overpass API for worldwide OpenStreetMap geospatial vector data with Overpass QL. Query example: "Italian restaurants in Switzerland" using instance [overpass-turbo.osm.ch](https://osm.li/Oqg).
+- [Overpass API (with PostPASS SQL)](https://wiki.openstreetmap.org/wiki/Postpass) - Overpass API for worldwide OpenStreetMap geospatial vector data with PostGIS SQL. Query example: "Italian restaurants in Switzerland" using instance [overpass-turbo.eu](https://overpass-turbo.eu/s/2qpD).
 - [SRGSSR](https://developer.srgssr.ch/) - APIs of the publicly funded broadcaster in Switzerland.
 - [CKAN API documentation](https://docs.ckan.org/en/latest/api/)
 - [OpenERZ](https://github.com/metaodi/openerz) - OpenERZ is an open API for waste collection data from many different municipalities in Switzerland (e.g., Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, and Horgen). API and Python client provided by OGD wizard [metaodi](https://github.com/metaodi), aka Stefan Oderbolz.
