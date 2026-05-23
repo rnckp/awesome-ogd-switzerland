@@ -216,7 +216,9 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [OpenStreetMap CH](https://osm.ch/) - OpenStreetMap dataset limited to Switzerland and tools based on this reduced dataset (provided by [SOSM](https://sosm.ch/)). Hourly updated extracts are available [here](https://planet.osm.ch/).
 - [BBBike's OSM download server](https://download.bbbike.org/osm/) - Data extracts from the OpenStreetMap project for more than 200 areas worldwide in various formats. E.g., extracts for [Zurich here](https://download.bbbike.org/osm/bbbike/Zuerich/).
 - [Geofabrik's OSM download server](https://download.geofabrik.de/europe/switzerland.html) - Helpful OpenStreetMap data extracts for Switzerland (e.g., as ESRI shapefiles). Geofabrik's inspiring [portfolio of geodata projects](https://www.geofabrik.de/projects/) is definitely worth a look too.
-- Free OpenStreetMap (OSM) data transformed into thematic layers and delivered in the easy-to-use, cloud-native GeoParquet format: [Layercake](https://openstreetmap.us/our-work/layercake/) - with worldwide pure-OSM data containing many layers (but no POIs yet). [Cadence Maps](https://cadencemaps.infs.ch/) - pure-OSM data based on Geofabrik's layered GIS format including POIs, currently covering Germany, Austria and Switzerland. [Overture Maps](https://overturemaps.org/) - relies heavily on OSM, except for POIs, they call "Places" (*Note*: Overture is controlled by several major technology companies, and the openness of their software, payback and attribution is marginal.
+- [Layercake](https://openstreetmap.us/our-work/layercake/) - Worldwide OSM-derived thematic layers in GeoParquet format.
+- [Cadence Maps](https://cadencemaps.infs.ch/) - OSM-derived GeoParquet layers based on Geofabrik's GIS format, including POIs for Germany, Austria, and Switzerland.
+- [Overture Maps](https://overturemaps.org/) - Open map data project combining OSM-derived layers with third-party "Places" POI data.
 
 ### Miscellaneous Geo Data
 
