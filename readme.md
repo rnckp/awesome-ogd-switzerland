@@ -83,6 +83,18 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Konjunkturforschungsstelle ETH Zürich](https://kof.ethz.ch/daten.html)
 - [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm)
 
+#### Real Estate and Buildings Data
+
+* [Federal Register of Buildings and Dwellings (GWR/RegBL)](https://www.bfs.admin.ch/bfs/de/home/register/gebaeude-wohnungsregister.html) - National register of all buildings and dwellings in Switzerland, maintained by the Federal Statistical Office (BFS). Source of the EGID (building identifier) and EWID (dwelling identifier) used as reference keys across Swiss administrative data. Web application available at [housing-stat.ch](https://www.housing-stat.ch).
+* [Bundesamt für Wohnungswesen BWO – Wohnungsmarkt](https://www.bwo.admin.ch/de/wohnungsmarkt) - Federal Housing Office market portal. Includes the quarterly 
+  [«Wohnungsmarkt auf einen Blick»](https://www.bwo.admin.ch/de/wohnungsmarkt-auf-einen-blick) and [Zahlen und Fakten zum Wohnen](https://www.bwo.admin.ch/de/zahlen-und-fakten-wohnen) with vacancy, rent and housing-market indicators.
+* [BFS Bau- und Wohnungswesen](https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen.html) - BFS section on construction and housing: building permits, construction activity, vacancy, housing stock.
+* [Schweizerischer Baupreisindex (BAP)](https://www.bfs.admin.ch/bfs/de/home/statistiken/preise/baupreise.html) - Semi-annual construction price index published by BFS, covering Hochbau and Tiefbau.
+* [Wohnimmobilienpreisindex (IMPI)](https://www.bfs.admin.ch/bfs/de/home/statistiken/preise/erhebungen/impi.html) - Quarterly residential property price index for owner-occupied homes, based on transaction data from major Swiss mortgage banks.
+* [Mietpreisindex (MPI)](https://www.bfs.admin.ch/bfs/de/home/statistiken/preise/erhebungen/mpi.html) - Rental price index for permanently rented dwellings; the largest single component of the Swiss CPI.
+* [ARE – Daten und Analysen](https://www.are.admin.ch/de/daten) - Federal Office for Spatial Development. Spatial monitoring, Bauzonenstatistik, settlement development data, Web-GIS ARE.
+* [Daten der amtlichen Vermessung (cadastre.ch)](https://www.cadastre.ch/de/daten-der-av) - Official cadastral survey (AV) data of Switzerland, operated by swisstopo. Source of parcel-level geometry; cantonal data also aggregated at [geodienste.ch](https://geodienste.ch/) (already listed).
+
 #### Environment, Tourism and Meteorology Data
 
 - [Swiss Tourism Data](https://www.tourismdata.ch/) - The portal is part of the National Data Infrastructure for Tourism (NaDIT) project. It serves as the catalogue of metadata of the most important data sources for Swiss tourism.
