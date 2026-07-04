@@ -239,6 +239,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [GeoBeer Switzerland](https://geobeer.ch/) - GeoBeerCH is an informal meeting of people interested in geography, GIS, cartography and the latest technologies.
 - [mapplus.ch](https://www.mapplus.ch/) - Various Geo Data portals, viewers, and links.
 - [VivaMap](https://vivamap.ch/) - Data-driven map platform for exploring quality-of-life factors across Switzerland.
+- [WohnRadar Schweiz](https://wohnradarschweiz.ch/) - Daily monitor for public Swiss building-permit notices (Baugesuche) across ZH/ZG/LU/SZ/BE/BS/BL. Free one-time address check, plus a paid email alert service so nearby owners learn of new applications while the objection period is still open.
 
 ## Linked Open Data
 
