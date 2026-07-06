@@ -237,7 +237,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) - Portal that brings together official geodata from Swiss government entities. [[GitHub](https://github.com/davidoesch/geoservice_harvester_poc)]
 - [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
 - [GeoBeer Switzerland](https://geobeer.ch/) - GeoBeerCH is an informal meeting of people interested in geography, GIS, cartography and the latest technologies.
-- [mapplus.ch](https://www.mapplus.ch/) - Various Geo Data portals, viewers, and links.
 - [VivaMap](https://vivamap.ch/) - Data-driven map platform for exploring quality-of-life factors across Switzerland.
 
 ## Linked Open Data
