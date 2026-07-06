@@ -162,7 +162,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Agristat](https://www.sbv-usp.ch/de/services/agristat-statistik-der-schweizer-landwirtschaft) - Statistical data from Schweizer Bauernverband (not an official government entity).
 - [Identitas Tierstatistik](https://tierstatistik.identitas.ch/en/index.html) - Various datasets on livestock and companion animals in Switzerland.
 - [Jagdstatistik](https://www.jagdstatistik.ch/de/home) - Wild animal and hunting data from Bundesamt für Umwelt (BAFU).
-- [Sucht Schweiz](https://zahlen-fakten.suchtschweiz.ch/de.html) - Statistical data from Sucht Schweiz (not an official government entity).
+- [Sucht Schweiz](https://www.suchtschweiz.ch/zahlen-und-fakten/) - Statistical data from Sucht Schweiz (not an official government entity).
 - [Memoriav Memobase](https://memobase.ch/de/start) - Searchable audiovisual collections documenting Swiss history.
 - [DODIS](https://dodis.ch/search) - Swiss diplomatic documents.
 - [Schweizer Landesmuseum](https://sammlung.nationalmuseum.ch/de/maincategory)
@@ -349,7 +349,7 @@ Interesting international data portals and websites.
 - [France](https://www.insee.fr/en/accueil) - Statistical Office.
 - [France](https://www.data.gouv.fr/en/datasets/)
 - [Greece](http://www.statistics.gr/en/home) - Statistical Office.
-- [Greece](https://www.data.gov.gr/)
+- [Greece](https://data.gov.gr/en/)
 - [Hungary](http://www.ksh.hu/) - Statistical Office.
 - [Iceland](http://www.statice.is/) - Statistical Office.
 - [Ireland](http://www.cso.ie/) - Statistical Office.
@@ -373,7 +373,6 @@ Interesting international data portals and websites.
 - [Poland](http://stat.gov.pl/en/) - Statistical Office.
 - [Portugal](https://www.ine.pt/) - Statistical Office.
 - [Portugal](https://www.pordata.pt/en/Home) - Dataportal «Pordata»
-- [Romania](http://www.insse.ro/cms/en) - Statistical Office.
 - [Romania](https://data.gov.ro/en/)
 - [San Marino](https://www.statistica.sm/pub1/StatisticaSM/en/) - Statistical Office.
 - [Serbia](https://www.stat.gov.rs/en-us/) - Statistical Office.
