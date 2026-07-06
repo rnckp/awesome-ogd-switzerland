@@ -3,3 +3,6 @@
 *.xlsx
 /_ignore
 link-check-report.md
+
+__pycache__/
+*.pyc
