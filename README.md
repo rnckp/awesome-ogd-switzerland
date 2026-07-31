@@ -6,24 +6,34 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <a href="https://github.com/astral-sh/ruff"><img alt="linting - Ruff" class="off-glb" loading="lazy" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json"></a>
 
-A manually curated list of Open Government Data (OGD) portals, websites, APIs, tools, and other related resources in Switzerland. Relevant links to international websites are included as well.
+A manually curated list of Open Government Data (OGD) portals, websites, APIs, tools, and related resources in Switzerland. Selected international links support Swiss comparisons.
 
 <details>
 <summary><strong>Table of Contents</strong></summary>
 
+- [Curation Policy](#curation-policy)
 - [Data Sources](#data-sources)
 - [Geo Data](#geo-data)
 - [Linked Open Data](#linked-open-data)
 - [APIs](#apis)
+- [Open-source Tools](#open-source-tools)
 - [Organizations](#organizations-initiatives-events-and-projects)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Miscellaneous](#miscellaneous)
 - [Media](#media)
-- [Social Media](#social-media)
 - [International](#international)
+- [Contribute](#contribute)
 
 </details>
+
+## Curation Policy
+
+This list follows the [Open Definition](https://opendefinition.org/): data must permit free use, modification, and redistribution, including commercial reuse. Tools must publish their source code under an [OSI-approved license](https://opensource.org/licenses). Related guides, communities, and media must be freely accessible, directly relevant, and operated by an official institution, established non-profit, research organization, or transparent community project.
+
+Registration is acceptable when it is free and non-discriminatory, but payment, case-by-case permission, non-commercial-only terms, or unclear reuse rights are exclusion criteria for data and tools.
+
+Repositories and catalogs that contain both open and restricted records are clearly identified. Always verify the license of an individual dataset before reuse.
 
 ## Data Sources
 
@@ -46,8 +56,11 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 #### Parliamentary Data
 
-- [Schweizer Parlament](https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services) - Open Data and web services of the Swiss Parliament. Unofficial Python wrapper [here](https://github.com/metaodi/swissparlpy). R wrapper [here](https://github.com/zumbov2/swissparl).
+- [Schweizer Parlament](https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services) - Open Data and web services of the Swiss Parliament.
 - [OpenParlData.ch](https://openparldata.ch/) - The [API](https://api.openparldata.ch/documentation) offers harmonized data on political actors, parliamentary proceedings, decrees, consultations, votes, and more from [78](https://admin.openparldata.ch/#/bodies) national, cantonal, and municipal parliaments.
+- [Swissvotes](https://swissvotes.ch/page/dataset) - Comprehensive dataset and codebook for all Swiss federal popular votes since 1848, downloadable as CSV and XLSX under CC BY 4.0.
+- [Federal Popular Votes Dashboard](https://abstimmungen.admin.ch/en/overview) - Official results with downloadable historical and election-day data, including municipal-level JSON through the API listed below.
+- [SIMAP](https://www.simap.ch/) - Official public procurement platform of the Confederation, cantons, and communes. Its public JSON API permits commercial reuse.
 - [Amtsblattportal](https://amtsblattportal.ch/#!/home) - Official Gazettes Portal. A publishing center for entities that publish official and commercially relevant publications in the Swiss Official Gazette of Commerce (SOGC) and in official cantonal gazettes. Data can also be imported and exported using a [REST API](https://amtsblattportal.ch/docs/api/).
 
 #### Legal Data
@@ -67,13 +80,17 @@ Portals and data sources that provide access to Swiss Open Government Data.
 #### Federal Offices and Other National Data Sources
 
 - [Bundesamt für Gesundheit BAG](https://www.bag.admin.ch/de/zahlen-statistiken) - Federal Office of Public Health.
+- [Dashboard health insurance OKP](https://opendata.swiss/en/dataset/dashboard-krankenversicherung-okp) - Quarterly downloadable data on compulsory health insurance in Switzerland.
+- [Key data on Swiss hospitals](https://opendata.swiss/en/dataset?keywords_en=health-insurance) - Machine-readable hospital statistics published by the Federal Office of Public Health.
 - [Versorgungsatlas](https://www.versorgungsatlas.ch/) - Swiss Health Care Atlas provided by BAG and [Swiss Health Observatory](https://www.obsan.admin.ch/en). Public health data covering more than 100 indicators.
 - [Infectious Diseases Dashboard (IDD)](https://idd.bag.admin.ch/) - Information on cases of infection and illness in Switzerland and Liechtenstein caused by various pathogens, provided by the Federal Office of Public Health FOPH / BAG.
+- [Swissmedic Open Government Data](https://www.swissmedic.ch/swissmedic/en/home/services/listen_neu.html) - Monthly machine-readable data on authorized human and veterinary medicines, plus daily data on registered Swiss medical-device operators.
 - [arbeit.swiss](https://www.amstat.ch/v2/amstat_de.html) - Data portal of the State Secretariat for Economic Affairs (SECO).
 - [Agrarmarktdaten](https://www.agrarmarktdaten.ch/) - Comprehensive data portal provided by the Federal Office for Agriculture. The portal provides ongoing information and data on current market events in various agricultural and food markets. It includes price and quantity information along the value chain, from production to consumption.
 - [Agrarbericht](https://www.blw.admin.ch/blw/de/home/agrarbericht.html) - Agricultural data provided by the Federal Office for Agriculture.
 - [Schweizer Nährwertdatenbank](https://naehrwertdaten.ch/de/) - The Swiss Food Composition Database contains information on the composition of foods available in Switzerland. The database is operated by the Federal Food Safety and Veterinary Office (FSVO).
-- [Bundesamt für Energie BFE](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken.html) - Federal Office of Energy.
+- [Bundesamt für Energie BFE](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken.html) - Federal Office of Energy statistics and geodata.
+- [Swiss Energy Dashboard](https://energiedashboard.admin.ch/bfe-url) - Current electricity, gas, energy-price, and supply data from the Federal Office of Energy, with a public read-only REST API.
 - [Bundesamt für Sozialversicherungen BSV](https://www.bsv.admin.ch/de/statistik) - Federal Social Security Office.
 - [Bundesamt für Umwelt BAFU](https://www.bafu.admin.ch/bafu/de/home/zustand.html) - Federal Office for the Environment.
 - [Eidgenössische Steuerverwaltung](https://www.estv.admin.ch/estv/de/home/die-estv/steuerstatistiken-estv.html) - Federal Tax Administration.
@@ -101,17 +118,26 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Bundesamt für Meteorologie und Klimatologie MeteoSchweiz](https://www.meteoswiss.admin.ch/services-and-publications/service/open-data.html) - Federal Office of Meteorology and Climatology MeteoSwiss.
 - [SLF data service](https://www.slf.ch/en/services-and-products/slf-data-service/) - Data collected and produced in the context of avalanche warnings.
 - [«Hydrodaten» Bundesamt für Umwelt BAFU](https://www.hydrodaten.admin.ch/de/aktuelle-lage) - Hydrological data and forecasts. Actual data [here via LINDAS](https://environment.ld.admin.ch/.well-known/void/dataset/hydro).
+- [GLAMOS DOI products](https://doi.glamos.ch/) - Swiss glacier inventories, length changes, mass balances, and volume changes with persistent identifiers and CC BY 4.0 licenses.
+- [Swiss National Fauna Databank](https://ipt.gbif.ch/resource?r=ifn) - Standardized species-occurrence records from InfoSpecies, downloadable as Darwin Core under CC BY 4.0.
 
 #### Academic and Research Data
 
-- [FORS SWISSUbase](https://www.swissubase.ch/de/) - Cross-disciplinary data repository for Swiss universities.
+- [FORS SWISSUbase](https://www.swissubase.ch/de/) - Cross-disciplinary repository for Swiss universities; access conditions and licenses vary by record.
 - [Schweizerischer Nationalfonds SNF](https://data.snf.ch/datasets) - Swiss National Science Foundation. GitHub repositories with SNF's data stories [here](https://github.com/snsf-data).
 - [CERN](https://opendata.cern.ch/) - Open data portal of [CERN](https://home.web.cern.ch/), the European Laboratory for Particle Physics.
+- [DaSCH Service Platform](https://dasch.swiss/about-us/platform) - Open-by-default FAIR repository for humanities research data, with Linked Data, IIIF, and REST access; verify record-level access conditions.
+- [Materials Cloud Archive](https://archive.materialscloud.org/about) - Open repository for reproducible computational-materials research data.
+
+#### Cultural Heritage Data
+
+- [e-rara](https://www.e-rara.ch/) - Digitized Swiss printed works with public-domain or record-level open reuse terms and machine access through [OAI-PMH, IIIF, full-text, and download interfaces](https://www.e-rara.ch/wiki/apiinfo).
 
 #### Transport Data
 
-- [SBB](https://data.sbb.ch/pages/home/) - Swiss Federal Railways data portal.
-- [SBB](https://opentransportdata.swiss/en/) - Open transport data provided by SBB.
+- [SBB Open Data](https://data.sbb.ch/pages/home/) - Swiss Federal Railways data portal.
+- [Open Data Platform Mobility Switzerland](https://opentransportdata.swiss/en/) - National public-transport and real-time road-traffic data platform, including FEDRO traffic counters and alerts.
+- [FEDRO open vehicle data](https://www.astra.admin.ch/en/vehicle-data) - Anonymized vehicle inventories, new registrations, and vehicle types available as unrestricted standard datasets.
 
 ### Cantonal
 
@@ -124,6 +150,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Fribourg / Freiburg Statistical Office](https://www.fr.ch/de/vwbd/stata)
 - [Genf](https://sitg.ge.ch/search?category=data) - Alternative portal [here](https://statistique.ge.ch/).
 - [Geneva Public Transport](https://opendata.tpg.ch/pages/accueil/)
+- [Glarus](https://opendata.swiss/en/organization/kanton-glarus) - Cantonal and Landsgemeinde data, including machine-readable JSON and geodata services.
 - [Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx)
 - [Jura](https://stat.jura.ch/)
 - [Luzern](https://www.lustat.ch)
@@ -139,17 +166,19 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Uri](https://www.statistik-uri.ch/daten)
 - [Vaud](https://www.vd.ch/themes/etat-droit-finances/statistique)
 - [Wallis](https://www.vs.ch/de/web/sstp/sstp)
-- [Zug](https://www.zg.ch/behoerden/gesundheitsdirektion/statistikfachstelle)
+- [Zug](https://zg.ch/de/gesundheitsdirektion/fachstelle-fuer-daten-und-statistik/open-government-data) - Open data portal shared by the canton and city of Zug.
 - [Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/)
 - [Zürcher Gemeinden in Zahlen](https://zgz.statistik.zh.ch/)
 
 ### Cities and Municipalities
 
 - [Bern](https://www.bern.ch/open-government-data-ogd/ogd-nach-themen)
+- [Biel/Bienne](https://opendata.swiss/en/organization/biel-bienne) - Bilingual municipal data in open tabular and geospatial formats.
 - [Lausanne](https://www.lausanne.ch/officiel/statistique.html)
 - [Lugano](https://statistica.lugano.ch/site/dati-ogd/)
 - [Luzern](https://www.lustat.ch/statistikportal-stadt-luzern)
 - [St. Gallen](https://www.stadt.sg.ch/home/verwaltung-politik/stadt-zahlen/statistikdatenbanken.html)
+- [Uster](https://www.uster.ch/opendata)
 - [Winterthur](https://stadt.winterthur.ch/themen/die-stadt/winterthur/statistik) – [[GitHub](https://github.com/Stadt-Winterthur)]
 - [Zürich](https://data.stadt-zuerich.ch/) – [[GitHub](https://github.com/opendatazurich)]
 - [Zürich Tourismus](https://www.zuerich.com/de/business/ueber-zuerich-tourismus/open-data-portal)
@@ -171,8 +200,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Ortsnamen.ch](https://www.ortsnamen.ch/de/) - Comprehensive catalog of Swiss place names (a project of Schweizerisches Idiotikon). A [searchable map](https://search.ortsnamen.ch/de) and [REST API](https://search.ortsnamen.ch/static/api/swagger/index.html) are also available.
 - [Swiss Dwellings](https://zenodo.org/record/7788422) - Notable dataset provided by Archilyse Open Data featuring 45,176 Swiss apartments (370,000 rooms) in ~3,100 buildings, including their geometries, room typology, and visual, acoustical, topological, and daylight characteristics.
 - [Christian Catholic Church Switzerland](https://christkatholisch.ch/angebote/opendata/) - Open Data offerings of Christkatholische Kirche Schweiz.
-- [R package «BFS»](https://github.com/lgnbhl/BFS) - Search and download public data from the BFS APIs (unofficial).
-- [R package «I14Y»](https://github.com/lgnbhl/I14Y) - Search and download official Swiss metadata from the I14Y interoperability platform (unofficial).
 
 ## Geo Data
 
@@ -237,7 +264,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [GeoHarvester](https://davidoesch.github.io/geoservice_harvester_poc/) - Portal that brings together official geodata from Swiss government entities. [[GitHub](https://github.com/davidoesch/geoservice_harvester_poc)]
 - [geospatial-data-catalogs](https://github.com/giswqs/geospatial-data-catalogs) - A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index.
 - [GeoBeer Switzerland](https://geobeer.ch/) - GeoBeerCH is an informal meeting of people interested in geography, GIS, cartography and the latest technologies.
-- [VivaMap](https://vivamap.ch/) - Data-driven map platform for exploring quality-of-life factors across Switzerland.
 
 ## Linked Open Data
 
@@ -249,19 +275,28 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 ## APIs
 
-- [opendata.swiss](https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html)
+- [opendata.swiss CKAN API](https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html) - Programmatic access to the national OGD metadata catalog.
 - [Geo Admin](https://docs.geo.admin.ch/)
 - [Geo Admin STAC](https://www.geo.admin.ch/de/geo-dienstleistungen/geodienste/downloadienste/stac-api.html) - API for Geo Admin's Spatial-Temporal Asset Catalog.
-- [Shared mobility](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-82109.html)
-- [Additional API documentation](https://nrohrbach.github.io/ApiDocumentation/) - More information for APIs provided by opendata.swiss, Geo Admin, and Shared mobility.
-- [Schweiz Tourismus](https://developer.myswitzerland.io/)
+- [Federal Popular Votes API](https://opendata.swiss/en/dataset/echtzeitdaten-am-abstimmungstag-zu-eidgenoessischen-abstimmungsvorlagen) - Historical and continuously updated election-day JSON at municipal, district, cantonal, and federal levels.
+- [SIMAP API](https://www.simap.ch/api-doc) - Public procurement publication data in JSON; the API terms permit commercial reuse.
+- [Swiss Energy Dashboard API](https://energiedashboard.ch/api/swagger-ui/index.html) - Read-only REST API for energy time series, statistics, and metadata.
+- [SFOE APIs](https://www.bfe.admin.ch/bfe/en/home/supply/digitalization-and-geoinformation/programming-interfaces.html) - Official overview of GeoAdmin, shared-mobility, STAC, charging-infrastructure, and OGD metadata interfaces.
+- [Switzerland Tourism Open Data API](https://developer.myswitzerland.io/) - Mostly CC BY-SA 4.0 data with commercial reuse; requires a free API key and excludes linked images from the dataset licenses.
 - [Overpass API (with Overpass QL)](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) - Overpass API for worldwide OpenStreetMap geospatial vector data with Overpass QL. Query example: "Italian restaurants in Switzerland" using instance [overpass-turbo.osm.ch](https://osm.li/Oqg).
 - [Overpass API (with PostPASS SQL)](https://wiki.openstreetmap.org/wiki/Postpass) - Overpass API for worldwide OpenStreetMap geospatial vector data with PostGIS SQL. Query example: "Italian restaurants in Switzerland" using instance [overpass-turbo.eu](https://overpass-turbo.eu/s/2qpD).
-- [SRGSSR](https://developer.srgssr.ch/) - APIs of the publicly funded broadcaster in Switzerland.
 - [CKAN API documentation](https://docs.ckan.org/en/latest/api/)
 - [OpenERZ](https://github.com/metaodi/openerz) - OpenERZ is an open API for waste collection data from many different municipalities in Switzerland (e.g., Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, and Horgen). API and Python client provided by OGD wizard [metaodi](https://github.com/metaodi), aka Stefan Oderbolz.
 - [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is an open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein, and Switzerland available via an open REST API interface.
 - [OpenHolidays API](https://www.openholidaysapi.org/en/) - Open Data project that collects public holiday and school holiday data and makes them available via an open REST API interface.
+
+## Open-source Tools
+
+- [Swiss federal OSS catalog](https://www.opensource.admin.ch/) - Official catalog of software published by federal and cantonal authorities, with repository and license information.
+- [adminR Code Base](https://github.com/swiss-adminR/pkgs) - Curated list of R packages and reusable R code created by Swiss public institutions.
+- [BFS](https://github.com/lgnbhl/BFS) - R package for searching and downloading data from Federal Statistical Office APIs.
+- [I14Y](https://github.com/lgnbhl/I14Y) - R package for searching Switzerland's official interoperability metadata catalog.
+- [swissparlpy](https://github.com/metaodi/swissparlpy) - Python client for the Swiss Parliament's open-data web services.
 
 ## Organizations, Initiatives, Events and Projects
 
@@ -273,7 +308,6 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [opendata.ch](https://opendata.ch/events/) - List of hackathons and events.
 - [GovTech Hackathons](https://digital.swiss/en/action-plan/measures/govtech-hackathon)
 - [Open Data Beer](https://opendatabeer.ch/)
-- [Prototype Fund](https://prototypefund.de/en/) - A funding program of the Federal Ministry of Education and Research (BMBF) that is managed and evaluated by the Open Knowledge Foundation Germany. Individuals and small teams (of coders, hackers, designers, and more) can receive funding to test their ideas and develop open source applications in the areas of Civic Tech, Data Literacy, IT Security, and Software Infrastructure.
 - [öffentlichkeitsgesetz.ch](https://www.oeffentlichkeitsgesetz.ch/deutsch/) - Forum for transparency in administration.
 - [Parldigi](https://www.parldigi.ch/de/) - Parlamentarische Gruppe Digitale Nachhaltigkeit.
 - [DINACON](https://dinacon.ch/) - Conference for digital sustainability.
@@ -287,17 +321,15 @@ Portals and data sources that provide access to Swiss Open Government Data.
 ## Podcasts
 
 - [Statistisch gesehen](https://feeds.captivate.fm/statistisch-gesehen/) - Podcast of the Statistical Office Kanton Zürich.
-- [StatGespräch](https://www.destatis.de/DE/Mediathek/Podcasts/_inhalt.html) - Podcast of the Statistical Office Germany.
 
 ## Miscellaneous
 
 - [Swiss OGD information](https://www.bfs.admin.ch/bfs/en/home/services/ogd.html)
-- [Swiss OGD strategy](https://www.bfs.admin.ch/bfs/en/home/services/ogd/documentation.assetdetail.16164831.html)
+- [Swiss OGD Master Plan 2024–2027](https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/vorgaben/sn004-open_government_data_strategie_schweiz.html) - Current federal open-by-default policy, objectives, and implementation measures.
 - [Geschäftsstelle OGD BFS](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/geschaeftsstelle.html) - This unit coordinates measures to implement the OGD strategy of the Swiss government and provides support to both data publishers and users.
 - [Digitale Verwaltung Schweiz](https://www.digitale-verwaltung-schweiz.ch/)
 - [National data management NaDB](https://www.bfs.admin.ch/bfs/en/home/nadb/nadb.html) - The I14Y interoperability platform is available since June 2021 to promote the multiple use of data. All of the Federal Administration’s data collections are described here. In addition, a directory of electronic interfaces (APIs) will facilitate access to the actual data.
 - [Swiss DCAT Standard](https://www.ech.ch/de/ech/ech-0200/1.0) - eCH-0200 DCAT profile for Swiss data portals.
-- [adminR Code Base](https://github.com/swiss-adminR/pkgs) - Curated list of R packages and R code created and used by Swiss public institutions.
 - [Forschungsstelle Digitale Nachhaltigkeit Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/) - The Research Center for Digital Sustainability focuses on key topics such as Digital Sustainability, Open Data, Linked Data, and Open Government. The center offers studies, research, services, support, and lectures (see below) in these areas.
 - [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) - Comprehensive lectures about Open Data in Switzerland provided by the Forschungsstelle Digitale Nachhaltigkeit at the University of Bern.
 - [Swiss OSS Benchmark](https://ossbenchmark.com/institutions) - Comprehensive list of open source GitHub repositories and organizations of Swiss institutions.
@@ -310,106 +342,26 @@ Swiss data journalism teams.
 - [SRF Data](https://srfdata.github.io/) - Code and data from SRF Data, the data-driven journalism unit of Swiss Radio and TV (SRF) [[Publications and projects]](https://www.srf.ch/news/srf-data).
 - [Tamedia Data Desk](https://github.com/tamedia-ddj) - GitHub account of Tamedia's data journalism team [[Projects of Ressort «Daten & Interaktiv»]](https://interaktiv.tagesanzeiger.ch/).
 
-## Social Media
-
-- [Twitter lists by Open Data CH](https://twitter.com/OpendataCH/lists)
-
 ## International
 
-Interesting international data portals and websites.
+International sources retained here are limited to cross-border datasets, neighboring jurisdictions, and resources that are directly useful for Swiss comparisons.
 
 ### Data portals and sources
 
-- [List of European Statistical Offices](https://www.destatis.de/EN/Service/Address-Book/europe.html) - List provided by [Destatis](https://www.destatis.de).
 - [European Union](https://data.europa.eu/en) - Official data portal of the European Commission.
 - [Eurostat](https://ec.europa.eu/eurostat/web/main/data) - Data portal of the Statistical Office of the European Union [[Database]](https://ec.europa.eu/eurostat/web/main/data/database) [[Geo Data]](https://ec.europa.eu/eurostat/web/gisco/overview) [[Statistical Atlas]](https://ec.europa.eu/statistical-atlas/viewer/?config=RYB-2022.json) [[Choropleth Map Generator]](https://gisco-services.ec.europa.eu/image/screen/home) [[Experimental Statistics]](https://ec.europa.eu/eurostat/web/experimental-statistics).
-- [IATE](https://iate.europa.eu/home) - Terminology database of the EU.
-- [Germany](https://www.govdata.de/) - Germany's main OGD data portal.
-- [Germany](https://www-genesis.destatis.de/genesis/online) - Database of the Federal Statistical Office of Germany [[Experimental Statistics]](https://www.destatis.de/EN/Service/EXDAT/_node.html).
-- [Germany](https://gdz.bkg.bund.de/) - Geodata shop of Germany's Federal Agency for Cartography and Geodesy (BKG).
-- [Germany](https://www.geoportal.de/) - BKG's interactive geodata offering «geoportal.de».
-- [Germany](https://basemap.de/) - basemap.de is a collection of cartographic products developed by the federal and state governments.
-- [Albania](https://www.instat.gov.al/) - Statistical Office.
-- [Andorra](https://www.estadistica.ad/portal/apps/sites/#/estadistica-en) - Statistical Office.
-- [Austria](https://www.statistik.at/en) - Statistical Office.
-- [Austria](https://www.data.gv.at/)
-- [Belgium](https://statbel.fgov.be/en) - Statistical Office.
-- [Belgium](https://data.gov.be/en)
-- [Bosnia and Herzegovina](https://bhas.gov.ba/) - Statistical Office.
-- [Bulgaria](https://www.nsi.bg/en) - Statistical Office.
-- [Croatia](https://podaci.dzs.hr/en/) - Statistical Office.
-- [Cyprus](https://www.cystat.gov.cy/en/default) - Statistical Office.
-- [Czechia](http://www.czso.cz/csu/czso/home) - Statistical Office.
-- [Denmark](http://www.dst.dk/en) - Statistical Office.
-- [Estonia](http://www.stat.ee/) - Statistical Office.
-- [Estonia](https://avaandmed.eesti.ee/)
-- [Finland](https://www.opendata.fi/en)
-- [Finland](https://stat.fi/index_en.html)
-- [France](https://www.insee.fr/en/accueil) - Statistical Office.
-- [France](https://www.data.gouv.fr/en/datasets/)
-- [Greece](http://www.statistics.gr/en/home) - Statistical Office.
-- [Greece](https://data.gov.gr/en/)
-- [Hungary](http://www.ksh.hu/) - Statistical Office.
-- [Iceland](http://www.statice.is/) - Statistical Office.
-- [Ireland](http://www.cso.ie/) - Statistical Office.
-- [Ireland](https://data.gov.ie/)
-- [Italy](http://www.istat.it/en/) - Statistical Office.
-- [Italy](https://www.dati.gov.it/)
-- [Kosovo](https://ask.rks-gov.net/) - Statistical Office.
-- [Latvia](https://stat.gov.lv/en)
-- [Liechtenstein](https://www.statistikportal.li/) - Statistical Office.
-- [Lithuania](https://www.stat.gov.lt/en) - Statistical Office.
-- [Luxembourg](https://statistiques.public.lu/en.html) - Statistical Office.
-- [Luxembourg](https://data.public.lu/en/#)
-- [Malta](https://nso.gov.mt/) - Statistical Office.
-- [Moldova](http://statistica.gov.md/index.php) - Statistical Office.
-- [Monaco](http://www.monacostatistics.mc/) - Statistical Office.
-- [Montenegro](http://monstat.org/eng/index.php) - Statistical Office.
-- [Netherlands](http://www.cbs.nl/en-GB/default.htm) - Statistical Office.
-- [Netherlands](https://data.overheid.nl/en)
-- [North Macedonia](http://www.stat.gov.mk/Default_en.aspx) - Statistical Office.
-- [Norway](http://www.ssb.no/english/) - Statistical Office.
-- [Poland](http://stat.gov.pl/en/) - Statistical Office.
-- [Portugal](https://www.ine.pt/) - Statistical Office.
-- [Portugal](https://www.pordata.pt/en/Home) - Dataportal «Pordata»
-- [Romania](https://data.gov.ro/en/)
-- [San Marino](https://www.statistica.sm/pub1/StatisticaSM/en/) - Statistical Office.
-- [Serbia](https://www.stat.gov.rs/en-us/) - Statistical Office.
-- [Slovakia](https://slovak.statistics.sk) - Statistical Office.
-- [Slovenia](http://www.stat.si/StatWeb/en/home) - Statistical Office.
-- [Spain](http://www.ine.es/en/welcome.shtml) - Statistical Office.
-- [Sweden](http://www.scb.se/en/) - Statistical Office.
-- [Türkiye](https://www.tuik.gov.tr/Home/Index) - Statistical Office.
-- [Ukraine](http://www.ukrstat.gov.ua/) - Statistical Office.
-- [Ukraine](https://data.gov.ua/en/)
-- [United Kingdom](http://www.ons.gov.uk/ons/index.html) - Statistical Office.
-- [United Kingdom](https://www.data.gov.uk/)
-- [Australia](https://data.gov.au/)
-- [New Zealand](https://www.stats.govt.nz/all-topics/)
-- [Singapore](https://beta.data.gov.sg/)
-- [Hong Kong](https://data.gov.hk/en/)
-- [India](https://data.gov.in/)
-- [Canada](https://www.statcan.gc.ca/en/start)
-- [United States](https://data.gov/)
-- [Socrata's Open Data Network](https://www.opendatanetwork.com/) - Broad offering of US OGD datasets. API docs [here](https://dev.socrata.com/consumers/getting-started.html).
-- [FRED Economic Data](https://fred.stlouisfed.org/) - Online database with hundreds of thousands of economic data time series from American, international, public, and private sources.
-- [NASDAQ Data Portal](https://data.nasdaq.com/)
+- [Liechtenstein Statistics](https://www.statistikportal.li/) - Official statistics from Switzerland's closest associated neighboring state.
 - [Global Biodiversity Information Facility](https://www.gbif.org)
 
 ### Curated lists
 
 - OKFN Data Portals [[Website](https://dataportals.org/)] [[GitHub repo](https://github.com/okfn/dataportals.org)] - Very large, comprehensive list of data sources maintained by the [Open Knowledge Foundation](https://okfn.org/).
-- Open Data Inception [[Database](https://data.opendatasoft.com/explore/dataset/open-data-sources%40public/table/?sort=code_en)] [[Data Map](https://opendatainception.io/)] - Very large, comprehensive list of data sources maintained by the data portal vendor [Opendatasoft](https://www.opendatasoft.com/). See [this article for background information](https://www.opendatasoft.com/en/blog/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community/).
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#government) - GitHub list with many more links to public government datasets.
 - [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit) - Community list of transit APIs, apps, datasets, research, and software.
-- [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon) - Recommendations for crowdsourcing tools, primarily from the open data community.
 
 ### Miscellaneous
 
 - [Open Data Handbook](https://opendatahandbook.org/) - Guides, case studies, and resources for government and civil society on the _«what, why & how»_ of open data. Provided by the [Open Knowledge Foundation](https://okfn.org/).
-- [bund.dev](https://bund.dev/) - «Bundesstelle für Open Data». Very active and influential non-governmental open data initiative [[GitHub](https://github.com/bundesAPI)].
-- [Greenpeace Open Data Portal](https://daten.greenpeace.de/dataset/)
-- [Code for Germany](https://www.codefor.de/) - A network of open government experts who work as volunteer civic developers for sustainable digital change in politics and administration. Strong focus on Open Data; list of [inspiring projects here](https://www.codefor.de/projekte/).
 - [United Nations](https://data.un.org/) - Data portal of the UN.
 - [OECD](https://www.oecd.org/en/data.html) - OECD data portal.
 - [Worldbank](https://data.worldbank.org/country/CH) - Data about Switzerland.
@@ -418,4 +370,13 @@ Interesting international data portals and websites.
 
 ## Contribute
 
-Contributions are always welcome. Just open an issue or a pull request with your suggestions.
+Contributions are welcome through issues and pull requests. A proposed resource should:
+
+- focus on Switzerland or provide clear value for Swiss comparisons;
+- identify its publisher, primary access URL, and, for data or tools, license or reuse terms;
+- permit free use, modification, and redistribution, including commercial reuse, when it provides data;
+- provide machine-readable data or, when it is a tool, source code under an OSI-approved license;
+- be maintained by an official institution, established non-profit, research organization, or transparent community project; and
+- avoid duplicating a more direct or authoritative entry already on the list.
+
+Catalogs containing restricted records must say so explicitly. Free-to-view services, non-commercial-only APIs, proprietary applications without reusable data, and resources with unclear licensing are out of scope.
