@@ -8,7 +8,7 @@ from rich.console import Console
 from rich.table import Table
 from rich.markdown import Markdown
 
-README_PATH = Path("readme.md")
+README_PATH = Path("README.md")
 
 console = Console()
 
@@ -18,12 +18,12 @@ DATA_SOURCE_SECTIONS = [
     "Geo Data",
     "Linked Open Data",
     "APIs",
+    "Open-source Tools",
     "Organizations, Initiatives, Events and Projects",
     "Newsletters",
     "Podcasts",
     "Miscellaneous",
     "Media",
-    "Social Media",
     "International",
 ]
 

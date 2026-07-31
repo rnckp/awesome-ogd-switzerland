@@ -1,6 +1,6 @@
 """
 Link checker for awesome-ogd-switzerland README.
-This script extracts all URLs from readme.md and checks their availability.
+This script extracts all URLs from README.md and checks their availability.
 """
 
 import re
@@ -223,16 +223,16 @@ def main():
     """Main entry point for the link checker."""
     console.print(
         Panel.fit(
-            "[bold cyan]Link Checker for awesome-ogd-switzerland[/bold cyan]\n"
-            "Checking all URLs in readme.md",
+        "[bold cyan]Link Checker for awesome-ogd-switzerland[/bold cyan]\n"
+        "Checking all URLs in README.md",
             border_style="cyan",
         )
     )
 
     # Find readme file
-    readme_path = Path("readme.md")
+    readme_path = Path("README.md")
     if not readme_path.exists():
-        console.print("[bold red]Error: readme.md not found![/bold red]")
+        console.print("[bold red]Error: README.md not found![/bold red]")
         return 1
 
     try:
@@ -240,7 +240,7 @@ def main():
         urls = extract_urls_from_markdown(readme_path)
 
         if not urls:
-            console.print("[yellow]No URLs found in readme.md[/yellow]")
+            console.print("[yellow]No URLs found in README.md[/yellow]")
             return 0
 
         # Check all links
