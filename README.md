@@ -27,13 +27,16 @@ A manually curated list of Open Government Data (OGD) portals, websites, APIs, t
 
 </details>
 
-## Curation Policy
+<details>
+<summary><strong>Curation Policy</strong></summary>
 
 This list follows the [Open Definition](https://opendefinition.org/): data must permit free use, modification, and redistribution, including commercial reuse. Tools must publish their source code under an [OSI-approved license](https://opensource.org/licenses). Related guides, communities, and media must be freely accessible, directly relevant, and operated by an official institution, established non-profit, research organization, or transparent community project.
 
 Registration is acceptable when it is free and non-discriminatory, but payment, case-by-case permission, non-commercial-only terms, or unclear reuse rights are exclusion criteria for data and tools.
 
 Repositories and catalogs that contain both open and restricted records are clearly identified. Always verify the license of an individual dataset before reuse.
+
+</details>
 
 ## Data Sources
 
