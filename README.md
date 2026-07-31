@@ -285,6 +285,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Switzerland Tourism Open Data API](https://developer.myswitzerland.io/) - Mostly CC BY-SA 4.0 data with commercial reuse; requires a free API key and excludes linked images from the dataset licenses.
 - [Overpass API (with Overpass QL)](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) - Overpass API for worldwide OpenStreetMap geospatial vector data with Overpass QL. Query example: "Italian restaurants in Switzerland" using instance [overpass-turbo.osm.ch](https://osm.li/Oqg).
 - [Overpass API (with PostPASS SQL)](https://wiki.openstreetmap.org/wiki/Postpass) - Overpass API for worldwide OpenStreetMap geospatial vector data with PostGIS SQL. Query example: "Italian restaurants in Switzerland" using instance [overpass-turbo.eu](https://overpass-turbo.eu/s/2qpD).
+- [SRGSSR](https://developer.srgssr.ch/) - APIs of the publicly funded broadcaster in Switzerland.
 - [CKAN API documentation](https://docs.ckan.org/en/latest/api/)
 - [OpenERZ](https://github.com/metaodi/openerz) - OpenERZ is an open API for waste collection data from many different municipalities in Switzerland (e.g., Zurich, Basel, St. Gallen, Uster, Thalwil, Adliswil, and Horgen). API and Python client provided by OGD wizard [metaodi](https://github.com/metaodi), aka Stefan Oderbolz.
 - [OpenPLZ API](https://www.openplzapi.org/en/) - OpenPLZ API is an open data project that makes a public street and postal code directory for Austria, Germany, Liechtenstein, and Switzerland available via an open REST API interface.
@@ -308,6 +309,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [opendata.ch](https://opendata.ch/events/) - List of hackathons and events.
 - [GovTech Hackathons](https://digital.swiss/en/action-plan/measures/govtech-hackathon)
 - [Open Data Beer](https://opendatabeer.ch/)
+- [Prototype Fund](https://prototypefund.de/en/) - A funding program of the Federal Ministry of Education and Research (BMBF) that is managed and evaluated by the Open Knowledge Foundation Germany. Individuals and small teams (of coders, hackers, designers, and more) can receive funding to test their ideas and develop open source applications in the areas of Civic Tech, Data Literacy, IT Security, and Software Infrastructure.
 - [öffentlichkeitsgesetz.ch](https://www.oeffentlichkeitsgesetz.ch/deutsch/) - Forum for transparency in administration.
 - [Parldigi](https://www.parldigi.ch/de/) - Parlamentarische Gruppe Digitale Nachhaltigkeit.
 - [DINACON](https://dinacon.ch/) - Conference for digital sustainability.
@@ -320,7 +322,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 ## Podcasts
 
-- [Statistisch gesehen](https://feeds.captivate.fm/statistisch-gesehen/) - Podcast of the Statistical Office Kanton Zürich.
+- [Statistisch gesehen](https://feeds.captivate.fm/statistisch-gesehen/) - Podcast of the Office for Statistics and Data of the Canton of Zurich.
 
 ## Miscellaneous
 
@@ -348,8 +350,80 @@ International sources retained here are limited to cross-border datasets, neighb
 
 ### Data portals and sources
 
+- [List of European Statistical Offices](https://www.destatis.de/EN/Service/Address-Book/europe.html) - List provided by [Destatis](https://www.destatis.de).
 - [European Union](https://data.europa.eu/en) - Official data portal of the European Commission.
 - [Eurostat](https://ec.europa.eu/eurostat/web/main/data) - Data portal of the Statistical Office of the European Union [[Database]](https://ec.europa.eu/eurostat/web/main/data/database) [[Geo Data]](https://ec.europa.eu/eurostat/web/gisco/overview) [[Statistical Atlas]](https://ec.europa.eu/statistical-atlas/viewer/?config=RYB-2022.json) [[Choropleth Map Generator]](https://gisco-services.ec.europa.eu/image/screen/home) [[Experimental Statistics]](https://ec.europa.eu/eurostat/web/experimental-statistics).
+- [IATE](https://iate.europa.eu/home) - Terminology database of the EU.
+- [Germany](https://www.govdata.de/) - Germany's main OGD data portal.
+- [Germany](https://www-genesis.destatis.de/genesis/online) - Database of the Federal Statistical Office of Germany [[Experimental Statistics]](https://www.destatis.de/EN/Service/EXDAT/_node.html).
+- [Germany](https://gdz.bkg.bund.de/) - Geodata shop of Germany's Federal Agency for Cartography and Geodesy (BKG).
+- [Germany](https://www.geoportal.de/) - BKG's interactive geodata offering «geoportal.de».
+- [Germany](https://basemap.de/) - basemap.de is a collection of cartographic products developed by the federal and state governments.
+- [Albania](https://www.instat.gov.al/) - Statistical Office.
+- [Andorra](https://www.estadistica.ad/portal/apps/sites/#/estadistica-en) - Statistical Office.
+- [Austria](https://www.statistik.at/en) - Statistical Office.
+- [Austria](https://www.data.gv.at/)
+- [Belgium](https://statbel.fgov.be/en) - Statistical Office.
+- [Belgium](https://data.gov.be/en)
+- [Bosnia and Herzegovina](https://bhas.gov.ba/) - Statistical Office.
+- [Bulgaria](https://www.nsi.bg/en) - Statistical Office.
+- [Croatia](https://podaci.dzs.hr/en/) - Statistical Office.
+- [Cyprus](https://www.cystat.gov.cy/en/default) - Statistical Office.
+- [Czechia](http://www.czso.cz/csu/czso/home) - Statistical Office.
+- [Denmark](http://www.dst.dk/en) - Statistical Office.
+- [Estonia](http://www.stat.ee/) - Statistical Office.
+- [Estonia](https://avaandmed.eesti.ee/)
+- [Finland](https://www.opendata.fi/en)
+- [Finland](https://stat.fi/index_en.html)
+- [France](https://www.insee.fr/en/accueil) - Statistical Office.
+- [France](https://www.data.gouv.fr/en/datasets/)
+- [Greece](http://www.statistics.gr/en/home) - Statistical Office.
+- [Greece](https://data.gov.gr/en/)
+- [Hungary](http://www.ksh.hu/) - Statistical Office.
+- [Iceland](http://www.statice.is/) - Statistical Office.
+- [Ireland](http://www.cso.ie/) - Statistical Office.
+- [Ireland](https://data.gov.ie/)
+- [Italy](http://www.istat.it/en/) - Statistical Office.
+- [Italy](https://www.dati.gov.it/)
+- [Kosovo](https://ask.rks-gov.net/) - Statistical Office.
+- [Latvia](https://stat.gov.lv/en)
+- [Liechtenstein](https://www.statistikportal.li/) - Statistical Office.
+- [Lithuania](https://www.stat.gov.lt/en) - Statistical Office.
+- [Luxembourg](https://statistiques.public.lu/en.html) - Statistical Office.
+- [Luxembourg](https://data.public.lu/en/#)
+- [Malta](https://nso.gov.mt/) - Statistical Office.
+- [Moldova](http://statistica.gov.md/index.php) - Statistical Office.
+- [Monaco](http://www.monacostatistics.mc/) - Statistical Office.
+- [Montenegro](http://monstat.org/eng/index.php) - Statistical Office.
+- [Netherlands](http://www.cbs.nl/en-GB/default.htm) - Statistical Office.
+- [Netherlands](https://data.overheid.nl/en)
+- [North Macedonia](http://www.stat.gov.mk/Default_en.aspx) - Statistical Office.
+- [Norway](http://www.ssb.no/english/) - Statistical Office.
+- [Poland](http://stat.gov.pl/en/) - Statistical Office.
+- [Portugal](https://www.ine.pt/) - Statistical Office.
+- [Portugal](https://www.pordata.pt/en/Home) - Dataportal «Pordata»
+- [Romania](https://data.gov.ro/en/)
+- [San Marino](https://www.statistica.sm/pub1/StatisticaSM/en/) - Statistical Office.
+- [Serbia](https://www.stat.gov.rs/en-us/) - Statistical Office.
+- [Slovakia](https://slovak.statistics.sk) - Statistical Office.
+- [Slovenia](http://www.stat.si/StatWeb/en/home) - Statistical Office.
+- [Spain](http://www.ine.es/en/welcome.shtml) - Statistical Office.
+- [Sweden](http://www.scb.se/en/) - Statistical Office.
+- [Türkiye](https://www.tuik.gov.tr/Home/Index) - Statistical Office.
+- [Ukraine](http://www.ukrstat.gov.ua/) - Statistical Office.
+- [Ukraine](https://data.gov.ua/en/)
+- [United Kingdom](http://www.ons.gov.uk/ons/index.html) - Statistical Office.
+- [United Kingdom](https://www.data.gov.uk/)
+- [Australia](https://data.gov.au/)
+- [New Zealand](https://www.stats.govt.nz/all-topics/)
+- [Singapore](https://beta.data.gov.sg/)
+- [Hong Kong](https://data.gov.hk/en/)
+- [India](https://data.gov.in/)
+- [Canada](https://www.statcan.gc.ca/en/start)
+- [United States](https://data.gov/)
+- [Socrata's Open Data Network](https://www.opendatanetwork.com/) - Broad offering of US OGD datasets. API docs [here](https://dev.socrata.com/consumers/getting-started.html).
+- [FRED Economic Data](https://fred.stlouisfed.org/) - Online database with hundreds of thousands of economic data time series from American, international, public, and private sources.
+- [NASDAQ Data Portal](https://data.nasdaq.com/)
 - [Liechtenstein Statistics](https://www.statistikportal.li/) - Official statistics from Switzerland's closest associated neighboring state.
 - [Global Biodiversity Information Facility](https://www.gbif.org)
 
@@ -362,11 +436,15 @@ International sources retained here are limited to cross-border datasets, neighb
 ### Miscellaneous
 
 - [Open Data Handbook](https://opendatahandbook.org/) - Guides, case studies, and resources for government and civil society on the _«what, why & how»_ of open data. Provided by the [Open Knowledge Foundation](https://okfn.org/).
+- [bund.dev](https://bund.dev/) - «Bundesstelle für Open Data». Very active and influential non-governmental open data initiative [[GitHub](https://github.com/bundesAPI)].
+- [Greenpeace Open Data Portal](https://daten.greenpeace.de/dataset/)
+- [Code for Germany](https://www.codefor.de/) - A network of open government experts who work as volunteer civic developers for sustainable digital change in politics and administration. Strong focus on Open Data; list of [inspiring projects here](https://www.codefor.de/projekte/).
 - [United Nations](https://data.un.org/) - Data portal of the UN.
 - [OECD](https://www.oecd.org/en/data.html) - OECD data portal.
 - [Worldbank](https://data.worldbank.org/country/CH) - Data about Switzerland.
 - [Our World in Data](https://ourworldindata.org/search?q=switzerland) - Data about Switzerland.
 - [Open Data Watch](https://odin.opendatawatch.com/Report/) - Open data rankings and much more.
+- [Awesome Hackathon](https://github.com/dribdat/awesome-hackathon) - Recommendations for crowdsourcing tools, primarily from the open data community.
 
 ## Contribute
 
