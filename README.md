@@ -301,6 +301,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [BFS](https://github.com/lgnbhl/BFS) - R package for searching and downloading data from Federal Statistical Office APIs.
 - [I14Y](https://github.com/lgnbhl/I14Y) - R package for searching Switzerland's official interoperability metadata catalog.
 - [swissparlpy](https://github.com/metaodi/swissparlpy) - Python client for the Swiss Parliament's open-data web services.
+- [Brünneli](https://github.com/foertsch/bruenneli) - Next.js/TypeScript web app that finds the nearest public drinking fountain in Switzerland, built on Basel and Zürich municipal open data plus OpenStreetMap. MIT-licensed, with a documented build-time data pipeline (`scripts/fetch-fountains.ts`) reusable as a worked example of normalising these portals.
 
 ## Organizations, Initiatives, Events and Projects
 
