@@ -301,6 +301,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [BFS](https://github.com/lgnbhl/BFS) - R package for searching and downloading data from Federal Statistical Office APIs.
 - [I14Y](https://github.com/lgnbhl/I14Y) - R package for searching Switzerland's official interoperability metadata catalog.
 - [swissparlpy](https://github.com/metaodi/swissparlpy) - Python client for the Swiss Parliament's open-data web services.
+- [datannur](https://github.com/datannur/datannur) - Data catalog that runs from static files, no server needed. Exports metadata to DCAT-AP-CH.
 
 ## Organizations, Initiatives, Events and Projects
 
