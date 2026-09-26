@@ -1,263 +1,145 @@
-"""
-Link checker for awesome-ogd-switzerland README.
-This script extracts all URLs from README.md and checks their availability.
-"""
+"""Check README HTTP links, separating likely broken URLs from inconclusive checks."""
 
 import re
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime, timezone
+from html import unescape
 from pathlib import Path
-from typing import List, Tuple
+from urllib.parse import urldefrag, urlsplit
 
 import requests
 from rich.console import Console
-from rich.progress import (
-    Progress,
-    SpinnerColumn,
-    BarColumn,
-    TextColumn,
-    TimeElapsedColumn,
-)
-from rich.table import Table
-from rich.panel import Panel
-from rich import box
+from rich.progress import track
 
 console = Console()
-
-# Timeout for requests
 REQUEST_TIMEOUT = 30
-# Maximum concurrent link checks
 MAX_WORKERS = 10
-# User agent to avoid blocking
 USER_AGENT = "Mozilla/5.0 (compatible; Link-Checker/1.0)"
 
 
-def extract_urls_from_markdown(file_path: Path) -> List[str]:
-    """Extract all URLs from a markdown file."""
-    console.log(f"Reading file: {file_path}")
+def extract_urls_from_markdown(file_path: Path) -> list[str]:
+    """Extract HTTP(S) destinations from Markdown, HTML and plain text.
 
-    with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
-
-    # Pattern to match markdown links [text](url) and plain URLs
-    markdown_links = re.findall(r"\[([^\]]+)\]\(([^)]+)\)", content)
-    urls = [url for _, url in markdown_links]
-
-    # Also find plain URLs (http:// or https://)
-    plain_urls = re.findall(r"https?://[^\s\)]+", content)
-    urls.extend(plain_urls)
-
-    # Remove duplicates and anchors
-    unique_urls = []
+    Quotes and angle brackets delimit HTML attributes, so adjacent markup is
+    never included. Balanced URL parentheses are retained; Markdown closing
+    parentheses and surrounding prose punctuation are discarded. Fragments
+    are removed because HTTP requests cannot validate client-side routes.
+    """
+    content = file_path.read_text(encoding="utf-8")
+    urls = []
     seen = set()
-    for url in urls:
-        # Remove anchor fragments
-        clean_url = url.split("#")[0]
-        # Skip if it's just an anchor or already seen
-        if clean_url and clean_url not in seen:
-            seen.add(clean_url)
-            unique_urls.append(clean_url)
+    for match in re.finditer(r'''https?://[^\s<>"'\[\]`]+''', content):
+        url = unescape(match[0])
+        # Stop at the first unmatched closing parenthesis (Markdown syntax).
+        depth = 0
+        for index, char in enumerate(url):
+            if char == "(":
+                depth += 1
+            elif char == ")":
+                if depth == 0:
+                    url = url[:index]
+                    break
+                depth -= 1
+        url = urldefrag(url.rstrip(".,;:!?"))[0]
+        if urlsplit(url).netloc and url not in seen:
+            seen.add(url)
+            urls.append(url)
+    return urls
 
-    console.log(f"Found {len(unique_urls)} unique URLs")
-    return unique_urls
+
+def classify_status(status_code: int) -> str:
+    if 200 <= status_code < 400:
+        return "reachable"
+    if status_code in (404, 410):
+        return "likely broken"
+    return "needs review"
 
 
-def check_url(url: str) -> Tuple[str, bool, int, str]:
-    """Check if a URL is accessible.
+def check_url(url: str) -> tuple[str, str, int, str]:
+    """Return URL, outcome, HTTP code and explanation.
 
-    Returns:
-        Tuple of (url, is_available, status_code, error_message)
+    Retry failed HEAD checks with a streamed GET: some servers reject HEAD.
+    Do not download response bodies (links can point at large datasets).
     """
     headers = {"User-Agent": USER_AGENT}
-
-    try:
-        response = requests.head(
-            url, timeout=REQUEST_TIMEOUT, allow_redirects=True, headers=headers
-        )
-
-        # If HEAD fails, try GET
-        if response.status_code >= 400:
-            response = requests.get(
-                url, timeout=REQUEST_TIMEOUT, allow_redirects=True, headers=headers
-            )
-
-        is_available = response.status_code < 400
-        return (url, is_available, response.status_code, "")
-
-    except requests.exceptions.Timeout:
-        return (url, False, 0, "Timeout")
-    except requests.exceptions.ConnectionError:
-        return (url, False, 0, "Connection Error")
-    except requests.exceptions.TooManyRedirects:
-        return (url, False, 0, "Too Many Redirects")
-    except requests.exceptions.RequestException as e:
-        return (url, False, 0, str(e)[:50])
-    except Exception as e:
-        return (url, False, 0, f"Unknown Error: {str(e)[:50]}")
+    for method in (requests.head, requests.get):
+        try:
+            with method(url, timeout=REQUEST_TIMEOUT, allow_redirects=True,
+                        headers=headers, stream=True) as response:
+                code = response.status_code
+                outcome = classify_status(code)
+            if outcome == "reachable":
+                return url, outcome, code, ""
+            result = (url, outcome, code, {
+                401: "Authentication required; not evidence of a dead link",
+                403: "Access denied or bot protection; check in a browser",
+                404: "HTTP 404; verify the destination before removing",
+                410: "HTTP 410; resource reported gone",
+                429: "Rate limited; retry later",
+            }.get(code, "Server or HTTP error; retry or check manually"))
+        except requests.exceptions.Timeout:
+            result = (url, "needs review", 0, "Timeout; retry later")
+        except requests.exceptions.TooManyRedirects:
+            result = (url, "needs review", 0, "Redirect loop; check in a browser")
+        except requests.exceptions.RequestException as error:
+            result = (url, "needs review", 0, f"Connection/request error: {type(error).__name__}")
+    return result
 
 
-def check_all_links(urls: List[str]) -> List[Tuple[str, bool, int, str]]:
-    """Check all URLs with a progress bar."""
-    results: List[Tuple[str, bool, int, str] | None] = [None] * len(urls)
-    max_workers = min(MAX_WORKERS, len(urls)) or 1
-
-    with Progress(
-        SpinnerColumn(),
-        TextColumn("[progress.description]{task.description}"),
-        BarColumn(),
-        TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
-        TextColumn("({task.completed}/{task.total})"),
-        TimeElapsedColumn(),
-        console=console,
-    ) as progress:
-        task = progress.add_task("[cyan]Checking links...", total=len(urls))
-
-        with ThreadPoolExecutor(max_workers=max_workers) as executor:
-            future_to_index = {
-                executor.submit(check_url, url): index for index, url in enumerate(urls)
-            }
-
-            for future in as_completed(future_to_index):
-                index = future_to_index[future]
-                result = future.result()
-                results[index] = result
-
-                # Update progress with status
-                status = "✓" if result[1] else "✗"
-                progress.update(
-                    task,
-                    advance=1,
-                    description=f"[cyan]Checking links... {status} {result[0][:50]}",
-                )
-
-    return [result for result in results if result is not None]
+def check_all_links(urls):
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        # map preserves input order for stable report diffs.
+        return list(track(executor.map(check_url, urls), total=len(urls),
+                          description="Checking links", console=console))
 
 
-def generate_report(results: List[Tuple[str, bool, int, str]]) -> None:
-    """Generate and display the report."""
+def generate_report(results, output_path=Path("link-check-report.md")):
     total = len(results)
-    available = sum(1 for _, is_avail, _, _ in results if is_avail)
-    unavailable = total - available
-
-    # Summary statistics
-    console.print()
-    console.print(
-        Panel.fit(
-            f"[bold green]Available:[/bold green] {available}\n"
-            f"[bold red]Unavailable:[/bold red] {unavailable}\n"
-            f"[bold blue]Total:[/bold blue] {total}\n"
-            f"[bold yellow]Success Rate:[/bold yellow] {(available / total * 100):.1f}%",
-            title="[bold cyan]Link Check Summary[/bold cyan]",
-            border_style="cyan",
-        )
-    )
-
-    # Table of unavailable links
-    if unavailable > 0:
-        console.print()
-        table = Table(
-            title="[bold red]Unavailable Links[/bold red]",
-            box=box.ROUNDED,
-            show_lines=True,
-        )
-        table.add_column("URL", style="cyan", no_wrap=False)
-        table.add_column("Status Code", style="yellow", justify="center")
-        table.add_column("Error", style="red")
-
-        for url, is_avail, status_code, error in results:
-            if not is_avail:
-                status_str = str(status_code) if status_code > 0 else "-"
-                error_str = error if error else "HTTP Error"
-                table.add_row(url, status_str, error_str)
-
-        console.print(table)
-    else:
-        console.print()
-        console.print("[bold green]✓ All links are accessible![/bold green]")
-
-    # # Save plain text report
-    # report_file = Path("link-check-report.txt")
-    # with open(report_file, 'w', encoding='utf-8') as f:
-    #     f.write("Link Check Report\n")
-    #     f.write("=" * 80 + "\n\n")
-    #     f.write(f"Total URLs checked: {total}\n")
-    #     f.write(f"Available: {available}\n")
-    #     f.write(f"Unavailable: {unavailable}\n")
-    #     f.write(f"Success Rate: {(available/total*100):.1f}%\n\n")
-
-    #     if unavailable > 0:
-    #         f.write("Unavailable Links:\n")
-    #         f.write("-" * 80 + "\n")
-    #         for url, is_avail, status_code, error in results:
-    #             if not is_avail:
-    #                 f.write(f"\nURL: {url}\n")
-    #                 f.write(f"Status Code: {status_code if status_code > 0 else 'N/A'}\n")
-    #                 f.write(f"Error: {error if error else 'HTTP Error'}\n")
-
-    # Save markdown report
-    md_report_file = Path("link-check-report.md")
-    with open(md_report_file, "w", encoding="utf-8") as f:
-        f.write(f"# Link Check Report\n\n")
-        f.write(f"**Total URLs checked:** {total}  \n")
-        f.write(f"**Available:** {available}  \n")
-        f.write(f"**Unavailable:** {unavailable}  \n")
-        f.write(f"**Success Rate:** {(available / total * 100):.1f}%\n\n")
-
-        if unavailable > 0:
-            f.write("## Unavailable Links\n\n")
-            f.write("| URL | Status Code | Error |\n")
-            f.write("| --- | :---: | --- |\n")
-            for url, is_avail, status_code, error in results:
-                if not is_avail:
-                    status_str = str(status_code) if status_code > 0 else "-"
-                    error_str = error if error else "HTTP Error"
-                    # Markdown clickable link
-                    md_url = f"[{url}]({url})"
-                    f.write(f"| {md_url} | {status_str} | {error_str} |\n")
-        else:
-            f.write("All links are accessible!\n")
-
-    console.print(f"\n[dim]Report saved to: {md_report_file}[/dim]")
+    reachable = sum(outcome == "reachable" for _, outcome, _, _ in results)
+    broken = sum(outcome == "likely broken" for _, outcome, _, _ in results)
+    review = total - reachable - broken
+    rate = reachable / total * 100 if total else 0
+    lines = [
+        "# Link Check Report", "",
+        f"**Checked at:** {datetime.now(timezone.utc).isoformat(timespec='seconds')}",
+        f"**Total URLs checked:** {total}  ",
+        f"**Reachable:** {reachable}  ",
+        f"**Likely broken (404/410):** {broken}  ",
+        f"**Needs review:** {review}  ",
+        f"**Reachable rate:** {rate:.1f}%", "",
+        "HTTP reachability does not verify page content, licensing, downloads or "
+        "JavaScript routes. Fragments and internal anchors are not checked. "
+        "Access blocks, rate limits, server errors and connection failures are "
+        "inconclusive, not proof of dead links. Even 404/410 results should be "
+        "confirmed before removing a resource.", "",
+    ]
+    for category in ("likely broken", "needs review"):
+        rows = [r for r in results if r[1] == category]
+        lines += [f"## {category.capitalize()}", ""]
+        if not rows:
+            lines += ["None.", ""]
+            continue
+        lines += ["| URL | HTTP status | Detail |", "| --- | :---: | --- |"]
+        for url, _, code, detail in rows:
+            safe_url = url.replace("|", "%7C")
+            safe_detail = detail.replace("|", r"\|").replace("\n", " ")
+            lines.append(f"| [{safe_url}](<{safe_url}>) | {code or '-'} | {safe_detail} |")
+        lines.append("")
+    output_path.write_text("\n".join(lines), encoding="utf-8")
+    console.print(f"Checked {total}: {reachable} reachable, {broken} likely broken, {review} need review.")
+    console.print(f"Report saved to {output_path}")
 
 
 def main():
-    """Main entry point for the link checker."""
-    console.print(
-        Panel.fit(
-        "[bold cyan]Link Checker for awesome-ogd-switzerland[/bold cyan]\n"
-        "Checking all URLs in README.md",
-            border_style="cyan",
-        )
-    )
-
-    # Find readme file
-    readme_path = Path("README.md")
-    if not readme_path.exists():
-        console.print("[bold red]Error: README.md not found![/bold red]")
+    readme = Path("README.md")
+    if not readme.exists():
+        console.print("README.md not found")
         return 1
-
-    try:
-        # Extract URLs
-        urls = extract_urls_from_markdown(readme_path)
-
-        if not urls:
-            console.print("[yellow]No URLs found in README.md[/yellow]")
-            return 0
-
-        # Check all links
-        console.print()
-        results = check_all_links(urls)
-
-        # Generate report
-        generate_report(results)
-
-        # Return exit code based on results
-        unavailable = sum(1 for _, is_avail, _, _ in results if not is_avail)
-        return 1 if unavailable > 0 else 0
-
-    except Exception as e:
-        console.print(f"[bold red]Error: {e}[/bold red]")
-        return 1
+    results = check_all_links(extract_urls_from_markdown(readme))
+    generate_report(results)
+    # An inconclusive automated check alone should not fail CI.
+    return 1 if any(r[1] == "likely broken" for r in results) else 0
 
 
 if __name__ == "__main__":
-    exit(main())
+    raise SystemExit(main())
