@@ -12,15 +12,17 @@ OGD is data published by public authorities. General open data can come from any
 <details>
 <summary><strong>Table of Contents</strong></summary>
 
-- [Start here](#start-here)
-- [Data sources](#data-sources): [National catalogs and thematic sources](#national-catalogs-and-thematic-sources), [Cantonal portals](#cantonal-portals), [Municipal portals](#municipal-portals)
-- [Geospatial data](#geospatial-data)
-- [APIs and linked data](#apis-and-linked-data)
-- [Tools and libraries](#tools-and-libraries)
-- [Guides, standards and policy](#guides-standards-and-policy)
-- [Community and publications](#community-and-publications)
-- [European comparisons](#european-comparisons)
-- [Curation and contributions](#curation-and-contributions)
+<ul>
+  <li><a href="#start-here">Start here</a></li>
+  <li><a href="#data-sources">Data sources</a>: <a href="#national-catalogs-and-thematic-sources">National catalogs and thematic sources</a>, <a href="#cantonal-portals">Cantonal portals</a>, <a href="#municipal-portals">Municipal portals</a></li>
+  <li><a href="#geospatial-data">Geospatial data</a></li>
+  <li><a href="#apis-and-linked-data">APIs and linked data</a></li>
+  <li><a href="#tools-and-libraries">Tools and libraries</a></li>
+  <li><a href="#guides-standards-and-policy">Guides, standards and policy</a></li>
+  <li><a href="#community-and-publications">Community and publications</a></li>
+  <li><a href="#european-comparisons">European comparisons</a></li>
+  <li><a href="#curation-and-contributions">Curation and contributions</a></li>
+</ul>
 
 </details>
 
