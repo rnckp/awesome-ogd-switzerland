@@ -1,0 +1,4 @@
+interface:
+  display_name: "Maintain Swiss Open Data"
+  short_description: "Refresh and curate the Swiss open-data directory"
+  default_prompt: "Use $maintain-swiss-ogd to refresh this repository with verified new sources, fix outdated or misplaced entries, and summarize the changes and unresolved findings."
