@@ -182,3 +182,4 @@ link-check-report.md
 
 __pycache__/
 *.pyc
+count_sources.md
