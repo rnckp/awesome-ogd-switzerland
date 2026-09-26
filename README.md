@@ -296,7 +296,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 
 ## Open-source Tools
 
-- [Federal Open Source GitHub Index](https://github.com/swiss/index) - An overview of the current GitHub organisations maintained by the Swiss Confederation. 
+- [Federal Open Source GitHub Index](https://github.com/swiss/index) - An overview of the current GitHub organisations maintained by the Swiss Confederation.
 - [Swiss federal OSS catalog](https://www.opensource.admin.ch/) - Official catalog of software published by federal and cantonal authorities, with repository and license information.
 - [adminR Code Base](https://github.com/swiss-adminR/pkgs) - Curated list of R packages and reusable R code created by Swiss public institutions.
 - [BFS](https://github.com/lgnbhl/BFS) - R package for searching and downloading data from Federal Statistical Office APIs.
