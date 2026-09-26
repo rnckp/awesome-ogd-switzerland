@@ -92,7 +92,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Agrarmarktdaten](https://www.agrarmarktdaten.ch/) - Comprehensive data portal provided by the Federal Office for Agriculture. The portal provides ongoing information and data on current market events in various agricultural and food markets. It includes price and quantity information along the value chain, from production to consumption.
 - [Agrarbericht](https://www.blw.admin.ch/blw/de/home/agrarbericht.html) - Agricultural data provided by the Federal Office for Agriculture.
 - [Schweizer Nährwertdatenbank](https://naehrwertdaten.ch/de/) - The Swiss Food Composition Database contains information on the composition of foods available in Switzerland. The database is operated by the Federal Food Safety and Veterinary Office (FSVO).
-- [Bundesamt für Energie BFE](https://www.bfe.admin.ch/bfe/de/home/versorgung/statistik-und-geodaten/energiestatistiken.html) - Federal Office of Energy statistics and geodata.
+- [Bundesamt für Energie BFE](https://www.bfe.admin.ch/de/energiestatistik) - Federal Office of Energy statistics and geodata.
 - [Swiss Energy Dashboard](https://energiedashboard.admin.ch/bfe-url) - Current electricity, gas, energy-price, and supply data from the Federal Office of Energy, with a public read-only REST API.
 - [Bundesamt für Sozialversicherungen BSV](https://www.bsv.admin.ch/de/statistik) - Federal Social Security Office.
 - [Bundesamt für Umwelt BAFU](https://www.bafu.admin.ch/bafu/de/home/zustand.html) - Federal Office for the Environment.
@@ -100,7 +100,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Staatssekretariat für Migration SEM](https://www.sem.admin.ch/sem/de/home/publiservice/statistik.html) - State Secretariat for Migration.
 - [Zentraler Firmenindex ZEFIX](https://www.zefix.admin.ch/de/search/entity/welcome) - API [here](https://www.zefix.admin.ch/ZefixPublicREST/swagger-ui/index.html).
 - [Eidgenössisches Institut für Geistiges Eigentum IGE](https://www.ige.ch/de/uebersicht-dienstleistungen/digitales-angebot) - Federal Institute of Intellectual Property.
-- [Konjunkturforschungsstelle ETH Zürich](https://kof.ethz.ch/daten.html)
+- [Konjunkturforschungsstelle ETH Zürich](https://kof.ethz.ch/en/publications-and-data/data.html)
 - [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm)
 
 #### Real Estate and Buildings Data
@@ -147,7 +147,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Aargau](https://www.ag.ch/de/themen/datenportal#/)
 - [Basel Stadt](https://data.bs.ch/explore/)
 - [Basel Land](https://data.bl.ch/explore/)
-- [Basel Land Statistical Office](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/statistisches-amt)
+- [Basel Land Statistical Office](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/daten-statistik)
 - [Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html)
 - [Fribourg / Freiburg](https://opendata.fr.ch/pages/home/)
 - [Fribourg / Freiburg Statistical Office](https://www.fr.ch/de/vwbd/stata)
@@ -284,7 +284,7 @@ Portals and data sources that provide access to Swiss Open Government Data.
 - [Federal Popular Votes API](https://opendata.swiss/en/dataset/echtzeitdaten-am-abstimmungstag-zu-eidgenoessischen-abstimmungsvorlagen) - Historical and continuously updated election-day JSON at municipal, district, cantonal, and federal levels.
 - [SIMAP API](https://www.simap.ch/api-doc) - Public procurement publication data in JSON; the API terms permit commercial reuse.
 - [Swiss Energy Dashboard API](https://energiedashboard.ch/api/swagger-ui/index.html) - Read-only REST API for energy time series, statistics, and metadata.
-- [SFOE APIs](https://www.bfe.admin.ch/bfe/en/home/supply/digitalization-and-geoinformation/programming-interfaces.html) - Official overview of GeoAdmin, shared-mobility, STAC, charging-infrastructure, and OGD metadata interfaces.
+- [SFOE APIs](https://www.bfe.admin.ch/de/api) - Official overview of GeoAdmin, shared-mobility, STAC, charging-infrastructure, and OGD metadata interfaces.
 - [Switzerland Tourism Open Data API](https://developer.myswitzerland.io/) - Mostly CC BY-SA 4.0 data with commercial reuse; requires a free API key and excludes linked images from the dataset licenses.
 - [Overpass API (with Overpass QL)](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) - Overpass API for worldwide OpenStreetMap geospatial vector data with Overpass QL. Query example: "Italian restaurants in Switzerland" using instance [overpass-turbo.osm.ch](https://osm.li/Oqg).
 - [Overpass API (with PostPASS SQL)](https://wiki.openstreetmap.org/wiki/Postpass) - Overpass API for worldwide OpenStreetMap geospatial vector data with PostGIS SQL. Query example: "Italian restaurants in Switzerland" using instance [overpass-turbo.eu](https://overpass-turbo.eu/s/2qpD).
