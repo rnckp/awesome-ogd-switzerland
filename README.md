@@ -289,7 +289,7 @@ Non-government open geodata with Swiss coverage. OSM-derived and other global pr
 
 ## APIs and linked data
 
-API links stay beside their source entries. This section highlights selected interfaces for common workflows; it is not a complete inventory of every API in the directory. Catalog APIs return metadata, while data APIs return records or observations.
+API links appear beside their source entries. This section highlights selected interfaces for common workflows; it is not a complete inventory of every API in the directory. Catalog APIs return metadata, while data APIs return records or observations.
 
 ### Selected interfaces
 
@@ -413,23 +413,25 @@ Core European catalogs and official statistics from Switzerland’s neighboring 
 
 ### Contribute
 
-Contributions are welcome through [issues](https://github.com/rnckp/awesome-ogd-switzerland/issues) and [pull requests](https://github.com/rnckp/awesome-ogd-switzerland/pulls). If you find interesting new data or sources, just let me know one way or the other. Make your suggestion and well figure out together if this is a fit. My own criteria:
+Found a useful resource, a broken link or something that could be clearer? Suggestions, corrections and ideas are all welcome through [issues](https://github.com/rnckp/awesome-ogd-switzerland/issues) and [pull requests](https://github.com/rnckp/awesome-ogd-switzerland/pulls). A link and a few words are enough to get started. I look at every suggestion, and we can work out together whether and where it fits.
 
-- Relevant resource to Switzerland or to the core European comparison sources.
-- Publisher, geographic or thematic coverage, and primary access URL should be available
-- For data, link to machine-readable files or an access interface and documented open reuse terms; for software, link to source code and its open-source license.
-- Describe each resource as `Resource name — contents and coverage.` Keep descriptions to one or two sentences.
-- Keep API links beside the source.
-- Prefer one canonical entry and concise cross-references over repeated descriptions.
-- No promotional claims and undated counts.
-- Free-to-view data services without reusable data, non-commercial-only datasets and proprietary applications without qualifying open data or source code are out of scope.
+When reviewing a resource, I look for:
 
-Report suspected broken links separately from access blocks or temporary connection failures.
+- Relevance to Swiss open data or the core European comparison sources.
+- An identifiable publisher, clear geographic or thematic coverage and a direct link to the resource.
+- For data, machine-readable files or an access interface, with documented terms allowing open reuse. For software, source code with an open-source license.
+- For guides, communities and other supporting resources, freely accessible material that helps people use or understand open data.
+
+The [curation policy](#curation-policy) below explains these criteria in more detail. You don't need to have every detail checked before making a suggestion. If you're unsure about the fit or reuse terms, share what you've found and we can take a look together.
+
+If you'd like to edit the list directly, aim for `Resource name — contents and coverage.` in one or two sentences, with API links beside the source. Prefer one main entry with cross-references where useful, and avoid promotional claims or counts without a date. Don't worry about getting the wording, placement or formatting perfect—I’m happy to help adjust contributions so they fit.
+
+For links that aren't working, a note about what happened is helpful, whether it's a missing page, an access block or a connection error.
 
 ### Curation policy
 
-Data must permit free use, modification and redistribution, including commercial reuse, following the [Open Definition](https://opendefinition.org/). Software must provide source code under an [OSI-approved license](https://opensource.org/licenses). Free, non-discriminatory registration is acceptable; payment, case-by-case permission, non-commercial-only terms and unclear reuse rights do not qualify a dataset or tool for inclusion.
+Data must permit free use, modification and redistribution, including commercial reuse, following the [Open Definition](https://opendefinition.org/). Software must provide source code under an [OSI-approved license](https://opensource.org/licenses). Free, non-discriminatory registration is acceptable. Payment, case-by-case permission, non-commercial-only terms and unclear reuse rights do not qualify a dataset or tool for inclusion.
 
 Evaluate publishers by identifiable provenance, relevance and documented reuse rights. Public authorities, research institutions, communities, individuals, non-profits and companies can all publish qualifying resources. Government publication alone does not establish openness.
 
-Discovery catalogs and repositories may include restricted records if the entry clearly explains this limitation and helps users find reusable material. Their inclusion does not endorse every record. Guides, standards, communities and journalism resources must offer freely accessible material relevant to using or understanding open data; linked articles and cultural objects may carry separate rights.
+Discovery catalogs and repositories may include restricted records if the entry clearly explains this limitation and helps users find reusable material. Their inclusion does not endorse every record. Guides, standards, communities and journalism resources must offer freely accessible material relevant to using or understanding open data. Linked articles and cultural objects may carry separate rights.
