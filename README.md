@@ -411,6 +411,21 @@ Core European catalogs and official statistics from Switzerland’s neighboring 
 
 ## Curation and contributions
 
+### Contribute
+
+Contributions are welcome through [issues](https://github.com/rnckp/awesome-ogd-switzerland/issues) and [pull requests](https://github.com/rnckp/awesome-ogd-switzerland/pulls). If you find interesting new data or sources, just let me know one way or the other. Make your suggestion and well figure out together if this is a fit. My own criteria:
+
+- Relevant resource to Switzerland or to the core European comparison sources.
+- Publisher, geographic or thematic coverage, and primary access URL should be available
+- For data, link to machine-readable files or an access interface and documented open reuse terms; for software, link to source code and its open-source license.
+- Describe each resource as `Resource name — contents and coverage.` Keep descriptions to one or two sentences.
+- Keep API links beside the source.
+- Prefer one canonical entry and concise cross-references over repeated descriptions.
+- No promotional claims and undated counts.
+- Free-to-view data services without reusable data, non-commercial-only datasets and proprietary applications without qualifying open data or source code are out of scope.
+
+Report suspected broken links separately from access blocks or temporary connection failures.
+
 ### Curation policy
 
 Data must permit free use, modification and redistribution, including commercial reuse, following the [Open Definition](https://opendefinition.org/). Software must provide source code under an [OSI-approved license](https://opensource.org/licenses). Free, non-discriminatory registration is acceptable; payment, case-by-case permission, non-commercial-only terms and unclear reuse rights do not qualify a dataset or tool for inclusion.
@@ -418,17 +433,3 @@ Data must permit free use, modification and redistribution, including commercial
 Evaluate publishers by identifiable provenance, relevance and documented reuse rights. Public authorities, research institutions, communities, individuals, non-profits and companies can all publish qualifying resources. Government publication alone does not establish openness.
 
 Discovery catalogs and repositories may include restricted records if the entry clearly explains this limitation and helps users find reusable material. Their inclusion does not endorse every record. Guides, standards, communities and journalism resources must offer freely accessible material relevant to using or understanding open data; linked articles and cultural objects may carry separate rights.
-
-### Contribute
-
-Contributions are welcome through [issues](https://github.com/rnckp/awesome-ogd-switzerland/issues) and [pull requests](https://github.com/rnckp/awesome-ogd-switzerland/pulls). Please:
-
-- Explain the resource’s relevance to Switzerland or to the core European comparison sources.
-- Identify the publisher, geographic or thematic coverage, and primary access URL.
-- For data, link to machine-readable files or an access interface and documented open reuse terms; for software, link to source code and its open-source license.
-- Identify mixed-access catalogs, registration requirements and item-level rights where applicable.
-- Describe each resource as `Resource name — contents and coverage.` Keep descriptions to one or two sentences; omit routine access wording already implied by the link. Add compact, descriptive secondary links for APIs, downloads or source code when useful, and retain meaningful details such as registration, formats and reuse restrictions.
-- Keep API links beside the source. Add an entry to selected interfaces only when it offers a useful additional navigation route.
-- Prefer one canonical entry and concise cross-references over repeated descriptions. Avoid promotional claims and undated counts.
-
-Free-to-view data services without reusable data, non-commercial-only datasets and proprietary applications without qualifying open data or source code are out of scope. Report suspected broken links separately from access blocks or temporary connection failures.
