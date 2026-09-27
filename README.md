@@ -28,11 +28,7 @@ OGD is data published by public authorities. General open data can come from any
 
 ## Start here
 
-For a broad dataset search, begin with [opendata.swiss](https://opendata.swiss/de). For official statistics, use the [BFS data overview](https://data.bfs.admin.ch/). For maps and spatial data, see [Geospatial data](#geospatial-data). For programmatic access, follow API links beside each source or use the [selected interfaces](#selected-interfaces).
-
-The primary link names the resource’s landing page unless the description identifies a direct download, API reference or repository. **Catalog** means a discovery index, **viewer/dashboard** means browser-based exploration, **download** means data files, and **API** means programmatic access. A catalog or viewer does not by itself guarantee open access to its underlying data.
-
-Coverage is selective. A missing canton, municipality or topic does not imply that no open data exists. Check each dataset’s license, formats and access requirements before reuse.
+For a broad dataset search, begin with [opendata.swiss](https://opendata.swiss/de). For official statistics, use the [BFS data overview](https://data.bfs.admin.ch/). For maps and spatial data, see [Geospatial data](#geospatial-data). For programmatic access, follow API links beside each source or use the [selected interfaces](#selected-interfaces). Check each dataset’s license, formats and access requirements before reuse.
 
 ## Data sources
 
