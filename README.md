@@ -6,9 +6,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland)
 [![Last commit](https://img.shields.io/github/last-commit/rnckp/awesome-ogd-switzerland)](https://github.com/rnckp/awesome-ogd-switzerland/commits/main/)
 
-A curated directory of Swiss Open Government Data (OGD), complemented by Swiss research, community and privately published open data, tools and learning resources. A small selection of European sources supports comparisons with Switzerland.
+A curated directory of Swiss Open Government Data (OGD), research, community and privately published open data, tools and learning resources. Selected European sources support comparisons with Switzerland.
 
-OGD is data published by public authorities. General open data can come from any publisher: inclusion depends on relevance, provenance and reuse rights, not the publisher’s legal form. Non-government sources are identified in their descriptions or grouped under research and community headings.
+OGD comes from public authorities; open data can come from any publisher. Inclusion depends on relevance, provenance and reuse rights. Non-government sources are identified in descriptions or grouped under research and community headings.
 
 Know a useful resource? [Share a link](https://github.com/rnckp/awesome-ogd-switzerland/issues/new)—suggestions and corrections are always welcome.
 
@@ -42,7 +42,7 @@ Check each dataset’s license, formats and access requirements before reuse. Th
 
 ## Data sources
 
-Federal and regional OGD alongside complementary Swiss open data. “National” groups catalogs and thematic sources relevant to Switzerland; it does not imply that every publisher is a federal authority or every dataset covers the whole country.
+Federal and regional OGD alongside other Swiss open data. “National” groups catalogs and thematic sources relevant to Switzerland, without implying federal publishers or nationwide coverage.
 
 ### National catalogs and thematic sources
 
@@ -160,7 +160,7 @@ Federal and regional OGD alongside complementary Swiss open data. “National”
 
 #### Research repositories
 
-Research data from Swiss institutions and collaborations. These are complementary to OGD; repository records can have different licenses or access restrictions.
+Research data from Swiss institutions and collaborations complements OGD. Licenses and access restrictions vary by record.
 
 - [FORS SWISSUbase](https://www.swissubase.ch/de/) — Cross-disciplinary repository for Swiss research. Access conditions and licenses vary by record.
 - [Schweizerischer Nationalfonds SNF](https://data.snf.ch/datasets) — Swiss National Science Foundation research-funding data. [Data-story repositories](https://github.com/snsf-data).
@@ -170,7 +170,7 @@ Research data from Swiss institutions and collaborations. These are complementar
 
 #### Cultural heritage and archives
 
-Discovery resources for cultural and historical material. Open catalog metadata and reusable digitized content are different things: images, recordings and documents may have separate rights, and some collections include restricted records. Use item-level rights statements and access information; inclusion is not a blanket open license for the collection.
+Discovery resources for cultural and historical material. Open metadata does not establish reuse rights for images, recordings or documents. Collections may include restricted records; check each item’s rights and access information.
 
 - [e-rara](https://www.e-rara.ch/) — Digitized Swiss printed works. Check the rights statement for each digitized work. [OAI-PMH, IIIF, full-text and download interfaces](https://www.e-rara.ch/wiki/apiinfo).
 - [Memoriav Memobase](https://memobase.ch/de/start) — Swiss audiovisual heritage discovery portal. Recording and image rights vary by item.
@@ -182,7 +182,7 @@ Discovery resources for cultural and historical material. Open catalog metadata 
 
 ### Cantonal portals
 
-Selected cantonal catalogs and statistics portals. General data portals and statistical-office sites may provide different coverage; geodata portals are listed separately below.
+Selected cantonal catalogs and statistics portals; coverage varies by portal type. Geodata portals are listed separately below.
 
 - [Aargau](https://www.ag.ch/de/themen/datenportal#/) — Cantonal open-data catalog.
 - [Basel-Stadt](https://data.bs.ch/explore/) — Cantonal open-data catalog.
@@ -299,7 +299,7 @@ Non-government open geodata with Swiss coverage. OSM-derived and other global pr
 
 ## APIs and linked data
 
-API links appear beside their source entries. This section highlights selected interfaces for common workflows; it is not a complete inventory of every API in the directory. Catalog APIs return metadata, while data APIs return records or observations.
+API links appear beside source entries; selected interfaces for common workflows are highlighted here. Catalog APIs return metadata; data APIs return records or observations.
 
 ### Selected interfaces
 
@@ -318,7 +318,7 @@ API links appear beside their source entries. This section highlights selected i
 
 ### Linked data services
 
-Services for accessing structured, linked datasets. Follow the service documentation for query endpoints, supported datasets and examples.
+Access structured, linked datasets; see service documentation for query endpoints, supported datasets and examples.
 
 - [LINDAS ecosystem overview](https://lindas.admin.ch/ecosystem/) — Swiss Federal Archives service for publishing and querying linked datasets. [Service documentation](https://lindas.admin.ch).
 - [Fedlex](https://fedlex.data.admin.ch/en-CH/home/intro) — Linked-data access to federal legislation and official legal publications. [Reading portal](https://www.fedlex.admin.ch/de/home).
@@ -336,7 +336,7 @@ Services for accessing structured, linked datasets. Follow the service documenta
 
 ### Source-code directories
 
-Indexes of software and repositories. Check the license of each project; a directory listing alone does not establish an open-source license.
+Software and repository indexes. Check each project’s license; listing does not establish open-source status.
 
 - [Federal Open Source GitHub Index](https://github.com/swiss/index) — Directory of Swiss Confederation GitHub organizations.
 - [Swiss federal OSS catalog](https://www.opensource.admin.ch/) — Software published by federal and cantonal authorities. Includes repository and license information.
@@ -390,7 +390,7 @@ Links lead to subscription pages.
 
 ### Data journalism
 
-Reusable code and data accompanying Swiss journalism. Access to linked articles and rights to article text or images are separate from repository and dataset licenses.
+Reusable code and data from Swiss journalism. Linked articles have separate access conditions and rights for text and images.
 
 - [Neue Zürcher Zeitung Visuals Team](https://github.com/nzzdev/st-methods) — Methods and code accompanying NZZ Visuals journalism.
 - [SRF Data](https://srfdata.github.io/) — Code and data accompanying SRF data journalism. [Published stories](https://www.srf.ch/news/srf-data).
@@ -398,7 +398,7 @@ Reusable code and data accompanying Swiss journalism. Access to linked articles 
 
 ## European comparisons
 
-Core European catalogs and official statistics from Switzerland’s neighboring countries. Use these for cross-border discovery and comparisons; check definitions, periods, territorial units and Swiss coverage before combining data.
+European catalogs and neighboring countries’ official statistics for cross-border discovery and comparisons. Check definitions, periods, territorial units and Swiss coverage before combining data.
 
 ### European catalogs and statistics
 
@@ -423,7 +423,7 @@ Core European catalogs and official statistics from Switzerland’s neighboring 
 
 ### Contribute
 
-Found a useful resource, a broken link or something that could be clearer? Suggestions, corrections and ideas are all welcome through [issues](https://github.com/rnckp/awesome-ogd-switzerland/issues) and [pull requests](https://github.com/rnckp/awesome-ogd-switzerland/pulls). A link and a few words are enough to get started. I look at every suggestion, and we can work out together whether and where it fits.
+Found a useful resource, a broken link or something unclear? [Issues](https://github.com/rnckp/awesome-ogd-switzerland/issues) and [pull requests](https://github.com/rnckp/awesome-ogd-switzerland/pulls) are welcome—a link and a few words are enough. I review every suggestion, and we can work out where it fits together.
 
 When reviewing a resource, I look for:
 
@@ -432,21 +432,21 @@ When reviewing a resource, I look for:
 - For data, machine-readable files or an access interface, with documented terms allowing open reuse. For software, source code with an open-source license.
 - For guides, communities and other supporting resources, freely accessible material that helps people use or understand open data.
 
-The [curation policy](#curation-policy) below explains these criteria in more detail. You don't need to have every detail checked before making a suggestion. If you're unsure about the fit or reuse terms, share what you've found and we can take a look together.
+See the [curation policy](#curation-policy) for details. No need to check everything before suggesting a resource—if you’re unsure about fit or reuse terms, we can look together.
 
-If you'd like to edit the list directly, aim for `Resource name — contents and coverage.` in one or two sentences, with API links beside the source. Prefer one main entry with cross-references where useful, and avoid promotional claims or counts without a date. Don't worry about getting the wording, placement or formatting perfect—I’m happy to help adjust contributions so they fit.
+To edit directly, use `Resource name — contents and coverage.` in one or two sentences, with API links beside the source. Prefer one main entry with cross-references; avoid promotional claims and undated counts. I’m happy to help with wording, placement and formatting.
 
-For links that aren't working, a note about what happened is helpful, whether it's a missing page, an access block or a connection error.
+For broken links, please mention what happened: a missing page, an access block or a connection error.
 
-For maintenance scripts, development commands and the available agent skill, see the [helper documentation](src/README.md).
+For maintenance scripts, development commands and the agent skill, see the [helper documentation](src/README.md).
 
 ### Curation policy
 
 Data must permit free use, modification and redistribution, including commercial reuse, following the [Open Definition](https://opendefinition.org/). Software must provide source code under an [OSI-approved license](https://opensource.org/licenses). Free, non-discriminatory registration is acceptable. Payment, case-by-case permission, non-commercial-only terms and unclear reuse rights do not qualify a dataset or tool for inclusion.
 
-Evaluate publishers by identifiable provenance, relevance and documented reuse rights. Public authorities, research institutions, communities, individuals, non-profits and companies can all publish qualifying resources. Government publication alone does not establish openness.
+Resources from public authorities, researchers, communities, individuals, non-profits and companies qualify on the same criteria: identifiable provenance, relevance and documented reuse rights. Government publication alone does not establish openness.
 
-Discovery catalogs and repositories may include restricted records if the entry clearly explains this limitation and helps users find reusable material. Their inclusion does not endorse every record. Guides, standards, communities and journalism resources must offer freely accessible material relevant to using or understanding open data. Linked articles and cultural objects may carry separate rights.
+Catalogs and repositories may include restricted records if the entry explains this and helps users find reusable material; inclusion does not endorse every record. Guides, standards, communities and journalism must offer freely accessible material that helps people use or understand open data. Linked articles and cultural objects may carry separate rights.
 
 ## Licence
 
