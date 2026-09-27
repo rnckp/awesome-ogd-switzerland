@@ -4,10 +4,15 @@
 [![GitHub Issues](https://img.shields.io/github/issues/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland/pulls)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Suggestions welcome](https://img.shields.io/badge/suggestions-welcome-brightgreen)](https://github.com/rnckp/awesome-ogd-switzerland/issues/new)
+[![License: CC0](https://img.shields.io/badge/license-CC0-blue)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/rnckp/awesome-ogd-switzerland)](https://github.com/rnckp/awesome-ogd-switzerland/commits/main/)
 
 A curated directory of Swiss Open Government Data (OGD), complemented by Swiss research, community and privately published open data, tools and learning resources. A small selection of European sources supports comparisons with Switzerland.
 
 OGD is data published by public authorities. General open data can come from any publisher: inclusion depends on relevance, provenance and reuse rights, not the publisher’s legal form. Non-government sources are identified in their descriptions or grouped under research and community headings.
+
+Know a useful resource? [Share a link](https://github.com/rnckp/awesome-ogd-switzerland/issues/new)—suggestions and corrections are always welcome.
 
 <details>
 <summary><strong>Table of Contents</strong></summary>
@@ -28,7 +33,14 @@ OGD is data published by public authorities. General open data can come from any
 
 ## Start here
 
-For a broad dataset search, begin with [opendata.swiss](https://opendata.swiss/de). For official statistics, use the [BFS data overview](https://data.bfs.admin.ch/). For maps and spatial data, see [Geospatial data](#geospatial-data). For programmatic access, follow API links beside each source or use the [selected interfaces](#selected-interfaces). Check each dataset’s license, formats and access requirements before reuse.
+- **Find datasets:** Search [opendata.swiss](https://opendata.swiss/de).
+- **Explore statistics:** Start with the [BFS data overview](https://data.bfs.admin.ch/).
+- **Find maps and geodata:** Browse [Geospatial data](#geospatial-data).
+- **Access APIs:** Follow API links beside each source or browse the [selected interfaces](#selected-interfaces).
+
+Check each dataset’s license, formats and access requirements before reuse. The directory itself is published under [CC0](LICENSE); linked resources have their own terms.
+
+**Browse by topic:** [Politics and votes](#politics-elections-and-votes) · [Legal data](#legal-data) · [Economy and employment](#finance-economy-and-employment) · [Health](#health-and-social-insurance) · [Population](#population-migration-and-religion) · [Agriculture](#agriculture-and-food) · [Energy](#energy) · [Housing and land](#buildings-housing-and-land) · [Environment and climate](#environment-climate-and-biodiversity) · [Tourism](#tourism) · [Transport](#transport) · [Research](#research-repositories) · [Culture and archives](#cultural-heritage-and-archives) · [Procurement and official notices](#administrative-data-procurement-and-official-notices).
 
 ## Data sources
 
