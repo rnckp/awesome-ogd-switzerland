@@ -65,8 +65,8 @@ Use the existing project environment; prefer `.venv/bin/python` when it is avail
 From the repository root, the established commands are:
 
 ```sh
-.venv/bin/python link-checker.py
-.venv/bin/python count_sources.py
+make check-links
+make count-sources
 git diff --check
 ```
 
@@ -76,7 +76,7 @@ The counter counts resource bullets, not unique datasets or publishers. Secondar
 
 After editing, verify added/changed destinations and material claims, duplicate primary entries, internal anchors, misplaced entries and the diff. Refresh counts. Recheck affected URLs; rerun the full link sweep only if the changes warrant it. Reports must accurately state whether they cover the final README or an earlier snapshot. Never present untested destinations as reachable.
 
-`count_sources.md` and `link-check-report.md` are currently ignored generated files. Respect the checkout's ignore rules; do not force-add them. Change helpers only when a demonstrated defect affects this maintenance task. If helper code changes, run its existing regression suite (`.venv/bin/python -m unittest discover -s tests -v`) and meaningful checks for the defect. README-only edits do not require new tests.
+See `src/README.md` for setup and script options. `count_sources.md` and `link-check-report.md` are currently ignored generated files. Respect the checkout's ignore rules; do not force-add them. Change helpers only when a demonstrated defect affects this maintenance task. If helper code changes, run `make check` and meaningful checks for the defect. README-only edits do not require new tests.
 
 ## Record the run and hand back
 

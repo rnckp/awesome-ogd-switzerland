@@ -440,6 +440,8 @@ If you'd like to edit the list directly, aim for `Resource name — contents and
 
 For links that aren't working, a note about what happened is helpful, whether it's a missing page, an access block or a connection error.
 
+For maintenance scripts, development commands and the available agent skill, see the [helper documentation](src/README.md).
+
 ### Curation policy
 
 Data must permit free use, modification and redistribution, including commercial reuse, following the [Open Definition](https://opendefinition.org/). Software must provide source code under an [OSI-approved license](https://opensource.org/licenses). Free, non-discriminatory registration is acceptable. Payment, case-by-case permission, non-commercial-only terms and unclear reuse rights do not qualify a dataset or tool for inclusion.

@@ -1,5 +1,6 @@
 """Count resource bullets by Markdown heading, without a fixed section list."""
 
+import argparse
 import re
 from collections import Counter
 from pathlib import Path
@@ -7,7 +8,6 @@ from pathlib import Path
 from rich.console import Console
 from rich.markdown import Markdown
 
-README_PATH = Path("README.md")
 console = Console()
 
 
@@ -56,29 +56,39 @@ parse_all_data_sources = parse_resource_entries
 def generate_report(readme_text):
     sections, details = parse_resource_entries(readme_text)
     lines = [
-        "# Resource Entry Count Report", "",
-        f"**Total resource entries:** {sum(sections.values())}", "",
+        "# Resource Entry Count Report",
+        "",
+        f"**Total resource entries:** {sum(sections.values())}",
+        "",
         "Counts include data sources, interfaces, tools and related resources. "
         "Each resource bullet counts once, regardless of secondary links. "
         "Cross-references in separate sections count as separate entries; "
-        "these are not counts of unique datasets or publishers.", "",
+        "these are not counts of unique datasets or publishers.",
+        "",
     ]
     for title, counts, label in [
         ("Summary by Main Section", sections, "Section"),
         ("Detailed Breakdown", details, "Category Path"),
     ]:
         lines += [f"## {title}", "", f"| {label} | Count |", "| --- | ---: |"]
-        lines += [f"| {name.replace('|', r'\|')} | {count} |" for name, count in counts.items()]
+        lines += [
+            f"| {name.replace('|', r'\|')} | {count} |"
+            for name, count in counts.items()
+        ]
         lines.append("")
     return "\n".join(lines)
 
 
-def main():
-    if not README_PATH.exists():
-        console.print(f"File not found: {README_PATH}")
+def main(argv=None):
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("readme", type=Path, nargs="?", default=Path("README.md"))
+    parser.add_argument("-o", "--output", type=Path, default=Path("count_sources.md"))
+    args = parser.parse_args(argv)
+    if not args.readme.is_file():
+        console.print(f"File not found: {args.readme}")
         return 1
-    report = generate_report(README_PATH.read_text(encoding="utf-8"))
-    Path("count_sources.md").write_text(report, encoding="utf-8")
+    report = generate_report(args.readme.read_text(encoding="utf-8"))
+    args.output.write_text(report, encoding="utf-8")
     console.print(Markdown(report))
     return 0
 
