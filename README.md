@@ -17,7 +17,13 @@ Know a useful resource? [Share a link](https://github.com/rnckp/awesome-ogd-swit
 
 <ul>
   <li><a href="#start-here">Start here</a></li>
-  <li><a href="#data-sources">Data sources</a>: <a href="#national-catalogs-and-thematic-sources">National catalogs and thematic sources</a>, <a href="#cantonal-portals">Cantonal portals</a>, <a href="#municipal-portals">Municipal portals</a></li>
+  <li><a href="#data-sources">Data sources</a>
+    <ul>
+      <li><a href="#national-catalogs-and-thematic-sources">National catalogs and thematic sources</a></li>
+      <li><a href="#cantonal-portals">Cantonal portals</a></li>
+      <li><a href="#municipal-portals">Municipal portals</a></li>
+    </ul>
+  </li>
   <li><a href="#geospatial-data">Geospatial data</a></li>
   <li><a href="#apis-and-linked-data">APIs and linked data</a></li>
   <li><a href="#tools-and-libraries">Tools and libraries</a></li>
