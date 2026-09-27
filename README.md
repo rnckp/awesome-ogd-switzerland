@@ -447,3 +447,7 @@ Data must permit free use, modification and redistribution, including commercial
 Evaluate publishers by identifiable provenance, relevance and documented reuse rights. Public authorities, research institutions, communities, individuals, non-profits and companies can all publish qualifying resources. Government publication alone does not establish openness.
 
 Discovery catalogs and repositories may include restricted records if the entry clearly explains this limitation and helps users find reusable material. Their inclusion does not endorse every record. Guides, standards, communities and journalism resources must offer freely accessible material relevant to using or understanding open data. Linked articles and cultural objects may carry separate rights.
+
+## Licence
+
+This list is released under [CC0 1.0](LICENSE). Linked resources retain their own licences and terms.
