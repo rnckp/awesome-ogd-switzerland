@@ -1,9 +1,9 @@
 # Awesome Open Government Data Switzerland
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland)
 [![GitHub Issues](https://img.shields.io/github/issues/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/rnckp/awesome-ogd-switzerland.svg)](https://github.com/rnckp/awesome-ogd-switzerland/pulls)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Suggestions welcome](https://img.shields.io/badge/suggestions-welcome-brightgreen)](https://github.com/rnckp/awesome-ogd-switzerland/issues/new)
 [![License: CC0](https://img.shields.io/badge/license-CC0-blue)](LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/rnckp/awesome-ogd-switzerland)](https://github.com/rnckp/awesome-ogd-switzerland/commits/main/)
