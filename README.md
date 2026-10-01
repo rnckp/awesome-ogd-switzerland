@@ -106,6 +106,7 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 - [Swissmedic Open Government Data](https://www.swissmedic.ch/swissmedic/en/home/services/listen_neu.html) — Machine-readable Swissmedic lists of authorized medicines and registered medical-device operators.
 - [Bundesamt für Sozialversicherungen BSV](https://www.bsv.admin.ch/de/statistik) — Federal Social Security Office statistics on social insurance.
 - [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm) — Swiss accident-insurance statistics.
+- [Swiss household employment figures 2026](https://github.com/salvador-creator/clino-mcp#open-data) — Contribution rates, thresholds, minimum wages, family allowances and canton rules for employing household help in all 26 cantons, each figure with its official source, a verbatim quote and the check date. Compiled by Clino, a private company; CSV and JSON under CC BY 4.0, also [downloadable from clino.ch](https://clino.ch/opendata/official-figures.csv).
 - [Sucht Schweiz](https://www.suchtschweiz.ch/zahlen-und-fakten/) — Addiction statistics from the non-profit Addiction Switzerland. Verify reuse terms for the selected material.
 
 #### Population, migration and religion
