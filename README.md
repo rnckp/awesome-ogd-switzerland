@@ -410,6 +410,7 @@ European catalogs and neighboring countries’ official statistics for cross-bor
 
 - [European Union](https://data.europa.eu/en) — European data catalog for cross-border source discovery. Licenses and access conditions vary by record.
 - [Eurostat](https://ec.europa.eu/eurostat/web/main/data) — European statistical data for comparisons involving Switzerland. Check Swiss coverage for each series. [Database](https://ec.europa.eu/eurostat/web/main/data/database) · [GISCO geodata](https://ec.europa.eu/eurostat/web/gisco/overview).
+- [Invokely: Switzerland GDP](https://invokely.ai/en/gdp-usd/switzerland) - Hosted MCP access to the World Bank's annual GDP (current US$) series for Switzerland, with source citation and historical values; the linked series is CC BY 4.0. The no-account MCP trial allows 25 calls/day/IP, the Free account includes 500 MCP calls/month, and REST data queries require Builder, Pro or prepaid credits. [World Bank series](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=CH) · [Pricing](https://invokely.ai/pricing).
 - [List of European Statistical Offices](https://www.destatis.de/EN/Service/Address-Book/europe.html) — Destatis directory of European statistical offices.
 - [IATE](https://iate.europa.eu/home) — EU multilingual terminology database for interpreting European administrative concepts.
 
