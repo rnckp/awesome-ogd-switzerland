@@ -95,6 +95,7 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 - [Eidgenössische Steuerverwaltung](https://www.estv.admin.ch/estv/de/home/die-estv/steuerstatistiken-estv.html) — Federal Tax Administration tax statistics.
 - [KOF Data Service](https://data.kof.ethz.ch/) — ETH Zürich KOF economic time series and metadata. API guide for CSV, XLSX and JSON downloads; includes restricted series, so select public indicators and verify reuse terms.
 - [Historical Statistics of Switzerland](https://hsso.ch/en) — Historical Swiss statistics compiled by a research project.
+- [dataseries.org](https://dataseries.org/) — Swiss economic time series from the SNB, SECO, KOF, FSO and others in one catalog, with CSV and JSON downloads. [API documentation](https://dataseries.org/libraries).
 
 #### Health and social insurance
 
@@ -337,6 +338,7 @@ Access structured, linked datasets; see service documentation for query endpoint
 
 - [Visualize](https://visualize.admin.ch) — Web tool for creating and embedding charts from compatible LINDAS datasets. [BSD-3-Clause source code](https://github.com/visualize-admin/visualization-tool).
 - [BFS](https://github.com/lgnbhl/BFS) — Community R client for Federal Statistical Office APIs.
+- [dataseries](https://github.com/cynkra/dataseries) — R and Python clients for dataseries.org.
 - [I14Y](https://github.com/lgnbhl/I14Y) — Community R client for the Swiss interoperability metadata catalog.
 - [swissparlpy](https://github.com/metaodi/swissparlpy) — Community Python client for Swiss Parliament web services.
 
