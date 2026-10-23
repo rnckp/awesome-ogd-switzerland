@@ -1,0 +1,35 @@
+name: Python checks
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**/*.py'
+      - 'tests/**/*.py'
+      - 'pyproject.toml'
+      - 'uv.lock'
+      - '.python-version'
+      - 'Makefile'
+      - '.github/workflows/check.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'src/**/*.py'
+      - 'tests/**/*.py'
+      - 'pyproject.toml'
+      - 'uv.lock'
+      - '.python-version'
+      - 'Makefile'
+      - '.github/workflows/check.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v9
+      - run: uv python install
+      - run: make check
