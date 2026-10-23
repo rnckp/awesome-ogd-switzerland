@@ -49,6 +49,7 @@ A HTTP 200 response may be a parked page, login screen, soft 404 or unrelated re
 
 Follow the current headings rather than imposing a fresh taxonomy every run. The established structure separates data sources, geospatial data, selected APIs/linked data, tools, guides/policy, community/publications and European comparisons.
 
+- List the primary publisher's resource first, using its own data portal, dataset page or official interface. Treat opendata.swiss as a secondary aggregator: include it only when no suitable primary source can be found or it adds substantial value, such as consolidated discovery or otherwise missing download, API or reuse information. Verify publisher destinations before replacing links; record the reason for retaining an aggregator in the run report. Apply this preference to existing entries as well as additions.
 - Put national thematic resources under their subject, and broad regional portals under cantonal or municipal portals. “National” does not mean every publisher is federal or every dataset has nationwide coverage.
 - Put procurement and official notices under administrative data; elections and popular votes under politics; collections under cultural heritage; events under community. Do not recreate miscellaneous or federal-office catch-all sections.
 - Keep API links beside their source. The selected interfaces section is an intentional shortlist, not an exhaustive duplicate API inventory. Linked-data descriptions should explain the interface rather than repeat the source's full description.

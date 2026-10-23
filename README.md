@@ -100,14 +100,13 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 #### Health and social insurance
 
 - [Bundesamt für Gesundheit BAG](https://www.bag.admin.ch/de/zahlen-statistiken) — Federal Office of Public Health statistics directory. Use the topic pages to find reports, tables and related dashboards.
-- [Dashboard health insurance OKP](https://opendata.swiss/en/dataset/dashboard-krankenversicherung-okp) — BAG indicators on compulsory health insurance in Switzerland, with quarterly downloads.
-- [Key data on Swiss hospitals](https://opendata.swiss/de/dataset/kennzahlen-der-schweizer-spitaler-2024) — BAG hospital indicators for 2024 and a historical series starting in 2008, with downloadable spreadsheets and documentation.
+- [Dashboard health insurance OKP](https://kvd.bag.admin.ch/) — BAG indicators on compulsory health insurance in Switzerland.
+- [Key data on Swiss hospitals](https://www.bag.admin.ch/fr/chiffres-cles-des-hopitaux-suisses) — BAG hospital indicators covering structure, patients, services, staff and finances. [2024 spreadsheets and historical series](https://opendata.swiss/de/dataset/kennzahlen-der-schweizer-spitaler-2024).
 - [Versorgungsatlas](https://www.versorgungsatlas.ch/) — Health-care indicators from BAG and the [Swiss Health Observatory](https://www.obsan.admin.ch/en).
 - [Infectious Diseases Dashboard (IDD)](https://idd.bag.admin.ch/) — Federal Office of Public Health dashboard on reported infectious diseases in Switzerland and Liechtenstein.
 - [Swissmedic Open Government Data](https://www.swissmedic.ch/swissmedic/en/home/services/listen_neu.html) — Machine-readable Swissmedic lists of authorized medicines and registered medical-device operators.
 - [Bundesamt für Sozialversicherungen BSV](https://www.bsv.admin.ch/de/statistik) — Federal Social Security Office statistics on social insurance.
 - [Unfallversicherung UVG](https://www.unfallstatistik.ch/index.htm) — Swiss accident-insurance statistics.
-- [Sucht Schweiz](https://www.suchtschweiz.ch/zahlen-und-fakten/) — Addiction statistics from the non-profit Addiction Switzerland. Verify reuse terms for the selected material.
 
 #### Population, migration and religion
 
@@ -127,6 +126,7 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 - [Bundesamt für Energie BFE](https://www.bfe.admin.ch/de/energiestatistik) — Federal Office of Energy statistics and geodata. [API overview](https://www.bfe.admin.ch/de/api).
 - [Swiss Energy Dashboard](https://energiedashboard.admin.ch/bfe-url) — Federal Office of Energy electricity, gas, price and supply indicators. [Read-only REST API](https://energiedashboard.ch/api/swagger-ui/index.html).
 - [Swissgrid](https://www.swissgrid.ch/de/home/customers/topics/energy-data-ch.html) — Swiss transmission-grid operator energy data.
+- [ElCom electricity tariffs](https://www.elcom.admin.ch/en/tariff-data-and-visualisations) — Federal Electricity Commission electricity tariffs by provider and municipality across Switzerland, with raw data and SPARQL queries through LINDAS. [Tariff comparison](https://www.strompreis.elcom.admin.ch/).
 - [Open Energy Data CH](https://github.com/OpenEnergyData/energy-data-ch) — Community-maintained directory of open Swiss energy datasets.
 
 #### Buildings, housing and land
@@ -145,7 +145,7 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 #### Environment, climate and biodiversity
 
 - [Bundesamt für Umwelt BAFU](https://www.bafu.admin.ch/bafu/de/home/zustand.html) — Federal Office for the Environment indicators and environmental reporting.
-- [Bundesamt für Meteorologie und Klimatologie MeteoSchweiz](https://www.meteoswiss.admin.ch/services-and-publications/service/open-data.html) — Federal weather and climate observations and products.
+- [Bundesamt für Meteorologie und Klimatologie MeteoSchweiz](https://www.meteoswiss.admin.ch/services-and-publications/service/open-data.html) — Federal weather and climate observations and forecast products under CC BY 4.0. [Download documentation](https://opendatadocs.meteoswiss.ch/general/download).
 - [SLF data service](https://www.slf.ch/en/services-and-products/slf-data-service/) — WSL Institute for Snow and Avalanche Research observations used in avalanche warnings.
 - [«Hydrodaten» Bundesamt für Umwelt BAFU](https://www.hydrodaten.admin.ch/de/aktuelle-lage) — Federal Office for the Environment hydrological observations and forecasts. [LINDAS dataset metadata](https://environment.ld.admin.ch/.well-known/void/dataset/hydro).
 - [GLAMOS DOI products](https://doi.glamos.ch/) — Swiss glacier inventories and change measurements from the GLAMOS monitoring program. Versioned downloads with persistent identifiers and CC BY 4.0 licenses.
@@ -198,11 +198,11 @@ Selected cantonal catalogs and statistics portals; coverage varies by portal typ
 - [Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html) — Cantonal official statistics.
 - [Fribourg / Freiburg](https://opendata.fr.ch/pages/home/) — Cantonal open-data catalog.
 - [Fribourg / Freiburg Statistical Office](https://www.fr.ch/de/vwbd/stata) — Cantonal official statistics.
-- [Geneva](https://sitg.ge.ch/search?category=data) — Geneva geodata catalog (SITG). See also the [Cantonal statistics portal](https://statistique.ge.ch/).
+- [Geneva](https://statistique.ge.ch/) — Cantonal official statistics. See [SITG](#cantonal-and-municipal-geoportals) for geodata.
 - [Glarus](https://opendata.swiss/en/organization/kanton-glarus) — Cantonal and Landsgemeinde datasets. Tabular and geospatial resources on opendata.swiss.
 - [Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx) — Cantonal official statistics.
 - [Jura](https://stat.jura.ch/) — Cantonal official statistics.
-- [Luzern](https://www.lustat.ch) — Cantonal official statistics.
+- [Luzern](https://opendata.lu.ch/) — Cantonal open-data entry point linking to publishing departments and their datasets. [LUSTAT official statistics](https://www.lustat.ch).
 - [Neuchâtel](https://www.ne.ch/autorites/DFS/STAT/Pages/accueil.aspx) — Cantonal official statistics.
 - [Schaffhausen](https://sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Verwaltung/Volkswirtschaftsdepartement/Wirtschaft--Statistik-und-Tourismus-3874-DE.html) — Cantonal official statistics.
 - [Schwyz](https://data.sz.ch/explore/) — Cantonal open-data catalog.
@@ -213,7 +213,7 @@ Selected cantonal catalogs and statistics portals; coverage varies by portal typ
 - [Thurgau](https://data.tg.ch/explore) — Cantonal open-data catalog. [Thematic atlases](https://themenatlas-tg.ch/#c=home).
 - [Thurgau Statistical Office](https://statistik.tg.ch/) — Cantonal official statistics.
 - [Uri](https://www.statistik-uri.ch/daten) — Cantonal official statistics.
-- [Vaud](https://www.vd.ch/themes/etat-droit-finances/statistique) — Cantonal official statistics.
+- [Vaud](https://www.vd.ch/etat-droit-finances/statistique) — Cantonal official statistics.
 - [Valais](https://www.vs.ch/de/web/sstp/sstp) — Cantonal official statistics.
 - [Zug](https://zg.ch/de/gesundheitsdirektion/fachstelle-fuer-daten-und-statistik/open-government-data) — Open data shared by the canton and city of Zug.
 - [Zürich](https://www.zh.ch/de/politik-staat/opendata.zhweb-noredirect.zhweb-cache.html#/) — Cantonal open-data catalog.
@@ -225,8 +225,8 @@ Selected municipal catalogs and statistics portals. Check the linked canton for 
 
 - [Bern](https://www.bern.ch/open-government-data-ogd/ogd-nach-themen) — Municipal open-data resources.
 - [Biel/Bienne](https://opendata.swiss/en/organization/biel-bienne) — Municipal datasets from Biel/Bienne. Publisher catalog on opendata.swiss.
+- [Geneva](https://sitg.ge.ch/contributeurs/vdg) — City of Geneva geodata published through SITG, including public facilities, city districts and environmental data.
 - [Lausanne](https://www.lausanne.ch/officiel/statistique.html) — Municipal official statistics.
-- [Lugano](https://statistica.lugano.ch/site/dati-ogd/) — Municipal open-data resources.
 - [Luzern](https://www.lustat.ch/statistikportal-stadt-luzern) — Municipal official statistics.
 - [St. Gallen](https://www.stadt.sg.ch/home/verwaltung-politik/stadt-zahlen/statistikdatenbanken.html) — Municipal official statistics.
 - [Uster](https://www.uster.ch/opendata) — Municipal open-data resources.
@@ -268,7 +268,7 @@ Official map and catalog entry points. Consult each layer’s metadata for downl
 - [Canton of Bern](https://www.agi.dij.be.ch/de/start.html) — Official regional geodata.
 - [City of Bern](https://map.bern.ch/geoportal/) — Official regional geodata.
 - [Canton of Fribourg / Freiburg](https://map.geo.fr.ch/) — Official regional geodata.
-- [Canton of Geneva](https://map.sitg.ge.ch/app/) — Official regional geodata.
+- [Canton of Geneva — SITG](https://sitg.ge.ch/search?category=data) — Cantonal and partner geodata catalog with downloads and services. [Map viewer](https://map.sitg.ge.ch/app/).
 - [Canton of Glarus](https://www.gl.ch/verwaltung/bau-und-umwelt/hochbau/raumentwicklung-und-geoinformation/geoportal-kanton-glarus.html/808) — Official regional geodata.
 - [Canton of Graubünden](https://geo.gr.ch/) — Official regional geodata.
 - [Canton of Jura](https://www.jura.ch/fr/Autorites/Administration/DEC/SDT/GeoPortail/GeoPortail-du-Canton-du-Jura.html) — Official regional geodata.
@@ -359,7 +359,7 @@ Software and repository indexes. Check each project’s license; listing does no
 - [Geschäftsstelle OGD BFS](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/geschaeftsstelle.html) — Federal OGD coordination and support for publishers and users.
 - [Digitale Verwaltung Schweiz](https://www.digitale-verwaltung-schweiz.ch/) — Public-sector digital transformation programs and guidance from Digital Public Services Switzerland.
 - [National data management NaDB](https://www.bfs.admin.ch/bfs/en/home/nadb/nadb.html) — Federal program for reusing administrative data. Discover collections and interfaces through I14Y in the data-source catalog section.
-- [Swiss DCAT Standard](https://www.ech.ch/de/ech/ech-0200/1.0) — eCH-0200 metadata profile for Swiss data portals. Links to version 1.0; check the publisher for subsequent versions.
+- [Swiss DCAT Standard](https://www.ech.ch/de/ech/ech-0200/3.0.1) — eCH-0200 metadata profile for Swiss data portals (DCAT-AP CH), version 3.0.1.
 - [Forschungsstelle Digitale Nachhaltigkeit Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/) — University of Bern research on digital sustainability and open data.
 - [Open Data lectures Uni Bern](https://www.digitale-nachhaltigkeit.unibe.ch/studium/open_data_veranstaltung/index_ger.html) — University of Bern open-data teaching material.
 - [CKAN API documentation](https://docs.ckan.org/en/latest/api/) — Generic documentation for accessing CKAN catalogs, including opendata.swiss.
@@ -419,7 +419,7 @@ European catalogs and neighboring countries’ official statistics for cross-bor
 ### Neighboring countries
 
 - [Germany — GovData](https://www.govdata.de/) — German government open-data catalog.
-- [Germany — Destatis GENESIS](https://www-genesis.destatis.de/genesis/online) — German Federal Statistical Office tables.
+- [Germany — Destatis GENESIS](https://genesis.destatis.de/datenbank/online/) — German Federal Statistical Office tables.
 - [Austria — Statistics Austria](https://www.statistik.at/en) — Austrian official statistics.
 - [Austria — data.gv.at](https://www.data.gv.at/) — Austrian government open-data catalog.
 - [France — INSEE](https://www.insee.fr/en/accueil) — French official statistics from INSEE.
