@@ -29,3 +29,6 @@ target-version = "py313"
 
 [tool.ruff.lint]
 select = ["E4", "E7", "E9", "F", "I"]
+
+[tool.uv]
+constraint-dependencies = ["certifi>=2026.10.19"]
