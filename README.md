@@ -94,13 +94,14 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 - [arbeit.swiss](https://www.amstat.ch/v2/amstat_de.html) — SECO labor-market statistics.
 - [Eidgenössische Steuerverwaltung](https://www.estv.admin.ch/estv/de/home/die-estv/steuerstatistiken-estv.html) — Federal Tax Administration tax statistics.
 - [KOF Data Service](https://data.kof.ethz.ch/) — ETH Zürich KOF economic time series and metadata. API guide for CSV, XLSX and JSON downloads; includes restricted series, so select public indicators and verify reuse terms.
-- [Historical Statistics of Switzerland](https://hsso.ch/en) — Historical Swiss statistics compiled by a research project.
 - [dataseries.org](https://dataseries.org/) — Swiss economic time series from the SNB, SECO, KOF, FSO and others in one catalog maintained by cynkra. CSV and JSON downloads; the original publishers’ reuse terms apply. [API documentation](https://dataseries.org/libraries).
+- [SDC development finance data](https://www.deza.eda.admin.ch/en/development-finance-data) — Swiss Agency for Development and Cooperation aid activities, budgets and expenditure. IATI XML files and spreadsheets on Swiss official development assistance.
 
 #### Health and social insurance
 
 - [Bundesamt für Gesundheit BAG](https://www.bag.admin.ch/de/zahlen-statistiken) — Federal Office of Public Health statistics directory. Use the topic pages to find reports, tables and related dashboards.
 - [Dashboard health insurance OKP](https://kvd.bag.admin.ch/) — BAG indicators on compulsory health insurance in Switzerland.
+- [Priminfo premium data](https://www.priminfo.admin.ch/de/downloads/aktuell) — BAG-approved compulsory health-insurance premiums and premium regions. [CSV/XLSX data and historical downloads](https://opendata.swiss/en/dataset/health-insurance-premiums).
 - [Key data on Swiss hospitals](https://www.bag.admin.ch/fr/chiffres-cles-des-hopitaux-suisses) — BAG hospital indicators covering structure, patients, services, staff and finances. [2024 spreadsheets and historical series](https://opendata.swiss/de/dataset/kennzahlen-der-schweizer-spitaler-2024).
 - [Versorgungsatlas](https://www.versorgungsatlas.ch/) — Health-care indicators from BAG and the [Swiss Health Observatory](https://www.obsan.admin.ch/en).
 - [Infectious Diseases Dashboard (IDD)](https://idd.bag.admin.ch/) — Federal Office of Public Health dashboard on reported infectious diseases in Switzerland and Liechtenstein.
@@ -120,6 +121,7 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 - [Schweizer Nährwertdatenbank](https://naehrwertdaten.ch/de/) — Federal Food Safety and Veterinary Office data on the composition of foods available in Switzerland.
 - [Agristat](https://www.sbv-usp.ch/de/services/agristat-statistik-der-schweizer-landwirtschaft) — Agricultural statistics from the Swiss Farmers’ Union, a non-government publisher. Verify reuse terms for individual products.
 - [Identitas Tierstatistik](https://tierstatistik.identitas.ch/en/index.html) — Livestock and companion-animal statistics from Identitas.
+- [Agroscope research data](https://zenodo.org/communities/agroscope/records) — Agricultural research datasets and supporting material published by Agroscope on Zenodo, including crop physiology, soil and water experiments. Check each record’s file access and license.
 
 #### Energy
 
@@ -144,11 +146,15 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 
 #### Environment, climate and biodiversity
 
-- [Bundesamt für Umwelt BAFU](https://www.bafu.admin.ch/bafu/de/home/zustand.html) — Federal Office for the Environment indicators and environmental reporting.
+- [Bundesamt für Umwelt BAFU](https://www.bafu.admin.ch/bafu/de/home/zustand.html) — Federal Office for the Environment indicators and environmental reporting. [Environmental data platform and GraphQL API](https://data.bafu.admin.ch/).
+- [NABEL air-quality data](https://www.bafu.admin.ch/de/datenabfrage-nabel) — BAFU and Empa air-pollution observations from Swiss monitoring stations, with CSV exports of hourly, daily and annual values. Measurements for the ongoing year are provisional.
+- [SwissPRTR](https://www.bafu.admin.ch/de/swissprtr) — BAFU pollutant-release and transfer register, covering emissions and waste transfers from reporting facilities and diffuse sources. Historical data are downloadable in Excel format.
 - [Bundesamt für Meteorologie und Klimatologie MeteoSchweiz](https://www.meteoswiss.admin.ch/services-and-publications/service/open-data.html) — Federal weather and climate observations and forecast products under CC BY 4.0. [Download documentation](https://opendatadocs.meteoswiss.ch/general/download).
 - [SLF data service](https://www.slf.ch/en/services-and-products/slf-data-service/) — WSL Institute for Snow and Avalanche Research observations used in avalanche warnings.
 - [«Hydrodaten» Bundesamt für Umwelt BAFU](https://www.hydrodaten.admin.ch/de/aktuelle-lage) — Federal Office for the Environment hydrological observations and forecasts. [LINDAS dataset metadata](https://environment.ld.admin.ch/.well-known/void/dataset/hydro).
 - [GLAMOS DOI products](https://doi.glamos.ch/) — Swiss glacier inventories and change measurements from the GLAMOS monitoring program. Versioned downloads with persistent identifiers and CC BY 4.0 licenses.
+- [PERMOS data portal](https://www.permos.ch/data-portal) — Swiss permafrost-monitoring observations, including ground temperatures, active-layer thickness, electrical resistivity and rock-glacier movement. Downloads and versioned DOI releases under CC BY 4.0.
+- [ICOS Switzerland](https://www.icos-switzerland.ch/network) — Research observations of greenhouse gases and ecosystem fluxes at Jungfraujoch, Davos and Basel. Quality-controlled products are available under CC BY 4.0 through the [ICOS Carbon Portal](https://data.icos-cp.eu/portal/); programmatic downloads require a free account.
 - [Swiss National Fauna Databank](https://ipt.gbif.ch/resource?r=ifn) — InfoSpecies species-occurrence records for Switzerland, downloadable as Darwin Core under CC BY 4.0.
 - [Jagdstatistik](https://www.jagdstatistik.ch/de/home) — Federal Office for the Environment hunting and wildlife statistics.
 
@@ -170,22 +176,29 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 Research data from Swiss institutions and collaborations complements OGD. Licenses and access restrictions vary by record.
 
 - [FORS SWISSUbase](https://www.swissubase.ch/de/) — Cross-disciplinary repository for Swiss research. Access conditions and licenses vary by record.
+- [ETH Zürich Research Collection](https://www.research-collection.ethz.ch/) — Institutional repository for research datasets, models, software and publications. Select research-data records and check their file access and licenses; some records are restricted or permit only non-commercial reuse.
+- [ERIC/open](https://opendata.eawag.ch/) — Eawag aquatic-research repository with downloadable data packages and DOIs, including Swiss water-quality, wastewater and lake studies. Metadata are public domain; file-level reuse terms vary.
+- [OLOS](https://portal.skprd.olos.swiss/) — Swiss research-data repository with DOI-linked datasets from participating institutions. Includes public, embargoed and restricted archives; check each record’s access level and file license.
 - [Schweizerischer Nationalfonds SNF](https://data.snf.ch/datasets) — Swiss National Science Foundation research-funding data. [Data-story repositories](https://github.com/snsf-data).
 - [CERN](https://opendata.cern.ch/) — Particle-physics research data from CERN experiments.
 - [DaSCH Service Platform](https://dasch.swiss/about-us/platform) — Humanities research-data repository. Linked Data, IIIF and REST services; verify record-level access and reuse conditions.
 - [Materials Cloud Archive](https://archive.materialscloud.org/about) — Computational-materials research repository with versioned dataset downloads.
+- [BORIS Portal](https://boris-portal.unibe.ch/) — University of Bern and Inselspital research-data repository with DOI releases. Includes open, embargoed and controlled-access records; select downloadable files with an open license.
 
 #### Cultural heritage and archives
 
 Discovery resources for cultural and historical material. Open metadata does not establish reuse rights for images, recordings or documents. Collections may include restricted records; check each item’s rights and access information.
 
 - [e-rara](https://www.e-rara.ch/) — Digitized Swiss printed works. Check the rights statement for each digitized work. [OAI-PMH, IIIF, full-text and download interfaces](https://www.e-rara.ch/wiki/apiinfo).
+- [e-codices](https://e-codices.unifr.ch/en) — Virtual manuscript library of Switzerland. Metadata and previews supplied through OAI-PMH are freely reusable; full-resolution images and individual scholarly descriptions can have additional restrictions. [Reuse terms and OAI-PMH endpoints](https://e-codices.unifr.ch/en/about/terms).
 - [Memoriav Memobase](https://memobase.ch/de/start) — Swiss audiovisual heritage discovery portal. Recording and image rights vary by item.
 - [DODIS](https://dodis.ch/search) — Swiss diplomatic-history research database. Consult item-level rights before reusing document images.
 - [Schweizer Landesmuseum](https://sammlung.nationalmuseum.ch/de/maincategory) — Swiss National Museum collection catalog. Catalog descriptions and object photographs may have different reuse conditions.
 - [Swiss Federal Archives](https://www.recherche.bar.admin.ch/recherche/) — Federal archival discovery catalog for Swiss history. Finding aids and available digital documents; some records require an order or access permission.
 - [Schweizerisches Idiotikon](https://idiotikon.ch/projekte) — Research resources documenting Swiss German dialects. Consult the terms of each resource.
 - [Ortsnamen.ch](https://www.ortsnamen.ch/de/) — Research catalog of Swiss place names. [Map search](https://search.ortsnamen.ch/de) · [REST API documentation](https://search.ortsnamen.ch/static/api/swagger/index.html).
+- [Swiss National Library open metadata](https://www.nb.admin.ch/en/open-data-policy-en) — Bibliographic metadata from Helveticat and the Bibliography of Swiss History, reusable without restrictions. MARC21 via Z39.50 and OAI-PMH on request; rights to the described publications are separate.
+- [ETH Library Open Data](https://library.ethz.ch/sammlungen-und-archive/open-data.html) — Bibliographic metadata and digitized collections from ETH Library. Reuse rights vary by collection and item. [API platform](https://library.ethz.ch/sammlungen-und-archive/open-data/api-platform.html) covers discovery, georeferenced documents and people; requires registration for an API key.
 
 ### Cantonal portals
 
@@ -200,7 +213,7 @@ Selected cantonal catalogs and statistics portals; coverage varies by portal typ
 - [Fribourg / Freiburg Statistical Office](https://www.fr.ch/de/vwbd/stata) — Cantonal official statistics.
 - [Geneva](https://statistique.ge.ch/) — Cantonal official statistics. See [SITG](#cantonal-and-municipal-geoportals) for geodata.
 - [Glarus](https://opendata.swiss/en/organization/kanton-glarus) — Cantonal and Landsgemeinde datasets. Tabular and geospatial resources on opendata.swiss.
-- [Graubünden](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx) — Cantonal official statistics.
+- [Graubünden](https://data.gr.ch/explore/) — Cantonal open-data catalog with tabular and geospatial downloads and APIs. [Official statistics](https://www.gr.ch/DE/institutionen/verwaltung/dvs/awt/statistik/Seiten/home.aspx).
 - [Jura](https://stat.jura.ch/) — Cantonal official statistics.
 - [Luzern](https://opendata.lu.ch/) — Cantonal open-data entry point linking to publishing departments and their datasets. [LUSTAT official statistics](https://www.lustat.ch).
 - [Neuchâtel](https://www.ne.ch/autorites/DFS/STAT/Pages/accueil.aspx) — Cantonal official statistics.
