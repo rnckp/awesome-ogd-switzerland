@@ -12,6 +12,8 @@ OGD comes from public authorities; open data can come from any publisher. Inclus
 
 Know a useful resource? [Share a link](https://github.com/rnckp/awesome-ogd-switzerland/issues/new)—suggestions and corrections are always welcome.
 
+Related Swiss guides: [legal sources, datasets and tools](https://github.com/rnckp/awesome-open-legal-switzerland) and [Apertus models, tools and projects](https://github.com/rnckp/awesome-ai-switzerland).
+
 <details>
 <summary><strong>Table of Contents</strong></summary>
 
