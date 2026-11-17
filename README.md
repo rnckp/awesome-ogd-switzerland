@@ -462,7 +462,7 @@ To edit directly, use `Resource name — contents and coverage.` in one or two s
 
 For broken links, please mention what happened: a missing page, an access block or a connection error.
 
-For maintenance scripts, development commands and the agent skill, see the [helper documentation](src/README.md).
+For maintenance scripts, development commands and the agent skill, see the [helper documentation](https://github.com/rnckp/awesome-ogd-switzerland/blob/main/src/README.md).
 
 ### Curation policy
 

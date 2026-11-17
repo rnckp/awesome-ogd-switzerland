@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body class="{% if page.permalink == '/' %}home{% endif %}">
+    <a class="skip-link" href="#content">Skip to content</a>
+    <header class="site-header shell">
+      <a class="wordmark" href="{{ '/' | relative_url }}" aria-label="Awesome Open Government Data Switzerland home">
+        Awesome Open Government Data Switzerland
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}" {% if page.permalink == '/' %}aria-current="page"{% endif %}>Resources</a>
+        <a href="https://github.com/{{ site.repository }}">GitHub</a>
+      </nav>
+    </header>
+
+    <div class="page-grid shell">
+      <aside class="sidebar">
+        <nav class="section-index" aria-label="On this page">
+          <p class="index-title">Contents</p>
+          <ul>
+            {% assign sections = content | split: '<h2 id="' %}
+            {% for section in sections offset:1 %}
+              {% assign section_id = section | split: '"' | first %}
+              {% assign section_heading = section | split: '</h2>' | first | split: '">' | last | strip_html %}
+              <li><a href="#{{ section_id | escape }}">{{ section_heading | escape_once }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+      </aside>
+
+      <main id="content" tabindex="-1">
+        <article class="resource-content">
+          {{ content | replace: '<table>', '<div class="table-scroll" role="region" aria-label="Resource comparison" tabindex="0"><table>' | replace: '</table>', '</table></div>' }}
+        </article>
+      </main>
+    </div>
+
+    <footer class="site-footer shell">
+      <p>Independent, community-maintained directory.</p>
+      <nav aria-label="Footer navigation">
+        <a href="{{ '/#curation-and-contributions' | relative_url }}">Contribute</a>
+        <a href="https://github.com/{{ site.repository }}">Source on GitHub</a>
+        <a href="{{ '/LICENSE' | relative_url }}">CC0 licence</a>
+      </nav>
+    </footer>
+  </body>
+</html>

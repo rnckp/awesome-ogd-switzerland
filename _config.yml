@@ -1,0 +1,48 @@
+title: Awesome Open Government Data Switzerland
+description: A curated directory of Swiss open data sources, tools and learning resources.
+url: https://rnckp.github.io
+baseurl: /awesome-ogd-switzerland
+repository: rnckp/awesome-ogd-switzerland
+plugins:
+  - jekyll-seo-tag
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+
+include:
+  - README.md
+  - LICENSE
+
+readme_index:
+  remove_originals: true
+
+optional_front_matter:
+  remove_originals: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "README.md"
+    values:
+      permalink: /
+
+exclude:
+  - RESEARCH.md
+  - .agents
+  - .devcontainer
+  - REFACTOR.md
+  - AGENTS.md
+  - src
+  - pyproject.toml
+  - uv.lock
+  - _.code-workspace
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - tests
+  - Makefile
+  - count_sources.md
+  - link-check-report.md
