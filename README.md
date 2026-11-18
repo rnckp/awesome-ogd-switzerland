@@ -56,7 +56,8 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 
 #### Catalogs and official statistics
 
-- [opendata.swiss](https://opendata.swiss/de) — National OGD metadata catalog operated by the Federal Statistical Office (BFS/FSO). Find datasets from federal, cantonal and municipal publishers; follow each record to its downloads or services. [Catalog API](https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html).
+- [opendata.swiss](https://opendata.swiss/de) — National OGD metadata catalog operated by the Federal Statistical Office (BFS/FSO). Find datasets from federal, cantonal and municipal publishers; follow each record to its downloads or services. [Catalog API](https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html) · [Portal modernization](https://opendata.swiss/en/opendata-swiss-next).
+- [opendata.swiss quarterly metadata snapshot](https://statistik.admin.ch/de/asset/36858203) — Federal Statistical Office CSV export of catalog metadata, useful for comparing catalog coverage over time. The linked snapshot covers September 30, 2026 and permits reuse with attribution.
 - [BFS Data Portal](https://data.bfs.admin.ch/) — Overview of BFS datasets by statistical topic and access type. Use it to find spreadsheet tables, machine-readable files and API-accessible data.
 - [BFS Swiss Stats Explorer](https://stats.swiss/) — Interactive explorer for BFS statistics, succeeding STAT-TAB. Use it to browse statistical data and select the dimensions needed for an analysis.
 - [BFS STAT-TAB](https://www.pxweb.bfs.admin.ch/pxweb/en/) — Interactive BFS tables built from selectable data cubes, with exports in several formats. Some cubes are moving to [Swiss Stats Explorer](https://stats.swiss/); check there if a table is missing.
@@ -74,7 +75,7 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 
 #### Politics, elections and votes
 
-- [Schweizer Parlament](https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services) — Swiss Parliament open-data services.
+- [Schweizer Parlament](https://www.parlament.ch/de/%C3%BCber-das-parlament/fakten-und-zahlen/open-data-web-services) — Swiss Parliament’s Open Data Webservice requires free registration and an API key. The legacy JSON/XML service retires by the end of 2027 and the legacy OData service by the end of 2028.
 - [OpenParlData.ch](https://openparldata.ch/) — Community project harmonizing parliamentary proceedings, actors, votes and related records across Swiss levels of government. [API documentation](https://api.openparldata.ch/documentation) · [Coverage directory](https://admin.openparldata.ch/#/bodies).
 - [Swissvotes](https://swissvotes.ch/page/dataset) — Research dataset on Swiss federal popular votes since 1848, with CSV/XLSX downloads and a codebook under CC BY 4.0.
 - [Federal Popular Votes Dashboard](https://abstimmungen.admin.ch/en/overview) — Official federal popular-vote results, including historical and voting-day data. [JSON dataset/API information](https://opendata.swiss/en/dataset/echtzeitdaten-am-abstimmungstag-zu-eidgenoessischen-abstimmungsvorlagen).
@@ -113,7 +114,7 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 
 #### Population, migration and religion
 
-- [Staatssekretariat für Migration SEM](https://www.sem.admin.ch/sem/de/home/publiservice/statistik.html) — State Secretariat for Migration statistics.
+- [State Secretariat for Migration (SEM)](https://www.sem.admin.ch/de/auslaenderstatistik) — Monthly and annual statistics on foreign nationals, including population, residence permits and migration flows. [Asylum statistics](https://www.sem.admin.ch/de/asylstatistik).
 - [Christian Catholic Church Switzerland](https://christkatholisch.ch/angebote/opendata/) — Data published by the Christian Catholic Church of Switzerland, a non-government source.
 
 #### Agriculture and food
@@ -139,7 +140,7 @@ Federal and regional OGD alongside other Swiss open data. “National” groups 
 - [Bundesamt für Wohnungswesen BWO – Wohnungsmarkt](https://www.bwo.admin.ch/de/wohnungsmarkt) — Federal Housing Office housing-market indicators. [Market overview](https://www.bwo.admin.ch/de/wohnungsmarkt-auf-einen-blick) · [Housing statistics](https://www.bwo.admin.ch/de/zahlen-und-fakten-wohnen).
 - [BFS Bau- und Wohnungswesen](https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen.html) — BFS construction and housing statistics, including activity, vacancies and housing stock.
 - [Schweizerischer Baupreisindex (BAP)](https://www.bfs.admin.ch/bfs/de/home/statistiken/preise/baupreise.html) — BFS construction price index for building construction and civil engineering.
-- [Wohnimmobilienpreisindex (IMPI)](https://www.bfs.admin.ch/bfs/de/home/statistiken/preise/erhebungen/impi.html) — BFS quarterly residential property price index for owner-occupied homes.
+- [Wohnimmobilienpreisindex (IMPI)](https://statistik.admin.ch/de/themen/preise/immobilienpreise) — BFS quarterly residential property price index for owner-occupied homes, with downloadable series from 2017.
 - [Mietpreisindex (MPI)](https://www.bfs.admin.ch/bfs/de/home/statistiken/preise/erhebungen/mpi.html) — BFS rental price index for permanently rented dwellings.
 - [ARE – Daten und Analysen](https://www.are.admin.ch/de/daten) — Federal Office for Spatial Development spatial monitoring, building-zone and settlement data.
 - [ÖREB-Kataster](https://www.cadastre.ch/de/oereb-kataster) — Cadastre of public-law restrictions on landownership. Information on obtaining parcel-level extracts; consult the relevant canton for data services.
@@ -181,7 +182,7 @@ Research data from Swiss institutions and collaborations complements OGD. Licens
 - [ETH Zürich Research Collection](https://www.research-collection.ethz.ch/) — Institutional repository for research datasets, models, software and publications. Select research-data records and check their file access and licenses; some records are restricted or permit only non-commercial reuse.
 - [ERIC/open](https://opendata.eawag.ch/) — Eawag aquatic-research repository with downloadable data packages and DOIs, including Swiss water-quality, wastewater and lake studies. Metadata are public domain; file-level reuse terms vary.
 - [OLOS](https://portal.skprd.olos.swiss/) — Swiss research-data repository with DOI-linked datasets from participating institutions. Includes public, embargoed and restricted archives; check each record’s access level and file license.
-- [Schweizerischer Nationalfonds SNF](https://data.snf.ch/datasets) — Swiss National Science Foundation research-funding data. [Data-story repositories](https://github.com/snsf-data).
+- [Schweizerischer Nationalfonds SNF](https://data.snf.ch/datasets) — Downloadable tables on Swiss National Science Foundation grants and research outputs. The [grant search and data portal](https://data.snf.ch/) cover funded projects since 1975. [Data-story repositories](https://github.com/snsf-data).
 - [CERN](https://opendata.cern.ch/) — Particle-physics research data from CERN experiments.
 - [DaSCH Service Platform](https://dasch.swiss/about-us/platform) — Humanities research-data repository. Linked Data, IIIF and REST services; verify record-level access and reuse conditions.
 - [Materials Cloud Archive](https://archive.materialscloud.org/about) — Computational-materials research repository with versioned dataset downloads.
@@ -193,14 +194,14 @@ Discovery resources for cultural and historical material. Open metadata does not
 
 - [e-rara](https://www.e-rara.ch/) — Digitized Swiss printed works. Check the rights statement for each digitized work. [OAI-PMH, IIIF, full-text and download interfaces](https://www.e-rara.ch/wiki/apiinfo).
 - [e-codices](https://e-codices.unifr.ch/en) — Virtual manuscript library of Switzerland. Metadata and previews supplied through OAI-PMH are freely reusable; full-resolution images and individual scholarly descriptions can have additional restrictions. [Reuse terms and OAI-PMH endpoints](https://e-codices.unifr.ch/en/about/terms).
-- [Memoriav Memobase](https://memobase.ch/de/start) — Swiss audiovisual heritage discovery portal. Recording and image rights vary by item.
+- [Memoriav Memobase](https://memobase.ch/de/start) — Swiss audiovisual heritage discovery portal. The [linked-data API](https://api.memobase.ch/documentation?concept=record) provides selected metadata under CC0. Recording and image rights vary by item.
 - [DODIS](https://dodis.ch/search) — Swiss diplomatic-history research database. Consult item-level rights before reusing document images.
 - [Schweizer Landesmuseum](https://sammlung.nationalmuseum.ch/de/maincategory) — Swiss National Museum collection catalog. Catalog descriptions and object photographs may have different reuse conditions.
 - [Swiss Federal Archives](https://www.recherche.bar.admin.ch/recherche/) — Federal archival discovery catalog for Swiss history. Finding aids and available digital documents; some records require an order or access permission.
 - [Schweizerisches Idiotikon](https://idiotikon.ch/projekte) — Research resources documenting Swiss German dialects. Consult the terms of each resource.
 - [Ortsnamen.ch](https://www.ortsnamen.ch/de/) — Research catalog of Swiss place names. [Map search](https://search.ortsnamen.ch/de) · [REST API documentation](https://search.ortsnamen.ch/static/api/swagger/index.html).
 - [Swiss National Library open metadata](https://www.nb.admin.ch/en/open-data-policy-en) — Bibliographic metadata from Helveticat and the Bibliography of Swiss History, reusable without restrictions. MARC21 via Z39.50 and OAI-PMH on request; rights to the described publications are separate.
-- [ETH Library Open Data](https://library.ethz.ch/sammlungen-und-archive/open-data.html) — Bibliographic metadata and digitized collections from ETH Library. Reuse rights vary by collection and item. [API platform](https://library.ethz.ch/sammlungen-und-archive/open-data/api-platform.html) covers discovery, georeferenced documents and people; requires registration for an API key.
+- [ETH Library Open Data](https://library.ethz.ch/sammlungen-und-archive/open-data.html) — Bibliographic metadata and digitized collections from ETH Library. Reuse rights vary by collection and item. [Developer portal](https://developer.library.ethz.ch/) · [OpenAPI specifications](https://eth-library.github.io/opendata-apis/). API access requires registration.
 
 ### Cantonal portals
 
@@ -211,7 +212,7 @@ Selected cantonal catalogs and statistics portals; coverage varies by portal typ
 - [Basel-Landschaft](https://data.bl.ch/explore/) — Cantonal open-data catalog.
 - [Basel-Landschaft Statistical Office](https://www.baselland.ch/politik-und-behorden/direktionen/finanz-und-kirchendirektion/daten-statistik) — Cantonal official statistics.
 - [Bern](https://www.fin.be.ch/de/start/themen/OeffentlicheStatistik/statistikportal.html) — Cantonal official statistics.
-- [Fribourg / Freiburg](https://opendata.fr.ch/pages/home/) — Cantonal open-data catalog.
+- [Fribourg / Freiburg](https://opendata.fr.ch/pages/home/) — Cantonal open-data catalog. The [municipal profiles](https://opendata.fr.ch/pages/portrait-communes-fribourg/) compare local demographic, fiscal, employment and other indicators with linked downloads.
 - [Fribourg / Freiburg Statistical Office](https://www.fr.ch/de/vwbd/stata) — Cantonal official statistics.
 - [Geneva](https://statistique.ge.ch/) — Cantonal official statistics. See [SITG](#cantonal-and-municipal-geoportals) for geodata.
 - [Glarus](https://opendata.swiss/en/organization/kanton-glarus) — Cantonal and Landsgemeinde datasets. Tabular and geospatial resources on opendata.swiss.
@@ -254,7 +255,8 @@ Selected municipal catalogs and statistics portals. Check the linked canton for 
 
 Federal and shared regional discovery services. Metadata and maps can include layers whose download and reuse conditions differ.
 
-- [swisstopo](https://www.swisstopo.admin.ch/de/geodata.html) — Federal Office of Topography geodata products.
+- [SWISSGEO](https://www.swissgeo.ch/de/) — Joint federal and cantonal platform for finding and viewing official geodata across jurisdictions. Launched November 17, 2026; existing portals remain available during the rollout.
+- [swisstopo](https://www.swisstopo.admin.ch/de/geodata.html) — Federal Office of Topography geodata products. [swissGEOCOVER2D](https://www.swisstopo.admin.ch/en/geological-model-2d-geocover) provides downloadable surface geology in GeoPackage and other GIS formats.
 - [geo.admin.ch](https://www.geo.admin.ch/de/home.html) — Federal geodata services and map information. [Service documentation](https://docs.geo.admin.ch/) · [STAC download API information](https://www.geo.admin.ch/de/geo-dienstleistungen/geodienste/downloadienste/stac-api.html) · [Linked data](https://geo.ld.admin.ch).
 - [geo.admin.ch — Strassenverzeichnis](https://map.geo.admin.ch/#/map?lang=de&center=2660000,1190000&z=1&topic=ech&layers=ch.swisstopo.amtliches-strassenverzeichnis&bgLayer=ch.swisstopo.pixelkarte-farbe) — Official Swiss street-name directory. Map layer in the federal viewer.
 - [geocat](https://www.geocat.ch) — Swiss geodata metadata catalog operated by swisstopo. Access conditions vary by record.
@@ -370,6 +372,7 @@ Software and repository indexes. Check each project’s license; listing does no
 ## Guides, standards and policy
 
 - [Swiss OGD information](https://www.bfs.admin.ch/bfs/en/home/services/ogd.html) — Federal guidance on Open Government Data.
+- [Commercial reuse of federal statistics](https://www.bfs.admin.ch/de/kommerzielle-nutzung) — The Federal Statistical Office explains the July 2026 change allowing commercial reuse of published federal statistical results with attribution.
 - [Swiss OGD Master Plan 2024–2027](https://www.bk.admin.ch/bk/en/home/digitale-transformation-ikt-lenkung/vorgaben/sn004-open_government_data_strategie_schweiz.html) — Federal open-by-default objectives and implementation measures for 2024–2027.
 - [Geschäftsstelle OGD BFS](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/geschaeftsstelle.html) — Federal OGD coordination and support for publishers and users.
 - [Digitale Verwaltung Schweiz](https://www.digitale-verwaltung-schweiz.ch/) — Public-sector digital transformation programs and guidance from Digital Public Services Switzerland.
